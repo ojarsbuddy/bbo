@@ -1,6 +1,6 @@
 bbo directing messages.md
 
-#create tournament
+# create tournament
 
 BBUT 500
 
@@ -8,7 +8,7 @@ BBUT 500
 +MPLIMIT=123+
 http://webutil.bridgebase.com/v2/tarchive.php?m=h&h=vacb240341&d=vacb240341
 
-#tournament beginning
+# tournament beginning
 
 Please play quickly, alert your own bids, claim when you can. 
 Keep all chat until the end of the round. 
@@ -61,7 +61,7 @@ When presented with a claim, click the accept or reject buttons.
 
 
 
-#at the table
+# at the table
 
 Director here! How can I help?
 
@@ -95,4 +95,4 @@ A request for an explanation needs to be honored to clear the box.
 
 
 
-#notes to director
+# notes to director
