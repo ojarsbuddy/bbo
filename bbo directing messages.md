@@ -1,149 +1,570 @@
-bbo directing messages.md
+# club onboarding.md
 
+## 2020.03.27
 
-# create tournament
+acbl@bbo.com or acbl@bridgebase.com to change the playernumber
 
-BBUT 500
+search for games
+game naming
 
-+allavail+
-+MPLIMIT=123+
-+MPLIMIT=49+
+point multiplier early in the week
 
-http://webutil.bridgebase.com/v2/tarchive.php?m=h&h=vacb240341&d=vacb240341
+check acbl live for acbl points
 
+limit of 3 games to set up
 
-# tournament beginning
+increase time in a round
 
-Please be online and active on BBO a few minutes prior to game time to seal the deal.
+kick a person out feature
 
-12 partners offline or inactive on BBO. Where is your partner now?
+life master letter issue
 
-Pairs will not get seated when one of the pair does not have sufficient BB$ in their account.
+bridgeindallas.com videos
 
-Players cutting it close to the start time: BBO does not seat your pair if one of you is offline or one of you is online but inactive on BBO or one of you has insufficient BBO funds.
+## 2020.03.28
 
-The near miss crew are just logging on now.
+julie used robots -- no acbl number, so no masterpoints?
 
-Hail, Hail, The band's all here!
+til monday afternoon for acbl live
 
-Please play quickly, alert your own bids, claim when you can. 
-Keep all chat until the end of the round. 
-Be kind, Zero Tolerance.
+changes to ui is going into a black hole
 
-No revokes, no leads out of turn, no bids out of turn, no insufficient bids!
-No spilled drinks, no soft pillows, no moving to the next table!
+next meeting monday
 
-Welcome to this meet of the Everglades Virtual Bridge Club
+## 2020.03.30
 
-Slow tables, note that play ceases when a round ends.
+description field hack
 
-The GIB Robot adjusts unfinished boards. If GIB gets stuck on a board, a director will review the board and may adjust it.
+permanent assignment hack / reseat hack
 
-Click on the blue box in the chat window to pick your chat recipient
+MP limits hack
 
-Remember to self-alert conventional bids.
+pooling clubs option manage include lists
 
-Open Chart applies; Your convention card will default to SAYC if it is not set to something else.
+live for clubs
 
-Your convention card will default to SAYC if it is not set to something else.
+## 2020.03.31
 
+tripled ACBL renewal and new members
 
-Welcome to the afternoon game at The Everglades Virtual Bridge Club. Please self-alert your own bids. Please claim when you can. Please defer chat until end of the round. Please be gracious to one and all.
+multiplier for private club games
 
-Welcome to the evening game at St. Andrews Virtual Bridge Club. Please self-alert your own bids. Please claim when you can and it makes sense. Please defer chat until end of the round. Please be gracious to one and all.
+legitimate affiliation friends list
 
+client change virtually impossible to chnge, server change is possible
 
-# to all during play
+plus allavail?
 
-Have a Nice Game!!
+<https://www.sagamorebridgeclub.com/help-everything-bbo>
 
-Thank you for playing today!
+I found that after you add a friend, if you click on hosts to change the list and then click back to friends, the one you added will appear.
 
-Please be mindful of the clock.
+communicating while playing - ethics of bridge
 
-To call a Director, click the blue box that has the 3 lines within. 
-Your convention card will default to SAYC if it is not set to something else. 
-Above all, have fun!
+I have distributed this video to all my members and it has been very helpful <https://www.youtube.com/watch?v=MldFbBdea90>
 
-The bidding window includes a line for alerts. Click the alert button, fill in the areement description and then make your bid.
+## 2020.04.01 4PM meeting
 
-To Alert: We self alert: First click the alert button in the bidding box before making a call and type your explanation in box provided, then make your call. This ensures that opponents receive the information they need about your agreements and your partner will not see it.
+greg.coles@acbl.org
+jay3@me.com
 
-To call the TD: There's a blue box with 3 white lines at the top of your table. You will find table options there like calling the TD, checking opps convention card etc.
+blocked pair - both must have ACBL numbers
+ACBL numbers newly entered are recognized next day
 
-Misclicks happen. Undos are not allowed, nor is announcing your mistakes. When this happens, continue. To avoid this, use your account setting to toggle on CONFIRM BIDS and/or CONFIRM CARDS.
+## 2020.04.01 7PM meeting
 
-Claim hands when you can. BE KIND, Zero tolerance in effect. Have fun!
+start games off the hour so as not to compete against the speedballs
 
-Click a bid made by an opponent to silently request an explanation.
+substitutions: data on player, house players for subs
 
-Clock is winding down, pick up the pace if you are still playing.
+pooling clubs: 10 groups are doing it
 
-When presented with a claim, click the accept or reject buttons.
+alliances of clubs: keep track of billing
 
-your yellow means it is your turn
+people ignores - entries tab check exclude following host
 
-That yellow color is a cue that player has an action
+accounting@bridgebase.com for BB\$ problems
 
-dummy excepted! declarer has that duty
+bbo director training video
 
-To speed play consider Account, Settings, Autoplay singletons.
+12-17 boards 60% of full award
 
-# at the table
+my BBO ID is: vacb232132 aviv
 
-Director here! How can I help?
+Elizabeth.erling@gmail.com
 
-North, are you there?
-Your call North.
-North, your play.
+## 2020.04.02
 
-South, are you there?
-Your call South.
-South, your play.
+have to be quick at the end -- click on players results
 
-East, are you there?
-Your call East.
-East, your play.
+cannot change number of boards -- you are stuck
 
-West, are you there?
-Your call West.
-West, your play.
+substitute select put in their name
 
-Let's wait a minute to see if partner returns.
+autorenewal option
 
-Will reseat you soonest.
+checks after 2 weeks is the hope
 
-You're back!
+online club last forever
 
-Thank you for substituting!
+## 2020.04.03
 
-Please play quickly. Claim when you can.
+mp limit blocks people without an acbl number
 
-Please pick up the pace so you do not lose a board.
+csv versions of reports via common game
 
-Please keep all chat until the end of the round.
+show how to search for clubs
 
-A request for an explanation needs to be honored to clear the pop up box. 
+pooling <https://my.acbl.org/clubs/profile/254177>
 
-It is declarer who must play a card from Dummy if it is Dummy's turn to play a card.
+alliances - like pooling but with criteria/filter
 
+greg.coles@acbl.org
 
-# end of session
+unregister off line pairs issue
 
-Thank you for playing this afternoon. Results will be ready soon after at https://my.acbl.org/club-results/240341 or https://standrewsbridge.com
+bbo takes 20% acbl sends us 80% we pay acbl fees
 
-Thank you for playing this afternoon. Results will be ready soon after at https://my.acbl.org/club-results/108480
+## 2020.04.04
 
-Thank you for playing this evening. Results will be ready soon after at https://my.acbl.org/club-results/108480
+do not recommend robots in a game
 
+do not add kibitzers
 
-# notes to director
-1330748 Lynn Kruger
- 487178 Dan Kruger
+the include an exclude lists are refreshed every night
 
-Crash beyond our control. 
+zero masterpoint problem with joining MPLIMIT games
 
-Substituting a specific player for the Sitout
-What DOES work-Use the Substitutes entry in Tournament Menu! Type ‘sitout’ and the name of your player.  Repeat.
-Alternatively, at the red username, choose sub any and then replace the sub with your specified username.  (???is this rude to the random sub?)
-(What does NOT work (at present)-click on the red username in the Table list or at the table-this is a bug and will be fixed at some point.)
+do not login as invisible
+
+BBO points are now full value
+
+## 2020.04.06
+
+allavail issues and usage - delay start of game to bring in players not online
+
+include lists expanded
+
+fixing ACBL numbers first to capture points first
+
+hand records after that
+
+teach players how to search for your club
+
+sort or filter the sub list
+
+strats 1/3rd 1/3rd 1/3rd average of the pair
+Mont
+everybody on the include ist is on your friends list
+
+autoplay trick 13 request
+
+don.freeland@gmail.com
+
+lag time for disconnects -- thought to be seconds
+
+masterpoints updated everyday
+
+change the movement before the game starts -- cannot do it after the game starts
+
+no refunds
+
+nasty c-word has come up -- talking on the phone with partner is prohibited, for example -- very strong BBO algorithms look for it -- there are severe consequences
+
+can change the times of the rounds during the games
+
+## 2020.04.07
+
+rogue tournaments -- crazy setup
+
+**_roster.csv === include list?_**
+
+**_duplicate entries in roster.csv_**
+
+**_add master points manually process_**
+
+**_send examples to greg.coles@acbl.org_**
+
+the check is in the mail, money comes mid-month, transfer option rather than check
+
+electronic regional?
+
+3 game max to add games
+
+unclock game for last round?
+
+Montreal?
+
+one chance for robots -- cancel the game and start over to change
+
+lower case letter bug is fixed
+
+master/slave or peer relationship for pooling
+
+bbut is the code that restricts who can play
+
+pooling document from greg proposed
+
+## 2020.04.08
+
+check name in live for clubs, fix ACBL number
+do not log in as invisible
+
+blocking issue -- only vacbxxxxxx can add friends -- wait 3 or 4 seconds, then modify tournament
+
+need .doc copy of our notes
+Rick.beye@acbl.org
+Learn to play OR direct from Silvana
+<https://www.sagamorebridgeclub.com/live-tutorial-sessions>
+
+two spots below ACBL World can also find Virtual Clubs -- then ACBL Virtual Clubs
+
+going to get an accounting report from the ACBL
+
+standby subs -- signup for subs and say only that game
+
+invite from OnPay, ACH or --
+
+SYC support your clubs
+
+less than 3 minutes to go will not start a new hand
+
+need some evidence other club agrees
+
+pooling document coming someday real soon now
+
+Send email to greg.coles@acbl.org with club numbers and EXACTLY what you want to happen pool / peer or master / slave
+
+look at wish list to vote
+
+team game?
+
+extend last round
+
+no user name sub can be entered into the same tournament twice
+
+## 2020.04.09
+
+greg.coles@acbl.org for pooling doc
+
++allavail+ won't start until all registered are in
+
+anybody without an ACBL number gets A strat
+
+accounting@bridgebase.com
+support@bridgebase.com
+
+substitute sign up after game starts for our game only
+
+tournament chat turned on?
+
+## 2020.04.10
+
+greg.coles@acbl.org ACBL, go with multiplier, extra 50% virtual clubs next week, probably Wednesday, although it will not be seen at BBO, but will be seen ACBL Live
+
+partnership list hack
+logoff logon hack
+
+quirks that work
+
+authentic ACBL directors input ACBL numbers
+
+@@@ scrub include list? @@@ subs do not go on include list, send example
+
+bbo prime memberships
+
+no meeting until monday
+
+## 2020.04.13
+
+@@@ kibitzers at end of play @@@ possibe
+
+@@@ funky keyboard input behaviour format/boards @@@ check, double check, triple check
+
+@@@ include list limit @@@ dna
+
+@@@ prep payment ACH letter @@@ email next couple of days
+
+testing Howell movements
+multiplier still Wednesday
+new poolmaster rick beye
+alliance trademark came up
+BBO is straining at the limit
+click to see if players alive
+iPad plays bad
+hand records after game ends
+
+## 2020.04.14
+
+overnight -- more points coming on ACBL Live
+
+give yourself time to make the adjustment to the game
+
+@@@where are the hand records@@@search for archive
+
+in a limited game must have an ACBL number
+
+team games? not coming soon. Hack it with ACBLscore and BBO.
+
+bbo support heavily backlogged
+
+## 2020.04.15
+
+multiplier is turned on this morning.
+
+@@@things going well -- congratulations -- worried@@@
+
+frozen? sub player for themselves -- might try!
+
+designate an ID to move money to a player's account
+
+skip tomorrow
+
+## 2020.14.17
+
+@@@does unregister work with allavail enabled?@@@ too dangerous, no fix applied
+
+@@@already have the common game -- refresh or are we okay?@@@ turned off, must refresh
+
+strats take into account BBO points
+
+lynn.chapin@acbl.org
+send me your poaching exception requests
+
+When requesting to use Common Game hands, PLEASE include the list of days and times of your games.
+
+run random hands if not ending in a window
+
+refresh the game to catch the nightly updates of the include list
+
+If BBO name is showing up it means that their ACBL number is not being reported properly
+
+money transferred to ACBL for March from BBO -- next week for us
+
+global release of players to all clubs
+
+## 2020.04.20
+
+@@@ TCG hands used with success, waiting for ACBL Live and the Common Game to show hands to customers @@@
+
+@@@ players playing chicken with starting BBO @@@
+
+@@@ appearance of unstable strange results modifying tournaments @@@ pairs behaviour @@@
+
+sending out SYC checks \$250 or more, less waits to combine with the virtual club money,which the ACBL has not received. Electronic transfer company is On Pay. email soon ...
+
+what can I name my game? Whatever you want.
+
+Nice web site from a nice little group
+<http://illinibridge.com/virtual.htm>
+
+<https://docs.google.com/document/d/1ukrQPcnzxi1V8nxgcCdjs5yOPTLuLkVSDd0irj0z8cE/edit?ts=5e7e29f1#>
+
+<https://docs.google.com/document/d/1ukrQPcnzxi1V8nxgcCdjs5yOPTLuLkVSDd0irj0z8cE/edit?ts=5e7e29f1>
+
+target subs used director menu
+
+## 2020.04.22
+
+@@@trouble with TCG hands@@@
+@@@onboarding a new club@@@ email greg
+
+friends list limit goes from 2000 to 12000
+
+strats are by highest, nonACBL go right into strat A
+
+teacher stuff
+
+create a perfect Howell -- read the notes
+
+virtual games gone when clubs reopen? Georgia Heth says no but changes will be made, special meetings underway, recommend electronic payments, email coming very soon
+
+pooling marketing tips, not charging enough, online regional 5 days 2 sessions a day, BBO wants a higher percentage
+
+known bug with modify, eventually it will work.
+
+## 2020.04.24
+
+@@@turnaround club onboarding response@@@ email greg
+@@@TCG hands too intricate for some of our directors@@@
+@@@Phil: different times for this meeting?@@@ nope!
+
+profile pictures gone
+
+ACBL numbers not in ==> no pay
+
+## 2020.04.27
+
+@@@ Robot subs @@@ must have! #1 priority
+@@@ trelsie ACBL number questions @@@ retroactive sweep not include L4C
+@@@ summer play @@@ go for it
+@@@ 38 issue @@@ user interface issue agreed
+
+big crash of BBO internet provider
+server problem uploading hands
+can average an event cannot average into an event
+296 clubs 400+ games 38 boards
+email this week - link to change address or electronic transfers
+ACBL members not in good standing issue -- active within the last 10 years
+all subs play free
+
+## 2020.04.29
+
+@@@ guidance on first poaching request @@@
+@@@ sub for robot failed failed failed @@@ work with don
+
+Leavng SYC games on during regional
+the player is always wrong
+subs automatically in strat A?
+77% rather than 80% but it is ball park.
+
+## 2020.05.05
+
+@@@ sub poach coincidence upsetting @@@
+@@@ include list high lexicals inaccessible @@@
+
+missed the meeting -- at Gleneagles
+
+## 2020.05.07
+
+guest partners at 5% meant for playing once in a while
+
+tournament directors on furlough
+
+not a STaC silver double regular club points coming up perhaps May 27
+
+longest day double black points
+
+payments coming - checks if not ACH, OP number
+
+training Tuesday Thursday
+
+messages chat click to get to chat manager -- check your channel, have to be at a table to use chat
+
+inviter gets seated south, inviter gets seated west -- will be documented
+
+BBO improving capacity by 30%
+
+can adjust the board at the table in play -- Phil has done this
+
+## 2020.05.12
+
+common game hand player
+
+email on details of silver point week -- triple points! extra fees \$6 per table -- charge more
+
+payments -- issues with data resolved with BBO. ACH might be there already.
+
+guest policy behind the club manager portal
+
+server issues 3pm
+
+other director can do everything except add friends, stuff boards, create games, etc.
+
+too easy to become dishonest; tempting normally ethical players. story by aviv about a suspicious pair. reminded one of the players about anomalies (claiming bbo might have eyes on your pair)
+
+## 2020.05.14
+
+@@@ why precise but not vacb246165 late in the Wednesday game @@@
+
+@@@ from where does vportal grab data @@@
+
+@@@ players with ACBL numbers seen with virtual portal but no name on ACBL Live @@@
+
+@@@ player with ACBL number could not be updated with virtual portal @@@ details to jay
+
+billing info in the dropbox for the club
+
+vportal can see who is ready to play, not the friends list
+
+check for each club that ran games
+
+different browser idea!
+
+Monday/Thursday next week
+
+## 2020.05.18
+
+Zoom sessions at the end to go over hands.
+
+What can we do that BBO cannot just replicate in their speedballs.
+
+People really want team games.
+
+Add fields to attendance report.
+
+Talked about recognition.
+
+Teaching games -- technology challenged.
+
+## 2020.05.28
+
+link to reporting abnormalities aka cheating
+
+log off log on so you can edit tournament when frustrated
+
+Players without ACBL numbers are stratified A
+
+@@@ Vportal offline indication include not enough BB\$? offline casual
+
+Money questions to greg.coles@acbl.org
+
+Maintenance of more tournaments
+
+## 2020.06.01
+
+@@@ what fun this morning! can see only those pending tournaments that have you on their include list. @@@
+
+@@@ top clubs not top pools @@@
+
+Money by midmonth
+
+erase claim to stop the continual block of the claim window
+
+private branding - phases - get logos in front of customers
+
+new view of the virtual clubs
+
+not liking guest-guest partnerships
+
+### Phil noted
+
+other people had problems with no tourneys available -- the fix is known
+
+auto scheduling coming -- set up an every Monday game for example
+live for clubs has the correct mps
+
+must charge at least \$5 for teaching tables
+
+yu nadler played more than anyone in acbl for silver 32 or 35 times
+
+trust but verify
+
+john asked for the largest clubs not part of pools
+expect to see us on the list of large clubs
+
+when putting in a sub
+it works MUCH better if the director goes to the table
+and then does a substitute
+
+swiss teams is on the wish list
+maybe bots as subs in a day or so
+
+robot subs may win/adjust score as we wish
+
+other stuff
+Once you start using vportal, you should sign up for the premium services
+
+## 2020.06.04
+
+@@@ collision of invitations? 6/4/20 vacb108480 henryelent bobgoergen 6362-1591293663 @@@ send to jay
+
+cannot register - enemies?
+
+@@@ report of cheat today @@@
+
+announce -- turn off cell phones and couples go to separate room
+
+anomalies rather than cheating
+
+automatic opt-in for longest day, just like silver week
