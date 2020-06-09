@@ -1,7 +1,5 @@
 # club onboarding.md
 
-
-
 ## 2020.03.27
 
 acbl@bbo.com or acbl@bridgebase.com to change the playernumber
@@ -330,16 +328,16 @@ skip tomorrow
 
 strats take into account BBO points
 
-lynn.chapin@acbl.org 
-send me your poaching exception requests 
+lynn.chapin@acbl.org
+send me your poaching exception requests
 
-When requesting to use Common Game hands, PLEASE include the list of days and times of your games. 
+When requesting to use Common Game hands, PLEASE include the list of days and times of your games.
 
 run random hands if not ending in a window
 
 refresh the game to catch the nightly updates of the include list
 
-If BBO name is showing up it means that their ACBL number is not being reported properly 
+If BBO name is showing up it means that their ACBL number is not being reported properly
 
 money transferred to ACBL for March from BBO -- next week for us
 
@@ -353,16 +351,16 @@ global release of players to all clubs
 
 @@@ appearance of unstable strange results modifying tournaments @@@ pairs behaviour @@@
 
-sending out SYC checks $250 or more, less waits to combine with the virtual club money,which the ACBL has not received. Electronic transfer company is On Pay. email soon ...
+sending out SYC checks \$250 or more, less waits to combine with the virtual club money,which the ACBL has not received. Electronic transfer company is On Pay. email soon ...
 
 what can I name my game? Whatever you want.
 
-Nice web site from a nice little group 
-http://illinibridge.com/virtual.htm 
+Nice web site from a nice little group
+<http://illinibridge.com/virtual.htm>
 
-https://docs.google.com/document/d/1ukrQPcnzxi1V8nxgcCdjs5yOPTLuLkVSDd0irj0z8cE/edit?ts=5e7e29f1# 
+<https://docs.google.com/document/d/1ukrQPcnzxi1V8nxgcCdjs5yOPTLuLkVSDd0irj0z8cE/edit?ts=5e7e29f1#>
 
-https://docs.google.com/document/d/1ukrQPcnzxi1V8nxgcCdjs5yOPTLuLkVSDd0irj0z8cE/edit?ts=5e7e29f1 
+<https://docs.google.com/document/d/1ukrQPcnzxi1V8nxgcCdjs5yOPTLuLkVSDd0irj0z8cE/edit?ts=5e7e29f1>
 
 target subs used director menu
 
@@ -410,7 +408,6 @@ email this week - link to change address or electronic transfers
 ACBL members not in good standing issue -- active within the last 10 years
 all subs play free
 
-
 ## 2020.04.29
 
 @@@ guidance on first poaching request @@@
@@ -454,13 +451,13 @@ can adjust the board at the table in play -- Phil has done this
 
 common game hand player
 
-email on details of silver point week -- triple points! extra fees $6 per table -- charge more
+email on details of silver point week -- triple points! extra fees \$6 per table -- charge more
 
 payments -- issues with data resolved with BBO. ACH might be there already.
 
 guest policy behind the club manager portal
 
-server issues 3pm 
+server issues 3pm
 
 other director can do everything except add friends, stuff boards, create games, etc.
 
@@ -486,7 +483,6 @@ different browser idea!
 
 Monday/Thursday next week
 
-
 ## 2020.05.18
 
 Zoom sessions at the end to go over hands.
@@ -509,13 +505,13 @@ log off log on so you can edit tournament when frustrated
 
 Players without ACBL numbers are stratified A
 
-@@@ Vportal offline indication include not enough BB$? offline casual
+@@@ Vportal offline indication include not enough BB\$? offline casual
 
 Money questions to greg.coles@acbl.org
 
 Maintenance of more tournaments
 
-##  2020.06.01
+## 2020.06.01
 
 @@@ what fun this morning! can see only those pending tournaments that have you on their include list. @@@
 
@@ -538,7 +534,7 @@ other people had problems with no tourneys available -- the fix is known
 auto scheduling coming -- set up an every Monday game for example
 live for clubs has the correct mps
 
-must charge at least $5 for teaching tables
+must charge at least \$5 for teaching tables
 
 yu nadler played more than anyone in acbl for silver 32 or 35 times
 
@@ -559,3 +555,30 @@ robot subs may win/adjust score as we wish
 other stuff
 Once you start using vportal, you should sign up for the premium services
 
+## 2020.06.04
+
+@@@ collision of invitations? 6/4/20 vacb108480 henryelent bobgoergen 6362-1591293663 @@@ send to jay
+
+cannot register - enemies?
+
+@@@ report of cheat today @@@
+
+announce -- turn off cell phones and couples go to separate room
+
+anomalies rather than cheating
+
+automatic opt-in for longest day, just like silver week
+
+## 2020.06.08
+
+@@@ board 18 not resolved correctly @@@ BBO reports at game end; adjustments are made during the adjustment period after game end; adjusted results sent to ACBL Live for Clubs.
+
+Two million dollars -- beginning of next week
+
+roster.csv is for marketing
+
+Regional schedule coming out Friday
+
+Bell ringing; table chat log; player timing; 6 1/2 minute boards
+
+update coming in the next couple of days
