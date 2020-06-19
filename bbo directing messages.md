@@ -568,3 +568,46 @@ announce -- turn off cell phones and couples go to separate room
 anomalies rather than cheating
 
 automatic opt-in for longest day, just like silver week
+
+## 2020.06.08
+
+@@@ board 18 not resolved correctly @@@ BBO reports at game end; adjustments are made during the adjustment period after game end; adjusted results sent to ACBL Live for Clubs.
+
+Two million dollars -- beginning of next week
+
+roster.csv is for marketing
+
+Regional schedule coming out Friday
+
+Bell ringing; table chat log; player timing; 6 1/2 minute boards
+
+update coming in the next couple of days
+
+## 2020.06.15
+
+@@@ 1.5 multiplier -- extra masterpoints for the babies? @@@ send to greg
+
+events for the rest of the year -- ACBL management meeting
+
+chrome extension for makable contracts
+
+table history improved to include movie of the hand
+
+@@@ VPortal ACBL number entry oops @@@
+
+Robots are sticky
+
+## 2020.06.18
+
+Board meeting items:
+--ACBL tournaments canceled for 2020.
+--Guest membership coming.
+--Tentative schedule for online events, including gold points at clubs.
+
+friends list online cleanse.
+
+sub feature in vportal
+
+@@@ vportal view include list? @@@ that would reveal the multiple ids of players
+
+right click on robot and pick sub select
