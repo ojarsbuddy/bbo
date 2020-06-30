@@ -611,3 +611,57 @@ sub feature in vportal
 @@@ vportal view include list? @@@ that would reveal the multiple ids of players
 
 right click on robot and pick sub select
+
+## 2020.06.22
+
+@@@ we had a power surge at the country club. vportal view running tournament? @@@
+
+cmarbach (Automated): S isn't from St andrews. Opened 2 H with 0 points and then 1 club with 11 (table 6)
+
+autoscheduler fires off 7am Wednesday morning
+
+first day of project fresh start has caused a lot of pain -- had to do it
+
+longest day a huge success -- raised about half a million of alzheimer's
+
+bots good for short term substitutions
+
+guests have to be re-added
+
+talk to Rick Beye about Howell details
+
+## 2020.06.29
+
+No more tournaments for two months
+
+Teaching on line
+
+free ACBL numbers
+
+red zone hands common game
+
+lost development resources at BBO
+
+### Phile noted
+
+auto scheduler is in vportal  -- but check/modify the game every time
+below completed tournaments
+
+sylvana July 1st -- teaching demo  I will have to check the time
+
+when f2f resumes -- will we still do virtual as well?  What will St. Andrews virtual schedule be when face to face bridge resumes?
+what do the members want?  the members do not know what they want
+
+market to newer players -- now can be the time
+
+
+we can have more than 5% guests -- it is like speed limits, you can go a little over
+don't be a pig about it
+
+short list of things the members did not want when bridge clubs introduced them
+bid boxes
+computer hands
+dealing machines
+web movements
+remote scoring
+thecommongame
