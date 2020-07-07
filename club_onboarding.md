@@ -642,7 +642,7 @@ red zone hands common game
 
 lost development resources at BBO
 
-### Phile noted
+### Phil noted
 
 auto scheduler is in vportal  -- but check/modify the game every time
 below completed tournaments
@@ -654,7 +654,6 @@ what do the members want?  the members do not know what they want
 
 market to newer players -- now can be the time
 
-
 we can have more than 5% guests -- it is like speed limits, you can go a little over
 don't be a pig about it
 
@@ -665,3 +664,29 @@ dealing machines
 web movements
 remote scoring
 thecommongame
+
+## 2020.07.02
+
+@@@ bridge finesse changes? @@@
+
+Gold in club games -- details soon
+
+Pictures are back!
+
+Can only have one user ID with an ACBL number. support at bridge base dot com or TD Don
+
+## 2020.07.06
+
+@@@ replace robot -- use name with the tildes @@@
+
+Jay handing this off to Greg, et al.
+
+free guest ACBL membership still up in the air
+
+For ACBL format look at our web site bridgewebs.com/richmondhill 
+
+double points 3/4 black partial 1/4 gold in our clubs end of month or so
+
+no money yet
+
+BBO has issues calculating masterpoints -- not to be trusted.
