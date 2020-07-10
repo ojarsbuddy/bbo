@@ -690,3 +690,21 @@ double points 3/4 black partial 1/4 gold in our clubs end of month or so
 no money yet
 
 BBO has issues calculating masterpoints -- not to be trusted.
+
+## 2020.07.09
+
+Team game and 2 day pair event but not for us.
+
+Club special event further details shortly - Monday the 27th through Sunday Aug 2nd. Official details next week.
+
+5 years expired ACBL number is what BBO cuts off
+
+Unregister only works of the people are offline -- not working of the folks are in caual area.
+
+@@@ Discover a robot's name by trying to sub it out. When the little window shows up at the lower right corner, the robot name will be there. @@@
+
++allavail+ tournament won't start if a player is in another tournament thereby showing online.
+
+Payments calculated yesterday. Over 2 million coming to the clubs.
+
+Invisible show up with white background in registrants list. Invisible show up with white backround in registrants list.  
