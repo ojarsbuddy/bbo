@@ -708,3 +708,21 @@ Unregister only works of the people are offline -- not working of the folks are 
 Payments calculated yesterday. Over 2 million coming to the clubs.
 
 Invisible show up with white background in registrants list. Invisible show up with white backround in registrants list.  
+
+### Phil noted
+
+It seems that ACBL/BBO fees are going up.  I am fuzzy on the details.
+They claim to have figured out the money for last month, still a few days before it gets sent.
+
+There was a poll about how often the club would run an individual event.
+
+It was pointed out that someone registered for our game and playing in another event would show up as online in vportal -- but they would not be available for our game until the one they were in finished
+
+Table history has timestamps.  It can be used to figure out who was slow, but it does not show individual time totals.
+
+Ipads should be set to idle after 15 minutes.  The default setting is much lower.  This often leads to disconnects.
+
+About cheating: to catch cheaters, they need players to report interesting results.  File recorder forms.  Do not expect swift action.  One is not a trend.  If there is enough smoke, they will look for a fire.  This takes time.  They want reports to be filed.  They suggested that they suspect at least several hundred cheaters to exist.
+
+They may be changing the schedule of these meetings.
+
