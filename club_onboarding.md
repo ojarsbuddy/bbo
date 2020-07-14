@@ -726,3 +726,20 @@ About cheating: to catch cheaters, they need players to report interesting resul
 
 They may be changing the schedule of these meetings.
 
+## 2020.07.13
+
+price cutting happening -- warn against it
+
+guest membership taaking longer to implement because it is tying in with something else expect 4-6 weeks
+
+tomorrow morning the temporary membership will hold for 120 days.
+
+major disconnect mid afternoon today
+
+silver linings double points $5 fee per table
+
+payments on the way
+
+'game too small' message?
+
+once a week starting next week
