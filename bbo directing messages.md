@@ -18,13 +18,17 @@ https://my.acbl.org/club-results/240341 for ACBL results
 
 Please be online and active on BBO a few minutes prior to game time. Pairs will not get seated when one of the pair does not have sufficient BB$ in their account.
 
-2 partners offline or inactive on BBO. Where is your partner now?
+3 partners offline or inactive on BBO. Where is your partner now?
 
 Players cutting it close to the start time: BBO does not seat your pair if one of you is offline or one of you is online but inactive on BBO or one of you has insufficient BBO funds.
 
 The near miss crew are just logging on now.
 
+Your partner is offline to BBO.
+
 Hail, Hail, the Gang's All Here
+
+Please read pages 9, 26 and 27 in the July Bridge Bulletin concerning Bridge Ethics.
 
 Please play quickly, alert your own bids, claim when you can. 
 Keep all chat until the end of the round. 
@@ -58,6 +62,8 @@ Welcome to the evening game at St. Andrews Virtual Bridge Club. Please self-aler
 Have a Nice Tournament!!
 
 Thank you for playing today!
+
+If you're removed from the game for being slow, disconnected or unresponsive - please log out of BBO and log back in, system will know you're back and reseat you at the start of the next hand
 
 Please be mindful of the clock.
 
@@ -135,12 +141,15 @@ Thank you for playing this afternoon. Results will be ready soon after at https:
 
 Thank you for playing this afternoon. Results will be ready soon after at https://my.acbl.org/club-results/108480
 
+Thank you for playing this afternoon. Results will be ready soon after at https://my.acbl.org/club-results/277079
+
 Thank you for playing this evening. Results will be ready soon after at https://my.acbl.org/club-results/108480
 
 
 # notes to director
-1330748 Lynn Kruger
- 487178 Dan Kruger
+1330748 fahnkruger Lynn Kruger
+7864981 daniel kay Dan Kruger 
+7931611 granny7164
 
 Crash beyond our control. 
 
