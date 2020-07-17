@@ -764,3 +764,18 @@ Attendance records and such will eventually be available from L4C (Live For Club
 https://mirgo2.co.uk/bboextractor
 
 allowed up to 3000 extra games!
+
+### Phil noted
+
+chat manager -- right click on blank space in chat - might be left click -- use chat manager
+
+perhaps we should run one day a week 6 minutes per
+
+some useful utilities (from the chat)
+
+https://mirgo2.co.uk/bridgesolver/
+
+http://www.mirgo2.co.uk/bboextractor/
+
+https://support.zoom.us/hc/en-us/articles/206476093-Enabling-breakout-rooms
+
