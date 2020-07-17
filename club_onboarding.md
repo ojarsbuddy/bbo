@@ -743,3 +743,24 @@ payments on the way
 'game too small' message?
 
 once a week starting next week
+
+## 2020.07.16
+
+@@@ sleep time 5 minutes? @@@ yes it seems it is still 5 minutes
+@@@ protocol for replacing a robot @@@ no new ideas
+
+BBO will fix the modification squelch. Until then logout and login then you can modify the tournament.
+
+MyACBL crunch triggered by Microsoft -- private or incognito browsing.
+
+Guidelines exist for online alerting.
+
+Field is not seeded --  to be worked on.
+
+Two ways to award masterpoints to a two table game -- run an individual or homestyle pairs (a kind of team game).
+
+Attendance records and such will eventually be available from L4C (Live For Clubs).
+
+https://mirgo2.co.uk/bboextractor
+
+allowed up to 3000 extra games!
