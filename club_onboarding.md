@@ -781,5 +781,17 @@ some useful utilities (from the chat)
 
 ## 2020.07.20
 
-@@@ silver points for baby game? @@@
+@@@ silver points for baby game? @@@ yes short games will get silver
 @@@ ACBL number on two BBO handles @@@
+
+598 clubs running games
+
+high level teams this weekend
+
+refresh name file if using autoscheduler -- howell disasters still happen
+
+blocked players -- still player issues rather than system issues
+
+guest policy announcement coming?
+
+transfer to include list?
