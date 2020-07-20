@@ -1,7 +1,6 @@
-bbo directing messages.md
-
-
 # create tournament
+
+bbo directing messages.md
 
 BBUT 500
 
@@ -9,14 +8,13 @@ BBUT 500
 +MPLIMIT=123+
 +MPLIMIT=49+
 
-http://webutil.bridgebase.com/v2/tarchive.php?m=h&h=vacb240341&d=vacb240341 for BBO results
+<http://webutil.bridgebase.com/v2/tarchive.php?m=h&h=vacb240341&d=vacb240341> for BBO results
 
-https://my.acbl.org/club-results/240341 for ACBL results
+<https://my.acbl.org/club-results/240341> for ACBL results
 
-# tournament beginning
+## tournament beginning
 
-
-Please be online and active on BBO a few minutes prior to game time. Pairs will not get seated when one of the pair does not have sufficient BB$ in their account.
+Please be online and active on BBO a few minutes prior to game time. Pairs will not get seated when one of the pair does not have sufficient BB\$ in their account.
 
 3 partners offline or inactive on BBO. Where is your partner now?
 
@@ -30,8 +28,8 @@ Hail, Hail, the Gang's All Here
 
 Please read pages 9, 26 and 27 in the July ACBL Bridge Bulletin concerning Bridge Ethics.
 
-Please play quickly, alert your own bids, claim when you can. 
-Keep all chat until the end of the round. 
+Please play quickly, alert your own bids, claim when you can.
+Keep all chat until the end of the round.
 Be kind, Zero Tolerance.
 
 No revokes, no leads out of turn, no bids out of turn, no insufficient bids!
@@ -51,13 +49,11 @@ Open Chart applies; Your convention card will default to SAYC if it is not set t
 
 Your convention card will default to SAYC if it is not set to something else.
 
-
 Welcome to the afternoon game at The Everglades Virtual Bridge Club. Please self-alert your own bids. Please claim when you can. Please defer chat until end of the round. Please be gracious to one and all.
 
 Welcome to the evening game at St. Andrews Virtual Bridge Club. Please self-alert your own bids. Please claim when you can and it makes sense. Please defer chat until end of the round. Please be gracious to one and all.
 
-
-# to all during play
+## to all during play
 
 Have a Nice Tournament!!
 
@@ -67,9 +63,9 @@ If you're removed from the game for being slow, disconnected or unresponsive - p
 
 Please be mindful of the clock.
 
-To call a Director, click the blue box with 3 lines inside. 
+To call a Director, click the blue box with 3 lines inside.
 
-Your convention card will default to SAYC if it is not set to something else. 
+Your convention card will default to SAYC if it is not set to something else.
 Above all, have fun!
 
 The bidding window includes a line for alerts. Click the alert button, fill in the areement description and then make your bid.
@@ -96,7 +92,7 @@ dummy excepted! declarer has that duty
 
 To speed play consider Account, Settings, Autoplay singletons.
 
-# at the table
+## at the table
 
 Director here! How can I help?
 
@@ -130,30 +126,29 @@ Please pick up the pace so you do not lose a board.
 
 Please keep all chat until the end of the round.
 
-A request for an explanation needs to be honored to clear the pop up box. 
+A request for an explanation needs to be honored to clear the pop up box.
 
 It is declarer who must play a card from Dummy if it is Dummy's turn to play a card.
 
+## end of session
 
-# end of session
+Thank you for playing this afternoon. Results will be ready soon after at <https://my.acbl.org/club-results/240341> or <https://standrewsbridge.com>
 
-Thank you for playing this afternoon. Results will be ready soon after at https://my.acbl.org/club-results/240341 or https://standrewsbridge.com
+Thank you for playing this afternoon. Results will be ready soon after at <https://my.acbl.org/club-results/108480>
 
-Thank you for playing this afternoon. Results will be ready soon after at https://my.acbl.org/club-results/108480
+Thank you for playing this afternoon. Results will be ready soon after at <https://my.acbl.org/club-results/277079>
 
-Thank you for playing this afternoon. Results will be ready soon after at https://my.acbl.org/club-results/277079
+Thank you for playing this evening. Results will be ready soon after at <https://my.acbl.org/club-results/108480>
 
-Thank you for playing this evening. Results will be ready soon after at https://my.acbl.org/club-results/108480
+## notes to director
 
-
-# notes to director
 1330748 fahnkruger Lynn Kruger
-7864981 daniel kay Dan Kruger 
+7864981 daniel kay Dan Kruger
 7931611 granny7164
 
-Crash beyond our control. 
+Crash beyond our control.
 
 Substituting a specific player for the Sitout
-What DOES work-Use the Substitutes entry in Tournament Menu! Type ‘sitout’ and the name of your player.  Repeat.
-Alternatively, at the red username, choose sub any and then replace the sub with your specified username.  (???is this rude to the random sub?)
+What DOES work-Use the Substitutes entry in Tournament Menu! Type ‘sitout’ and the name of your player. Repeat.
+Alternatively, at the red username, choose sub any and then replace the sub with your specified username. (???is this rude to the random sub?)
 (What does NOT work (at present)-click on the red username in the Table list or at the table-this is a bug and will be fixed at some point.)

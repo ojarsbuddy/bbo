@@ -527,7 +527,7 @@ new view of the virtual clubs
 
 not liking guest-guest partnerships
 
-### Phil noted
+### Phil noted 6.01
 
 other people had problems with no tourneys available -- the fix is known
 
@@ -642,15 +642,15 @@ red zone hands common game
 
 lost development resources at BBO
 
-### Phil noted
+### Phil noted 6.29
 
-auto scheduler is in vportal  -- but check/modify the game every time
+auto scheduler is in vportal -- but check/modify the game every time
 below completed tournaments
 
-sylvana July 1st -- teaching demo  I will have to check the time
+sylvana July 1st -- teaching demo I will have to check the time
 
-when f2f resumes -- will we still do virtual as well?  What will St. Andrews virtual schedule be when face to face bridge resumes?
-what do the members want?  the members do not know what they want
+when f2f resumes -- will we still do virtual as well? What will St. Andrews virtual schedule be when face to face bridge resumes?
+what do the members want? the members do not know what they want
 
 market to newer players -- now can be the time
 
@@ -683,7 +683,7 @@ Jay handing this off to Greg, et al.
 
 free guest ACBL membership still up in the air
 
-For ACBL format look at our web site bridgewebs.com/richmondhill 
+For ACBL format look at our web site bridgewebs.com/richmondhill
 
 double points 3/4 black partial 1/4 gold in our clubs end of month or so
 
@@ -707,22 +707,22 @@ Unregister only works of the people are offline -- not working of the folks are 
 
 Payments calculated yesterday. Over 2 million coming to the clubs.
 
-Invisible show up with white background in registrants list. Invisible show up with white backround in registrants list.  
+Invisible show up with white background in registrants list. Invisible show up with white backround in registrants list.
 
-### Phil noted
+### Phil noted 7.09
 
-It seems that ACBL/BBO fees are going up.  I am fuzzy on the details.
+It seems that ACBL/BBO fees are going up. I am fuzzy on the details.
 They claim to have figured out the money for last month, still a few days before it gets sent.
 
 There was a poll about how often the club would run an individual event.
 
 It was pointed out that someone registered for our game and playing in another event would show up as online in vportal -- but they would not be available for our game until the one they were in finished
 
-Table history has timestamps.  It can be used to figure out who was slow, but it does not show individual time totals.
+Table history has timestamps. It can be used to figure out who was slow, but it does not show individual time totals.
 
-Ipads should be set to idle after 15 minutes.  The default setting is much lower.  This often leads to disconnects.
+Ipads should be set to idle after 15 minutes. The default setting is much lower. This often leads to disconnects.
 
-About cheating: to catch cheaters, they need players to report interesting results.  File recorder forms.  Do not expect swift action.  One is not a trend.  If there is enough smoke, they will look for a fire.  This takes time.  They want reports to be filed.  They suggested that they suspect at least several hundred cheaters to exist.
+About cheating: to catch cheaters, they need players to report interesting results. File recorder forms. Do not expect swift action. One is not a trend. If there is enough smoke, they will look for a fire. This takes time. They want reports to be filed. They suggested that they suspect at least several hundred cheaters to exist.
 
 They may be changing the schedule of these meetings.
 
@@ -736,7 +736,7 @@ tomorrow morning the temporary membership will hold for 120 days.
 
 major disconnect mid afternoon today
 
-silver linings double points $5 fee per table
+silver linings double points \$5 fee per table
 
 payments on the way
 
@@ -755,17 +755,17 @@ MyACBL crunch triggered by Microsoft -- private or incognito browsing.
 
 Guidelines exist for online alerting.
 
-Field is not seeded --  to be worked on.
+Field is not seeded -- to be worked on.
 
 Two ways to award masterpoints to a two table game -- run an individual or homestyle pairs (a kind of team game).
 
 Attendance records and such will eventually be available from L4C (Live For Clubs).
 
-https://mirgo2.co.uk/bboextractor
+<https://mirgo2.co.uk/bboextractor>
 
 allowed up to 3000 extra games!
 
-### Phil noted
+### Phil noted 7.16
 
 chat manager -- right click on blank space in chat - might be left click -- use chat manager
 
@@ -773,9 +773,12 @@ perhaps we should run one day a week 6 minutes per
 
 some useful utilities (from the chat)
 
-https://mirgo2.co.uk/bridgesolver/
+<https://mirgo2.co.uk/bridgesolver/>
 
-http://www.mirgo2.co.uk/bboextractor/
+<http://www.mirgo2.co.uk/bboextractor/>
 
-https://support.zoom.us/hc/en-us/articles/206476093-Enabling-breakout-rooms
+<https://support.zoom.us/hc/en-us/articles/206476093-Enabling-breakout-rooms>
 
+## 2020.07.20
+
+@@@ silver points for baby game? @@@
