@@ -16,7 +16,7 @@ BBUT 500
 
 Please be online and active on BBO a few minutes prior to game time. Pairs will not get seated when one of the pair does not have sufficient BB\$ in their account.
 
-3 partners offline or inactive on BBO. Where is your partner now?
+4 partners offline or inactive on BBO. Where is your partner now?
 
 Players cutting it close to the start time: BBO does not seat your pair if one of you is offline or one of you is online but inactive on BBO or one of you has insufficient BBO funds.
 
@@ -25,6 +25,8 @@ The near miss crew are just logging on now.
 Your partner shows offline to BBO.
 
 Hail, Hail, the Gang's All Here
+
+Have a Nice Tournament!!
 
 Please read pages 9, 26 and 27 in the July ACBL Bridge Bulletin concerning Bridge Ethics.
 

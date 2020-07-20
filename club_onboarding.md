@@ -782,3 +782,4 @@ some useful utilities (from the chat)
 ## 2020.07.20
 
 @@@ silver points for baby game? @@@
+@@@ ACBL number on two BBO handles @@@
