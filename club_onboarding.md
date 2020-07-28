@@ -795,3 +795,17 @@ blocked players -- still player issues rather than system issues
 guest policy announcement coming?
 
 transfer to include list?
+
+## 2020.07.27
+
+@@@ lower limit to funds transferred in the autodeposit protocol? @@@ \$100 limit in force
+
+Visitor limit is up to 15%.
+
+Weekly virtual game newsletter idea
+
+Subs show up as guests in the attendance accounting.
+
+Ellis article on Bridge Winners "Why Am I Doing It"
+
+More cheating getting reviewed -- not stopping!
