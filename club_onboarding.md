@@ -809,3 +809,7 @@ Subs show up as guests in the attendance accounting.
 Ellis article on Bridge Winners "Why Am I Doing It"
 
 More cheating getting reviewed -- not stopping!
+
+## 2020.08.03
+
+@@@ want 6 1/2 minutes per board @@@
