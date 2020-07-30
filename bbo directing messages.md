@@ -114,7 +114,7 @@ West, are you there?
 Your call West.
 West, your play.
 
-Let's wait a minute to see if partner returns.
+Let's wait a minute to see if partner returns before I request a substitute.
 
 Will reseat you soonest.
 
