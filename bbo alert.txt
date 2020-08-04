@@ -29,54 +29,7 @@ if the meaning of the call does not depend of eventual overcalls made by oponent
 In the example below, the meaning of each of each call remains the same, even if oponents bid.
     1C__1D__1H__,	1N,		explanation text,
 
-The opening bid must begin with empty field
-    ,1C,16+HCP strong artificial and forcing,Comment: this is the strong opening bid of Precision System
-
-The negative response to 1C opening is 1D
-The bidding context is 1C-- which means opening 1C followed by opponent's pass (-- code)
-    1C--,1D,0-7 HCP artificial
-    1C--,2H,6-card !H suit robust 4-6 HCP
-    1C--,2S,6-card !S suit robust 4-6 HCP
-    1C--2H--,2N,asking bid (for singleton or void)
-    1C--2S--,2N,asking bid (for singleton or void)
-
-Opener's rebid after 1D response will be coded
-    1C--1D--,1N,17-19 HCP balanced hand
-
-    1C--1D--,1H,5+!Hs or 20+HCP balanced relay
-    1C--1D--1H--,1S,accept the relay
-    1C--1D--1H--,1N,reject relay 5-5 or better majors 0-4
-    1C--1D--1H--,2C,reject relay modest 6-card !Cs
-    1C--1D--1H--,2D,reject relay modest 6-card !Ds
-    1C--1D--1H--,2H,reject relay modest 6-card !Hs
-    1C--1D--1H--,2S,reject relay modest 6-card !Ss
-    1C--1D--1H--,2N,reject relay 5-5 or better minors weak
-    1C--1D--1H--,3C,reject relay modest 7-card !Cs
-    1C--1D--1H--,3D,reject relay modest 7-card !Ds
-    1C--1D--1H--,3H,reject relay modest 7-card !Hs
-    1C--1D--1H--,3S,reject relay modest 7-card !Ss
-
-    1C--1D--,1S,5+!Ss 16-21 HCP not forcing
-    1C--1D--,2C,5+!Cs 16-21 HCP not forcing
-    1C--1D--,2D,5+!Ds 16-21 HCP not forcing
-
-    1C--1D--,2H,5+!Ds 16-21 HCP not forcing
-    1C--1D--,2S,5+!Ds 16-21 HCP not forcing
-
-    1C--1D--,3C,very strong long !Cs unbal forcing
-    1C--1D--,3D,very strong long !Ds unbal forcing
-
-    1C--1D--,3H,solid !Hs very strong forcing
-    1C--1D--,3S,solid !Ss very strong forcing
-
-    1C--1D--,4H,stronger than Namyats
-    1C--1D--,4S,stronger than Namyats
-
-Similar after the 1H overcall after 1D
-    1C--1D1H,1N,17-19 HCP balanced hand !H stopped
-    1C--1D1S,1N,17-19 HCP balanced hand !S stopped
-
-If the opening is seat sensitive you should mention explicitly initial passes
+    If the opening is seat sensitive you should mention explicitly initial passes
     ----,1H,9-14HCP 4+!S
     ----1S--,2C,10-11 HCP Drury after initial pass
 
@@ -145,3 +98,69 @@ Option
 
 
 
+
+
+
+
+
+
+********************************************************************************
+
+Precision Today    
+
+********************************************************************************
+
+The opening bid must begin with empty field
+    ,1C,16+HCP strong artificial and forcing,Comment: this is the strong opening bid of Precision System
+
+The negative response to 1C opening is 1D - exceptions: 
+(1) long major with concentrated HCP
+(2) A and K in long suits or same suit
+
+    1C--,1D,0-7 HCP artificial
+    1C--,2H,6-card !H suit robust 4-6 HCP
+    1C--,2S,6-card !S suit robust 4-6 HCP
+    1C--2H--,2N,asking bid (for singleton or void)
+    1C--2S--,2N,asking bid (for singleton or void)
+
+Opener's rebid after 1D response
+    1C--1D--,1N,17-19 HCP balanced hand
+
+    1C--1D--,1H,5+!Hs or 20+HCP balanced relay
+    1C--1D--1H--,1S,accept the relay
+    1C--1D--1H--,1N,reject relay 5-5 or better majors 0-4
+    1C--1D--1H--,2C,reject relay modest 6-card !Cs
+    1C--1D--1H--,2D,reject relay modest 6-card !Ds
+    1C--1D--1H--,2H,reject relay modest 6-card !Hs
+    1C--1D--1H--,2S,reject relay modest 6-card !Ss
+    1C--1D--1H--,2N,reject relay 5-5 or better minors weak
+    1C--1D--1H--,3C,reject relay modest 7-card !Cs
+    1C--1D--1H--,3D,reject relay modest 7-card !Ds
+    1C--1D--1H--,3H,reject relay modest 7-card !Hs
+    1C--1D--1H--,3S,reject relay modest 7-card !Ss
+
+    1C--1D--,1S,5+!Ss 16-21 HCP not forcing
+    1C--1D--,2C,5+!Cs 16-21 HCP not forcing
+    1C--1D--,2D,5+!Ds 16-21 HCP not forcing
+
+    1C--1D--,2H,5+!Ds 16-21 HCP not forcing
+    1C--1D--,2S,5+!Ds 16-21 HCP not forcing
+
+    1C--1D--,3C,very strong long !Cs unbal forcing
+    1C--1D--,3D,very strong long !Ds unbal forcing
+
+    1C--1D--,3H,solid !Hs very strong forcing
+    1C--1D--,3S,solid !Ss very strong forcing
+
+    1C--1D--,4H,stronger than Namyats
+    1C--1D--,4S,stronger than Namyats
+
+    1C--1D--,1N,balanced 17-19 HCP
+    ----1C--1D--,1N,balanced 18-19 HCP
+    ------1C--1D--,1N,balanced 18-19 HCP
+    1C--1D--,2N,balanced 20-21 HCP 5-card major allowed
+    1C--1D--,3N,balanced 24-26 HCP 5-card major allowed
+
+Similar after the 1H overcall after 1D
+    1C--1D1H,1N,17-19 HCP balanced hand !H stopped
+    1C--1D1S,1N,17-19 HCP balanced hand !S stopped
