@@ -28,7 +28,7 @@ Players cutting it close to the start time: BBO does not seat your pair if one o
 
 The near miss crew are just logging on now.
 
-Please read pages 9, 26 and 27 in the July ACBL Bridge Bulletin concerning Bridge Ethics.
+Please read pages 9, 26 and 27 in the July 2020 ACBL Bridge Bulletin concerning Bridge Ethics.
 
 Please play quickly, alert your own bids, claim when you can.
 Keep all chat until the end of the round.
