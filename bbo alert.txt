@@ -42,7 +42,20 @@ The bidding context is 1C-- which means opening 1C followed by opponent's pass (
 
 Opener's rebid after 1D response will be coded
     1C--1D--,1N,17-19 HCP balanced hand
-    1C--1D--,1H,5+!Hs or 20+HCP balanced
+
+    1C--1D--,1H,5+!Hs or 20+HCP balanced relay
+    1C--1D--1H--,1S,accept the relay
+    1C--1D--1H--,1N,reject relay 5-5 or better majors 0-4
+    1C--1D--1H--,2C,reject relay modest 6-card !Cs
+    1C--1D--1H--,2D,reject relay modest 6-card !Ds
+    1C--1D--1H--,2H,reject relay modest 6-card !Hs
+    1C--1D--1H--,2S,reject relay modest 6-card !Ss
+    1C--1D--1H--,2N,reject relay 5-5 or better minors weak
+    1C--1D--1H--,3C,reject relay modest 7-card !Cs
+    1C--1D--1H--,3D,reject relay modest 7-card !Ds
+    1C--1D--1H--,3H,reject relay modest 7-card !Hs
+    1C--1D--1H--,3S,reject relay modest 7-card !Ss
+
     1C--1D--,1S,5+!Ss 16-21 HCP not forcing
     1C--1D--,2C,5+!Cs 16-21 HCP not forcing
     1C--1D--,2D,5+!Ds 16-21 HCP not forcing
