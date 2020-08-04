@@ -813,3 +813,25 @@ More cheating getting reviewed -- not stopping!
 ## 2020.08.03
 
 @@@ want 6 1/2 minutes per board @@@
+
+@@@ minimum charge for adequate happiness @@@ \$3
+
+@@@Robot pair ineligible or Robot/Human pair still eligible@@@ Just robot pairs ineligible.
+
+Stratification by highest player will be changing soon.
+
+Travelers soon!
+
+Cannot modify will be fixed soon.
+
+Warning clock soon.
+
+Table history after the tournament is over soon.
+
+Cannot change the movement once the game starts.
+
+Robots marked ineligible soon.
+
+Can remove the MPLIMIT hack out temporarily; just put it back in to properly identify the game.
+
+@@@ full disclosure card @@@
