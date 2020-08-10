@@ -834,4 +834,17 @@ Robot pairs marked ineligible soon.
 
 Can remove the MPLIMIT hack out temporarily; just put it back in to properly identify the game.
 
-@@@ full disclosure card @@@
+## 2020.0810
+
+@@@ full disclosure card @@@ going away someday
+@@@ chat undo? @@@ no chat undo
+
+Still waiting for report from BBO with respect to July monies. Perhaps next Monday.
+
+Testing masterpoint engine. Credit for concurrent limited games is coming. Also robot pairs marked ineligible.
+
+Free guest ACBL membership coming soon -- very close.
+
+1/4 gold 3/4 black in November.
+
+Club appreciation games in October.
