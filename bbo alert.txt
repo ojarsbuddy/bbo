@@ -64,7 +64,7 @@ or Alt-key shortcuts :
 
 Sample of selectable blocks of data
 
-    Option,vs1C standard
+    Option,vs1C standard   ===
     1C,Db,Take-out double
 
     Option,vs1C Precision
