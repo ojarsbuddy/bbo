@@ -848,3 +848,7 @@ Free guest ACBL membership coming soon -- very close.
 1/4 gold 3/4 black in November.
 
 Club appreciation games in October.
+
+## 2020.08.17
+
+@@@ distribution of pairs with robots, AKA, A pairs @@@
