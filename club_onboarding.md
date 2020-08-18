@@ -851,4 +851,10 @@ Club appreciation games in October.
 
 ## 2020.08.17
 
-@@@ distribution of pairs with robots, AKA, A pairs @@@
+@@@ distribution of pairs with robots, AKA, A pairs @@@ Random seating -- no remedy.
+
+Soft launch of masterpoint engine -- open games can get credit for limited games -- hack to employ -- full instructions tonight -- start time within half an hour.
+
+ACBL got BBO payment information Wednesday. Payments heading out.
+
+Split screen issues

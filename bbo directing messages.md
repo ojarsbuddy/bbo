@@ -20,6 +20,8 @@ Please be online and active on BBO a few minutes prior to game time. Pairs will 
 
 Your partner shows offline to BBO.
 
+Your robot reports you offline to BBO.
+
 Hail, Hail, the Gang's All Here
 
 Have a Nice Tournament!!
