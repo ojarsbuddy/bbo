@@ -858,3 +858,7 @@ Soft launch of masterpoint engine -- open games can get credit for limited games
 ACBL got BBO payment information Wednesday. Payments heading out.
 
 Split screen issues
+
+@@@
+To give the extra credit for tables, insert the hack +LT=x+ into your game’s description sometime before the game ends. “x” is the number of additional tables to give the game credit for. If there is a half-table that you don’t fill with subs, you should round up.
+@@@
