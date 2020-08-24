@@ -4,13 +4,16 @@ bbo directing messages.md
 
 BBUT 500
 
-+allavail+
-+MPLIMIT=123+
-+MPLIMIT=49+
-
 <http://webutil.bridgebase.com/v2/tarchive.php?m=h&h=vacb240341&d=vacb240341> for BBO results
 
 <https://my.acbl.org/club-results/240341> for ACBL results
+
+## hacks
+
++allavail+
++LT=5+
++MPLIMIT=123+
++MPLIMIT=49+
 
 ## tournament beginning
 
@@ -25,6 +28,10 @@ Your robot reports you offline to BBO.
 Hail, Hail, the Gang's All Here
 
 Have a Nice Tournament!!
+
+Please be kind to your partners and opponents!
+
+We have a limited game starting soon; for those collecting masterpoints, there will be more masterpoints awarded today!
 
 Players cutting it close to the start time: BBO does not seat your pair if one of you is offline or one of you is online but inactive on BBO or one of you has insufficient BBO funds.
 
