@@ -862,3 +862,17 @@ Split screen issues
 @@@
 To give the extra credit for tables, insert the hack +LT=x+ into your game’s description sometime before the game ends. “x” is the number of additional tables to give the game credit for. If there is a half-table that you don’t fill with subs, you should round up.
 @@@
+
+## 2020.08.24
+
+@@@ Live For Clubs does not show section standings or section results. @@@ Working on it
+
+@@@ Hand records to show possible contracts? @@@ Double dummy results some day but not soon
+
+DQ, disqualify function?
+
+Going to be a board traveler very soon!
+
+Face-to-face considerations, recommendations, ideas, guidelines -- up to us.
+
+Team games still on the stove.
