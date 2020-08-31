@@ -876,3 +876,8 @@ Going to be a board traveler very soon!
 Face-to-face considerations, recommendations, ideas, guidelines -- up to us.
 
 Team games still on the stove.
+
+## 2020.08.31
+
+@@@ bought robot release lever @@@
+@@@ how did our players do in the trournament? @@@
