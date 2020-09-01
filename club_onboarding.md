@@ -880,4 +880,22 @@ Team games still on the stove.
 ## 2020.08.31
 
 @@@ bought robot release lever @@@
-@@@ how did our players do in the trournament? @@@
+@@@ how did our players do in the regional tournament? @@@ jay says http://cloud.bridgefinesse.com/VACBVacationLeaders.html and filter by city state district and sort by MPs
+it’s in the Doc
+@@@ guest membership for "gap" players -- expired membership not recognized by BBO recognized by ACBL @@@
+
+auction misclick tried at the tournament
+
+BBO ready to launch new things -- server upgrade -- strats by average all games by the way you do not average into an event -- largest strat will always be C now
+
+Guest membership soft rolling out next week.
+
+Adjusting scores can see robot names?
+
+Post-pandemic plans -- online task force came back with suggestions.
+
+### Phil noted 8.31
+
+Starting with a robot and having your regular partner show up late and replace the robot COULD lead to a reduction in card fees. This is something BBO and ACBL do not desire.
+
+There was mention that country clubs normally get 80% masterpoints because they are invitational. Officially ALL clubs are currently invitational. A method of having St. Andrews award 80% masterpoints was mentioned.
