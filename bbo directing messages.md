@@ -17,6 +17,8 @@ BBUT 500
 
 ## tournament beginning
 
+Labor Day Monday September 7th one-day event all masterpoint awards will be double club rating.
+
 Please be online and active on BBO a few minutes prior to game time. Pairs will not get seated when one of the pair does not have sufficient BB\$ in their account.
 
 4 partners offline or inactive on BBO. Where is your partner now?
@@ -85,7 +87,7 @@ To Alert: We self alert: First click the alert button in the bidding box before 
 
 To call the TD: There's a blue box with 3 white lines at the top of your table. You will find table options there like calling the TD, checking opps convention card etc.
 
-Misclicks happen. Undos are not allowed, nor is announcing your mistakes. When this happens, continue. To avoid this, use your account setting to toggle on CONFIRM BIDS and/or CONFIRM CARDS.
+Misclicks happen. Undos are not allowed, nor is announcing your mistakes. When this happens, continue. To avoid this, use tabs "Account" then "Settings" to toggle on "Confirm bids" and/or "Confirm cards".
 
 Claim hands when you can. BE KIND, Zero tolerance in effect. Have fun!
 
@@ -101,7 +103,7 @@ That yellow color is a cue that player has an action
 
 dummy excepted! declarer has that duty
 
-To speed play consider Account, Settings, Autoplay singletons.
+To speed play consider Account --> Settings --> Autoplay singletons.
 
 ## at the table
 
