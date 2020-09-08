@@ -899,3 +899,24 @@ Post-pandemic plans -- online task force came back with suggestions.
 Starting with a robot and having your regular partner show up late and replace the robot COULD lead to a reduction in card fees. This is something BBO and ACBL do not desire.
 
 There was mention that country clubs normally get 80% masterpoints because they are invitational. Officially ALL clubs are currently invitational. A method of having St. Andrews award 80% masterpoints was mentioned.
+
+## 2020.09.07
+
+@@@ Are the robots dumber? People complaining. @@@
+
+### Phil noted 8.31
+
+guest membership goes live wednesday
+120 days free
+20 masterpoint limit
+new only -- no lapsed players
+get online bulletin
+email on wednesday
+
+convention card no longer defaults to SAYC the default is no card
+
+Silvana's video for filling out a convention card
+
+https://zoom.us/rec/play/6MAsI-v7qW83ToXGtwSDAfVxW9S8Kais1CUbqfBZnUrkBSRSN1H0Z7NEYeGVQZmmtrAjiJ24QSOTvrx8?autoplay=true&startTime=1585566516000
+
+page 20 of September Bulletin has how to fill out an online CC
