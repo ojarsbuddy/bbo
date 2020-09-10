@@ -17,8 +17,6 @@ BBUT 500
 
 ## tournament beginning
 
-Labor Day Monday September 7th one-day event all masterpoint awards will be double club rating.
-
 Please be online and active on BBO a few minutes prior to game time. Pairs will not get seated when one of the pair does not have sufficient BB\$ in their account.
 
 4 partners offline or inactive on BBO. Where is your partner now?
