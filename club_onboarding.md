@@ -924,3 +924,4 @@ page 20 of September Bulletin has how to fill out an online CC
 ## 2020.09.14
 
 @@@ zero masterpoints problem @@@
+@@@ robots stupid @@@
