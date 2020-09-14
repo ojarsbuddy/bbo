@@ -920,3 +920,7 @@ Silvana's video for filling out a convention card
 https://zoom.us/rec/play/6MAsI-v7qW83ToXGtwSDAfVxW9S8Kais1CUbqfBZnUrkBSRSN1H0Z7NEYeGVQZmmtrAjiJ24QSOTvrx8?autoplay=true&startTime=1585566516000
 
 page 20 of September Bulletin has how to fill out an online CC
+
+## 2020.09.14
+
+@@@ zero masterpoints problem @@@
