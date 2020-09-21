@@ -923,5 +923,19 @@ page 20 of September Bulletin has how to fill out an online CC
 
 ## 2020.09.14
 
-@@@ zero masterpoints problem @@@
-@@@ robots stupid @@@
+@@@ zero masterpoints problem @@@ no answer
+@@@ robots stupid @@@ no changes known
+
+Average within an event but cannot average into an event.
+
+Table history link can be tricked into access after the game is over.
+
+## 2020.09.21
+
+BBO did a new upgrade. May have travelers soon.
+
+Convention card workshops.
+
+Chat manager facility for automatic announcements every round. Right-click the chat box.
+
+Greg uses the Howell hack rather than the hm18 hack.

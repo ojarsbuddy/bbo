@@ -31,6 +31,8 @@ Have a Nice Tournament!!
 
 Please be kind to your partners and opponents!
 
+"Account" tab on the left --> "Settings" tab above --> "Autoplay singletons" switch flip to the right
+
 We have a limited game starting soon; for those collecting masterpoints, there will be more masterpoints awarded today!
 
 Players cutting it close to the start time: BBO does not seat your pair if one of you is offline or one of you is online but inactive on BBO or one of you has insufficient BBO funds.
