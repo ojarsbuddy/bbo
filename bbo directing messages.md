@@ -14,6 +14,9 @@ BBUT 500
 +LT=5+
 +MPLIMIT=123+
 +MPLIMIT=49+
++howell+
++hm18+
++rounds5+
 
 ## tournament beginning
 
