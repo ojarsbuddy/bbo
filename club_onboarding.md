@@ -942,11 +942,20 @@ Greg uses the Howell hack rather than the hm18 hack.
 
 ## 2020.09.28
 
+convention card classes, about 15 per session
+
+we will be able to set our own strats
+
+### openSUSE
+
 sudo zypper update
 
-zypper ar -cfp 90 http://ftp.gwdg.de/pub/linux/misc/packman/suse/openSUSE_Leap_15.2/ packman
+sudo zypper ar -cfp 90 http://ftp.gwdg.de/pub/linux/misc/packman/suse/openSUSE_Leap_15.2/ packman
 
 sudo zypper in opi && opi codecs
 
 sudo zypper addrepo --refresh 'https://download.nvidia.com/opensuse/leap/$releasever' NVIDIA
 sudo zypper install-new-recommends
+
+sudo zypper install tlp tlp-rdw
+sudo systemctl enable tlp
