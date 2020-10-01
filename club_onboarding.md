@@ -959,3 +959,7 @@ sudo zypper install-new-recommends
 
 sudo zypper install tlp tlp-rdw
 sudo systemctl enable tlp
+
+## 2020.10.05
+
+@@@ Combining online bridge and face-to-face bridge -- looking forward @@@

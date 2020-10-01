@@ -34,7 +34,7 @@ Have a Nice Tournament!!
 
 Please be kind to your partners and opponents!
 
-"Account" tab on the left --> "Settings" tab above --> "Autoplay singletons" switch flip to the right
+Consider setting automatic singletons: "Account" tab on the left --> "Settings" tab above --> "Autoplay singletons" switch flip to the right
 
 We have a limited game starting soon; for those collecting masterpoints, there will be more masterpoints awarded today!
 
