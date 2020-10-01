@@ -880,7 +880,7 @@ Team games still on the stove.
 ## 2020.08.31
 
 @@@ bought robot release lever @@@
-@@@ how did our players do in the regional tournament? @@@ jay says http://cloud.bridgefinesse.com/VACBVacationLeaders.html and filter by city state district and sort by MPs
+@@@ how did our players do in the regional tournament? @@@ jay says <http://cloud.bridgefinesse.com/VACBVacationLeaders.html> and filter by city state district and sort by MPs
 it’s in the Doc
 @@@ guest membership for "gap" players -- expired membership not recognized by BBO recognized by ACBL @@@
 
@@ -904,7 +904,7 @@ There was mention that country clubs normally get 80% masterpoints because they 
 
 @@@ Are the robots dumber? People complaining. @@@
 
-### Phil noted 8.31
+### Phil noted 9.07
 
 guest membership goes live wednesday
 120 days free
@@ -917,7 +917,7 @@ convention card no longer defaults to SAYC the default is no card
 
 Silvana's video for filling out a convention card
 
-https://zoom.us/rec/play/6MAsI-v7qW83ToXGtwSDAfVxW9S8Kais1CUbqfBZnUrkBSRSN1H0Z7NEYeGVQZmmtrAjiJ24QSOTvrx8?autoplay=true&startTime=1585566516000
+<https://zoom.us/rec/play/6MAsI-v7qW83ToXGtwSDAfVxW9S8Kais1CUbqfBZnUrkBSRSN1H0Z7NEYeGVQZmmtrAjiJ24QSOTvrx8?autoplay=true&startTime=1585566516000>
 
 page 20 of September Bulletin has how to fill out an online CC
 
@@ -948,17 +948,17 @@ we will be able to set our own strats
 
 ### openSUSE
 
-sudo zypper update
+'sudo zypper update'
 
-sudo zypper ar -cfp 90 http://ftp.gwdg.de/pub/linux/misc/packman/suse/openSUSE_Leap_15.2/ packman
+'sudo zypper ar -cfp 90 http://ftp.gwdg.de/pub/linux/misc/packman/suse/openSUSE_Leap_15.2/ packman'
 
-sudo zypper in opi && opi codecs
+'sudo zypper in opi && opi codecs'
 
-sudo zypper addrepo --refresh 'https://download.nvidia.com/opensuse/leap/$releasever' NVIDIA
-sudo zypper install-new-recommends
+'sudo zypper addrepo --refresh "https://download.nvidia.com/opensuse/leap/$releasever" NVIDIA'
+'sudo zypper install-new-recommends'
 
-sudo zypper install tlp tlp-rdw
-sudo systemctl enable tlp
+'sudo zypper install tlp tlp-rdw'
+'sudo systemctl enable tlp'
 
 ## 2020.10.05
 
