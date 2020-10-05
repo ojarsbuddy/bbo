@@ -963,3 +963,5 @@ we will be able to set our own strats
 ## 2020.10.05
 
 @@@ Combining online bridge and face-to-face bridge -- looking forward @@@
+@@@ Glenegles masterpoint results Saturday @@@
+@@@ whither went the include and exclude lists? @@@
