@@ -962,6 +962,17 @@ we will be able to set our own strats
 
 ## 2020.10.05
 
-@@@ Combining online bridge and face-to-face bridge -- looking forward @@@
-@@@ Glenegles masterpoint results Saturday @@@
-@@@ whither went the include and exclude lists? @@@
+@@@ Combining online bridge and face-to-face bridge -- looking forward @@@ Greg has been thinking about this for months -- expect nothing soon. All with tablets?
+@@@ Gleneagles masterpoint results Saturday @@@ Sent email to poolmaster@acbl.org
+
+Team games 30-60 days out?
+
+Disciplined over 30 people -- officially. More cheating under investigation. Process does work, but it is not fast.
+
+Next Club Appreciation no extra charge. Examining schedule for 2021.
+
+Board traveler is a big hit. Apparently Player History is also functional.
+
+Zoom after the games may help build games, especially the limited. Charge a bit more?
+
+Sanctioning discussions underway.
