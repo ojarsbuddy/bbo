@@ -976,3 +976,5 @@ Board traveler is a big hit. Apparently Player History is also functional.
 Zoom after the games may help build games, especially the limited. Charge a bit more?
 
 Sanctioning discussions underway.
+
+## 2020.10.12

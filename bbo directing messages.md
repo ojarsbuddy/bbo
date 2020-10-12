@@ -36,13 +36,21 @@ Please be kind to your partners and opponents!
 
 Consider setting automatic singletons: "Account" tab on the left --> "Settings" tab above --> "Autoplay singletons" switch flip to the right
 
+Consider confirming bids and cards: "Account" tab on the left --> "Settings" tab above --> "Confirm bids" switch flip to the right and/or "Confirm cards" switch flip to the right
+
 We have a limited game starting soon; for those collecting masterpoints, there will be more masterpoints awarded today!
 
 Players cutting it close to the start time: BBO does not seat your pair if one of you is offline or one of you is online but inactive on BBO or one of you has insufficient BBO funds.
 
 The near miss crew are just logging on now.
 
+Extra Points Days October 26th through November the 1st!
+
+Please refer to your October 2020 ACBL Bridge Bulletin on page 24 regarding how to report suspect hands with respect to violations of Bridge Ethics.
+
 Please read pages 9, 26 and 27 in the July 2020 ACBL Bridge Bulletin concerning Bridge Ethics.
+
+How to report a deal: read page 24 in the October 2020 ACBL Bridge Bulletin.
 
 Please play quickly, alert your own bids, claim when you can.
 Keep all chat until the end of the round.
