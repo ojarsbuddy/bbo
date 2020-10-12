@@ -44,9 +44,9 @@ Players cutting it close to the start time: BBO does not seat your pair if one o
 
 The near miss crew are just logging on now.
 
-Extra Points Days October 26th through November the 1st!
+Extra Points Days coming soon -- October 26th through November the 1st!
 
-Please refer to your October 2020 ACBL Bridge Bulletin on page 24 regarding how to report suspect hands with respect to violations of Bridge Ethics.
+Please refer to your October 2020 ACBL Bridge Bulletin on page 24 regarding how to report suspect hands with respect to potential violations of Bridge Ethics.
 
 Please read pages 9, 26 and 27 in the July 2020 ACBL Bridge Bulletin concerning Bridge Ethics.
 
