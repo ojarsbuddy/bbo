@@ -38,6 +38,8 @@ Consider setting automatic singletons: "Account" tab on the left --> "Settings" 
 
 Consider confirming bids and cards: "Account" tab on the left --> "Settings" tab above --> "Confirm bids" switch flip to the right and/or "Confirm cards" switch flip to the right
 
+6 tables in the Limited Game -- your game now scores like a 23 table game!
+
 We have a limited game starting soon; for those collecting masterpoints, there will be more masterpoints awarded today!
 
 Players cutting it close to the start time: BBO does not seat your pair if one of you is offline or one of you is online but inactive on BBO or one of you has insufficient BBO funds.
