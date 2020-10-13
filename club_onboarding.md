@@ -984,3 +984,17 @@ Money process for September is begun.
 Convention card requirement soon. Still running classes.
 
 Look at table history to get a sense of timing.
+
+### Phil noted 10.12
+
+The times in show tables need not be correct. Especially for very slow pairs. BBO has been informed and is working on it.
+
+Possibility of requiring convention cards for event registration. This is under discussion and might not apply to vacb games. Details to follow. I suspect that many will load a default card and play whatever they want.
+
+Permitting undos was heatedly discussed without resolution.
+
+Request for Silver points was made.
+
+That is about it for the meeting.
+
+Not adjusting the robots means whoever plays them has a tough draw. Perhaps we should offer the choice of: play the robots and it counts or, take a sitout (at least for the early rounds). There is some risk in letting them play 15 boards instead of 18 as it slightly magnifies good games.
