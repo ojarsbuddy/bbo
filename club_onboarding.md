@@ -978,3 +978,9 @@ Zoom after the games may help build games, especially the limited. Charge a bit 
 Sanctioning discussions underway.
 
 ## 2020.10.12
+
+Money process for September is begun.
+
+Convention card requirement soon. Still running classes.
+
+Look at table history to get a sense of timing.
