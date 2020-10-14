@@ -948,17 +948,17 @@ we will be able to set our own strats
 
 ### openSUSE
 
-'sudo zypper update'
+`sudo zypper update`
 
-'sudo zypper ar -cfp 90 http://ftp.gwdg.de/pub/linux/misc/packman/suse/openSUSE_Leap_15.2/ packman'
+`sudo zypper ar -cfp 90 http://ftp.gwdg.de/pub/linux/misc/packman/suse/openSUSE_Leap_15.2/ packman`
 
-'sudo zypper in opi && opi codecs'
+`sudo zypper in opi && opi codecs`
 
-'sudo zypper addrepo --refresh "https://download.nvidia.com/opensuse/leap/$releasever" NVIDIA'
-'sudo zypper install-new-recommends'
+`sudo zypper addrepo --refresh "https://download.nvidia.com/opensuse/leap/$releasever" NVIDIA`
+`sudo zypper install-new-recommends`
 
-'sudo zypper install tlp tlp-rdw'
-'sudo systemctl enable tlp'
+`sudo zypper install tlp tlp-rdw`
+`sudo systemctl enable tlp`
 
 ## 2020.10.05
 
@@ -979,7 +979,7 @@ Sanctioning discussions underway.
 
 ## 2020.10.12
 
-Money process for September is begun.
+Money process for September`` is begun.
 
 Convention card requirement soon. Still running classes.
 
