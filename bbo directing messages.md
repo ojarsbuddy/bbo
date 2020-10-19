@@ -28,6 +28,8 @@ Your partner shows offline to BBO.
 
 Your robot reports you offline to BBO.
 
+Surveillance robot reports you offline to BBO.
+
 Hail, Hail, the Gang's All Here
 
 Have a Nice Tournament!!
@@ -38,7 +40,7 @@ Consider setting automatic singletons: "Account" tab on the left --> "Settings" 
 
 Consider confirming bids and cards: "Account" tab on the left --> "Settings" tab above --> "Confirm bids" switch flip to the right and/or "Confirm cards" switch flip to the right
 
-6 tables in the Limited Game -- your game now scores like a 23 table game!
+6 tables in the Limited Game -- your game now scores overalls like a 23 table game!
 
 We have a limited game starting soon; for those collecting masterpoints, there will be more masterpoints awarded today!
 
@@ -46,13 +48,11 @@ Players cutting it close to the start time: BBO does not seat your pair if one o
 
 The near miss crew are just logging on now.
 
-Extra Points Days coming soon -- October 26th through November the 1st!
+Extra Points Days all next week -- October 26th through November the 1st!
 
 Please refer to your October 2020 ACBL Bridge Bulletin on page 24 regarding how to report suspect hands with respect to potential violations of Bridge Ethics.
 
 Please read pages 9, 26 and 27 in the July 2020 ACBL Bridge Bulletin concerning Bridge Ethics.
-
-How to report a deal: read page 24 in the October 2020 ACBL Bridge Bulletin.
 
 Please play quickly, alert your own bids, claim when you can.
 Keep all chat until the end of the round.
