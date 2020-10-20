@@ -1004,3 +1004,18 @@ Not adjusting the robots means whoever plays them has a tough draw. Perhaps we s
 Opening later this week the sanction process online.
 
 More than one section hides the extra board detail. They will figure it out.
+
+### Phil noted 10.19
+
+face to face sanction renewals coming probably by end of month
+
+suggestion: when director is summoned to a table -- the director should announce their presence
+
+suggestion: involve the players -- possibly with a q&a or something either zoomish or email questions
+with answers to SOME posted on a website
+
+Greg let is slip that they ran an event where GIB did NOT adjudicate unfinished boards -- this may be an option for us -- presumably these boards received scores assigned by humans -- also means that those boards did not disappear from the directors dashboard until a human had reviewed them
+
+discussion of 2 board vs 3 board rounds -- much talking with little resolution
+
+A mini-crash of BBO on Thursday around 4:00 pm was acknowledged.
