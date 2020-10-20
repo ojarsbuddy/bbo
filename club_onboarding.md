@@ -979,7 +979,7 @@ Sanctioning discussions underway.
 
 ## 2020.10.12
 
-Money process for September`` is begun.
+Money process for September is begun.
 
 Convention card requirement soon. Still running classes.
 
@@ -998,3 +998,9 @@ Request for Silver points was made.
 That is about it for the meeting.
 
 Not adjusting the robots means whoever plays them has a tough draw. Perhaps we should offer the choice of: play the robots and it counts or, take a sitout (at least for the early rounds). There is some risk in letting them play 15 boards instead of 18 as it slightly magnifies good games.
+
+## 2020.10.19
+
+Opening later this week the sanction process online.
+
+More than one section hides the extra board detail. They will figure it out.
