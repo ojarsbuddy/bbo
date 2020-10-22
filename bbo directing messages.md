@@ -32,11 +32,13 @@ Surveillance robot reports you offline to BBO.
 
 Hail, Hail, the Gang's All Here
 
+And they're off!
+
 Have a Nice Tournament!!
 
 Please be kind to your partners and opponents!
 
-Consider setting automatic singletons: "Account" tab on the left --> "Settings" tab above --> "Autoplay singletons" switch flip to the right
+Consider setting automatic play for singletons: "Account" tab on the left --> "Settings" tab above --> "Autoplay singletons" switch flip to the right
 
 Consider confirming bids and cards: "Account" tab on the left --> "Settings" tab above --> "Confirm bids" switch flip to the right and/or "Confirm cards" switch flip to the right
 
