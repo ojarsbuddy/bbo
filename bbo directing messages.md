@@ -20,10 +20,6 @@ BBUT 500
 
 ## tournament beginning
 
-Please be online and active on BBO a few minutes prior to game time. Pairs will not get seated when one of the pair does not have sufficient BB\$ in their account.
-
-4 partners offline or inactive on BBO. Where is your partner now?
-
 Your partner shows offline to BBO.
 
 Your robot reports you offline to BBO.
@@ -44,17 +40,21 @@ Consider confirming bids and cards: "Account" tab on the left --> "Settings" tab
 
 6 tables in the Limited Game -- your game now scores overalls like a 23 table game!
 
-We have a limited game starting soon; for those collecting masterpoints, there will be more masterpoints awarded today!
-
-Players cutting it close to the start time: BBO does not seat your pair if one of you is offline or one of you is online but inactive on BBO or one of you has insufficient BBO funds.
-
-The near miss crew are just logging on now.
-
 Extra Points Days all next week -- October 26th through November the 1st!
 
 Please refer to your October 2020 ACBL Bridge Bulletin on page 24 regarding how to report suspect hands with respect to potential violations of Bridge Ethics.
 
 Please read pages 9, 26 and 27 in the July 2020 ACBL Bridge Bulletin concerning Bridge Ethics.
+
+The near miss crew are just logging on now.
+
+Please be online and active on BBO a few minutes prior to game time. Pairs will not get seated when one of the pair does not have sufficient BB\$ in their account.
+
+4 partners offline or inactive on BBO. Where is your partner now?
+
+We have a limited game starting soon; for those collecting masterpoints, there will be more masterpoints awarded today!
+
+Players cutting it close to the start time: BBO does not seat your pair if one of you is offline or one of you is online but inactive on BBO or one of you has insufficient BBO funds.
 
 Please play quickly, alert your own bids, claim when you can.
 Keep all chat until the end of the round.
