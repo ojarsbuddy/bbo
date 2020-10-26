@@ -1019,3 +1019,11 @@ Greg let is slip that they ran an event where GIB did NOT adjudicate unfinished 
 discussion of 2 board vs 3 board rounds -- much talking with little resolution
 
 A mini-crash of BBO on Thursday around 4:00 pm was acknowledged.
+
+## 2020.10.26
+
+@@@ Forgot the LT hack today -- can it still be fixed? @@@ email to Rick Beye
+
+Live for clubs was down for a while.
+
+Show tables does not stay up as folks are noticing.
