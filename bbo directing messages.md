@@ -38,7 +38,9 @@ Consider setting automatic play for singletons: "Account" tab on the left --> "S
 
 Consider confirming bids and cards: "Account" tab on the left --> "Settings" tab above --> "Confirm bids" switch flip to the right and/or "Confirm cards" switch flip to the right
 
-6 tables in the Limited Game -- your game now scores overalls like a 23 table game!
+6 tables in the Limited Game -- your game now scores overalls like a 25 table game!
+
+First overall now collects 3.75 ACBL masterpoints.
 
 Extra Points Days all next week -- October 26th through November the 1st!
 

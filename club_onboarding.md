@@ -1027,3 +1027,19 @@ A mini-crash of BBO on Thursday around 4:00 pm was acknowledged.
 Live for clubs was down for a while.
 
 Show tables does not stay up as folks are noticing.
+
+## 2020.11.02
+
+@@@ Pair registered but playing in another tournament -- unregister?@@@
+@@@ CLI? @@@
+@@@ BBO rocky today "Could not load table list" @@@ BBO had issues again today. Last week a data center in Texas. Today took multiple attempts to succeed in the reluctant response of the user interface.
+
+Schedule extra game in case the first crashes.
+
+Sanction status and tournament list?
+
+Convention cards again.
+
+Minimum charge is \$3. Autoscheduler minumum charge is \$5? I thought it was \$4.
+
+Team games around 50/50.
