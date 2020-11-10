@@ -1058,3 +1058,20 @@ Sanctions - until further notice unlimited sesssions on line. Just schedule the 
 Special events when ACBL goes F2F.
 
 Already removed quite a few cheaters last few months and are working on more.
+
+### Phil noted 11.09
+
+BBO has turned off compatibility stars and profile pictures to improve performance, seems to have helped
+
+John mentioned his face to face game with tablets. The moderator offered to have a story with pictures in the Bulletin. John told him, the club does not allow cameras or phones. I did not mention the cameras in the tablets.
+
+Phone numbers will return to vportal SOON.
+
+Since covid started over 12 million\$ has been paid out to vacbs.
+
+Side note: ACBL seems not to have a plan for returning to f2f bridge.
+My opinion: online bridge will stay strong when f2f resumes. Someone mentioned players having to drive an hour to get to the game and preferring online.
+
+Discussion of people not wanting to play online because of cheating. Pointed out that there is plenty of cheating f2f.
+
+When f2f resumes, ACBL plans to give the clubs plenty of bonus point games -- details eventually.
