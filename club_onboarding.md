@@ -730,7 +730,7 @@ They may be changing the schedule of these meetings.
 
 price cutting happening -- warn against it
 
-guest membership taaking longer to implement because it is tying in with something else expect 4-6 weeks
+guest membership taking longer to implement because it is tying in with something else expect 4-6 weeks
 
 tomorrow morning the temporary membership will hold for 120 days.
 
@@ -1043,3 +1043,18 @@ Convention cards again.
 Minimum charge is \$3. Autoscheduler minumum charge is \$5? I thought it was \$4.
 
 Team games around 50/50.
+
+## 2020.11.09
+
+@@@ New friend with fresh ACBL number via VPortal could register for limited game but not seated. @@@ is it the fresh ACBL number?
+@@@ Visitor inspection protocol 15% of what? @@@ weekly basis
+@@@ Stardust table fee \$4 or \$5? @@@ \$4
+@@@ F2F virtual game test run last week @@@ pictures?
+
+Sent out to date over \$12 million.
+
+Sanctions - until further notice unlimited sesssions on line. Just schedule the sessions as before.
+
+Special events when ACBL goes F2F.
+
+Already removed quite a few cheaters last few months and are working on more.
