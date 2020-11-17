@@ -1067,7 +1067,7 @@ John mentioned his face to face game with tablets. The moderator offered to have
 
 Phone numbers will return to vportal SOON.
 
-Since covid started over 12 million\$ has been paid out to vacbs.
+Since covid started over 12 million \$ has been paid out to vacbs.
 
 Side note: ACBL seems not to have a plan for returning to f2f bridge.
 My opinion: online bridge will stay strong when f2f resumes. Someone mentioned players having to drive an hour to get to the game and preferring online.
@@ -1075,3 +1075,12 @@ My opinion: online bridge will stay strong when f2f resumes. Someone mentioned p
 Discussion of people not wanting to play online because of cheating. Pointed out that there is plenty of cheating f2f.
 
 When f2f resumes, ACBL plans to give the clubs plenty of bonus point games -- details eventually.
+
+## 2020.11.16
+
+@@@ A pair played today in our limited game whilst traveling on two different airplanes. One player landed in New York and the other landed in Connecticut. @@@
+
+Convention Chart Friday 1700 EST
+https://acbl-org.zoom.us/j/9788411379
+
+https://docs.google.com/document/d/1ukrQPcnzxi1V8nxgcCdjs5yOPTLuLkVSDd0irj0z8cE/edit?ts=5e7e29f1#
