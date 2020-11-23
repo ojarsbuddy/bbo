@@ -34,15 +34,17 @@ Have a Nice Tournament!!
 
 Please be kind to your partners and opponents!
 
+Be careful on the opening lead by waiting a heartbeat -- the cards move around after the contract is settled.
+
 Consider silencing sound effects: "Account" tab on the left --> "Settings" tab above --> "Sound effects on" switch --> flip to the left.
 
 Consider setting automatic play for singletons: "Account" tab on the left --> "Settings" tab above --> "Autoplay singletons" switch --> flip to the right.
 
 Consider confirming bids and cards: "Account" tab on the left --> "Settings" tab above --> "Confirm bids" switch --> flip to the right and/or "Confirm cards" switch --> flip to the right.
 
-6 tables in the Limited Game -- your game now scores overalls like a 25 table game!
+6 tables in the Limited Game -- your game now scores overalls like a 26 table session!
 
-First overall now collects 3.75 ACBL masterpoints.
+First overall now collects 1.3 Gold and 3.9 Black ACBL masterpoints.
 
 Extra Points Days all next week -- October 26th through November the 1st!
 
