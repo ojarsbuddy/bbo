@@ -1084,3 +1084,11 @@ Convention Chart Friday 1700 EST
 https://acbl-org.zoom.us/j/9788411379
 
 https://docs.google.com/document/d/1ukrQPcnzxi1V8nxgcCdjs5yOPTLuLkVSDd0irj0z8cE/edit?ts=5e7e29f1#
+
+## 2020.11.23
+
+$14 million in revenue for virtual clubs through October.
+
+1D-(2D), for example, where the cue bid shows natural diamond is alertable.
+
+Click on the player, set ignore and they are unregistered.
