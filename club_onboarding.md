@@ -1092,3 +1092,15 @@ $14 million in revenue for virtual clubs through October.
 1D-(2D), for example, where the cue bid shows natural diamond is alertable.
 
 Click on the player, set ignore and they are unregistered.
+
+## 2020.11.30
+
+BBO issues of unknown provenance.
+
+Voice feature was too confusing to the players.
+
+https://webutil.bridgebase.com/v2/tarchive.php?m=h&h=vacbXXXXXX
+
+Archive link also in the VACB doc https://docs.google.com/document/d/1ukrQPcnzxi1V8nxgcCdjs5yOPTLuLkVSDd0irj0z8cE
+
+No laws against being a bad bridge player.
