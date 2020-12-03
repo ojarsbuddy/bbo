@@ -8,6 +8,10 @@ BBUT 500
 
 <https://my.acbl.org/club-results/240341> for ACBL results
 
+## onboarding new players
+
+remember to modify the tournament, else the lists are not updated
+
 ## hacks
 
 +allavail+
@@ -26,9 +30,17 @@ Your robot reports you offline to BBO.
 
 Surveillance robot reports you offline to BBO.
 
+4 partners offline or inactive on BBO. Where is your partner now?
+
+The near miss crew are just logging on now.
+
+Players cutting it close to the start time: BBO does not seat your pair if one of you is offline or one of you is online but inactive on BBO or one of you has insufficient BBO funds.
+
 Hail, Hail, the Gang's All Here
 
 And they're off!
+
+## after the start
 
 Have a Nice Tournament!!
 
@@ -38,9 +50,9 @@ Be careful on the opening lead by waiting a heartbeat -- the cards move around a
 
 Consider silencing sound effects: "Account" tab on the left --> "Settings" tab above --> "Sound effects on" switch --> flip to the left.
 
-Consider setting automatic play for singletons: "Account" tab on the left --> "Settings" tab above --> "Autoplay singletons" switch --> flip to the right.
+Consider setting automatic play for singletons: "Account" tab on the left or below --> "Settings" tab above --> "Autoplay singletons" switch --> flip to the right.
 
-Consider confirming bids and cards: "Account" tab on the left --> "Settings" tab above --> "Confirm bids" switch --> flip to the right and/or "Confirm cards" switch --> flip to the right.
+Consider confirming bids and cards: "Account" tab on the left or below --> "Settings" tab above --> "Confirm bids" switch --> flip to the right and/or "Confirm cards" switch --> flip to the right.
 
 6 tables in the Limited Game -- your game now scores overalls like a 26 table session!
 
@@ -52,15 +64,9 @@ Please refer to your October 2020 ACBL Bridge Bulletin on page 24 regarding how 
 
 Please read pages 9, 26 and 27 in the July 2020 ACBL Bridge Bulletin concerning Bridge Ethics.
 
-The near miss crew are just logging on now.
-
 Please be online and active on BBO a few minutes prior to game time. Pairs will not get seated when one of the pair does not have sufficient BB\$ in their account.
 
-4 partners offline or inactive on BBO. Where is your partner now?
-
 We have a limited game starting soon; for those collecting masterpoints, there will be more masterpoints awarded today!
-
-Players cutting it close to the start time: BBO does not seat your pair if one of you is offline or one of you is online but inactive on BBO or one of you has insufficient BBO funds.
 
 Please play quickly, alert your own bids, claim when you can.
 Keep all chat until the end of the round.
