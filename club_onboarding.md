@@ -1104,3 +1104,23 @@ https://webutil.bridgebase.com/v2/tarchive.php?m=h&h=vacbXXXXXX
 Archive link also in the VACB doc https://docs.google.com/document/d/1ukrQPcnzxi1V8nxgcCdjs5yOPTLuLkVSDd0irj0z8cE
 
 No laws against being a bad bridge player.
+
+## 2020.12.14
+
+@@@ Add a table? @@@ still on the list
+
+2021 schedule will be up soon.
+
+Login screen changing tomorrow.
+
+New alert procedure in January Bulletin.
+
+New Swiss things -- still working with BBO -- slow turnaround time
+
+Silver January 18th to 24th
+
+Voice chat -- just the table and all the time -- need to reactivate every round
+
+Next week last meeting 2020 and an important announcement
+
+
