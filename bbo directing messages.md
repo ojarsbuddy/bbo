@@ -40,6 +40,8 @@ Hail, Hail, the Gang's All Here
 
 And they're off!
 
+👏👏👏
+
 ## after the start
 
 Have a Nice Tournament!!
@@ -54,7 +56,7 @@ Consider setting automatic play for singletons: "Account" tab on the left or -->
 
 Consider confirming bids and cards: "Account" tab on the left or below --> "Settings" tab above --> "Confirm bids" switch --> flip to the right and/or "Confirm cards" switch --> flip to the right.
 
-6 tables in the Limited Game -- your game now scores overalls like a 26 table session!
+7 tables in the Limited Game -- Open Game now scores overalls like a 26 table session!
 
 First overall now collects 1.3 Gold and 3.9 Black ACBL masterpoints.
 
