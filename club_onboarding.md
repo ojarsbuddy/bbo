@@ -1123,4 +1123,11 @@ Voice chat -- just the table and all the time -- need to reactivate every round
 
 Next week last meeting 2020 and an important announcement
 
+## 2020.12.21
 
+@@@ Able to replace a registered Robot -- but it took many tries @@@
+@@@ Planning to refresh criteria for the include lists? @@@
+
+Rick Beye is retiring
+
+V2 is going out with Flash support evaporating and BBO is removing support for V1.
