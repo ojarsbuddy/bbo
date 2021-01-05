@@ -1131,3 +1131,11 @@ Next week last meeting 2020 and an important announcement
 Rick Beye is retiring
 
 V2 is going out with Flash support evaporating and BBO is removing support for V1.
+
+## 2020.01.04
+
+2020 online tables just over one million tables
+
+New upgrade at BBO going in tonight.
+
+Support Doubles and Weak Jump Shifts do not have to be alerted any more.

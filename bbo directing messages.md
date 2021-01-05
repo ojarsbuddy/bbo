@@ -40,9 +40,13 @@ Hail, Hail, the Gang's All Here
 
 And they're off!
 
-👏👏👏
-
 ## after the start
+
+🤖🤖🤖
+🔥🔥🔥
+👏👏👏
+🎄☃️🎄☃️🎄
+🎅🎁🦌🧦🛷
 
 Have a Nice Tournament!!
 
