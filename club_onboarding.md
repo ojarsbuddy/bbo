@@ -1139,3 +1139,5 @@ V2 is going out with Flash support evaporating and BBO is removing support for V
 New upgrade at BBO going in tonight.
 
 Support Doubles and Weak Jump Shifts do not have to be alerted any more.
+
+BBO funds balance is checked at registration time.
