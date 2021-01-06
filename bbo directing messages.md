@@ -48,11 +48,11 @@ And they're off!
 🎄☃️🎄☃️🎄
 🎅🎁🦌🧦🛷
 
-Have a Nice Tournament!!
+🤖🤖🤖 Have a Nice Tournament!!
 
-Please be kind to your partners and opponents!
+👏👏👏 Please be kind to your partners and opponents!
 
-Be careful on the opening lead by waiting a heartbeat -- the cards move around after the contract is settled.
+🔥🔥🔥 Be careful on the opening lead by waiting a heartbeat -- the cards move around after the contract is settled.
 
 Consider silencing sound effects: "Account" tab on the left --> "Settings" tab above --> "Sound effects on" switch --> flip to the left.
 
@@ -140,23 +140,27 @@ To speed play consider Account --> Settings --> Autoplay singletons.
 
 ## at the table
 
-Director here! How can I help?
+👨‍⚖️👨‍⚖️👨‍⚖️ Director here! How can I help?
 
 North, are you there?
 Your call North.
 North, your play.
+🧭 North is on lead.
 
 South, are you there?
 Your call South.
 South, your play.
+🧭 South is on lead.
 
 East, are you there?
 Your call East.
 East, your play.
+🧭 East is on lead.
 
 West, are you there?
 Your call West.
 West, your play.
+🧭 West is on lead.
 
 Let's wait a minute to see if partner returns before I request a substitute.
 
