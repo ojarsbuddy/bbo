@@ -52,7 +52,7 @@ And they're off!
 
 👏👏👏 Please be kind to your partners and opponents! 👏👏👏
 
-🔥🔥🔥 Be careful on the opening lead by waiting a heartbeat -- the cards move around after the contract is settled. 🔥🔥🔥
+🔥🔥🔥 Be careful on the opening lead by waiting a heartbeat -💓- the cards move around after the contract is settled. 🔥🔥🔥
 
 Consider silencing sound effects: "Account" tab on the left --> "Settings" tab above --> "Sound effects on" switch --> flip to the left.
 
