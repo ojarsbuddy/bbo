@@ -48,11 +48,11 @@ And they're off!
 🎄☃️🎄☃️🎄
 🎅🎁🦌🧦🛷
 
-🤖🤖🤖 Have a Nice Tournament!!
+🤖🤖🤖 Have a Nice Tournament!! 🤖🤖🤖
 
-👏👏👏 Please be kind to your partners and opponents!
+👏👏👏 Please be kind to your partners and opponents! 👏👏👏
 
-🔥🔥🔥 Be careful on the opening lead by waiting a heartbeat -- the cards move around after the contract is settled.
+🔥🔥🔥 Be careful on the opening lead by waiting a heartbeat -- the cards move around after the contract is settled. 🔥🔥🔥
 
 Consider silencing sound effects: "Account" tab on the left --> "Settings" tab above --> "Sound effects on" switch --> flip to the left.
 
@@ -66,9 +66,9 @@ First overall now collects 1.3 Gold and 3.9 Black ACBL masterpoints.
 
 Extra Points Days all next week -- October 26th through November the 1st!
 
-Please refer to your October 2020 ACBL Bridge Bulletin on page 24 regarding how to report suspect hands with respect to potential violations of Bridge Ethics.
+👮👮👮 Please refer to your October 2020 ACBL Bridge Bulletin on page 24 regarding how to report suspect hands with respect to potential violations of Bridge Ethics. 👮👮👮
 
-Please read pages 9, 26 and 27 in the July 2020 ACBL Bridge Bulletin concerning Bridge Ethics.
+👮👮👮 Please read pages 9, 26 and 27 in the July 2020 ACBL Bridge Bulletin concerning Bridge Ethics. 👮👮👮
 
 Please be online and active on BBO a few minutes prior to game time. Pairs will not get seated when one of the pair does not have sufficient BB\$ in their account.
 
@@ -162,9 +162,9 @@ Your call West.
 West, your play.
 🧭 West is on lead.
 
-Let's wait a minute to see if partner returns before I request a substitute.
+⏲️⏲️⏲️ Let's wait a minute to see if partner returns before I request a substitute.
 
-Will reseat you soonest.
+🪑🪑🪑 Will reseat you soonest.
 
 You're back!
 
