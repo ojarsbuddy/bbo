@@ -1141,3 +1141,17 @@ New upgrade at BBO going in tonight.
 Support Doubles and Weak Jump Shifts do not have to be alerted any more.
 
 BBO funds balance is checked at registration time.
+
+## 2020.01.11
+
+Extra money -- our share of $92,000.00
+
+Canceled St. Louis National.
+
+BBO sales tax last Wednesday. Accounting consultant feedback triggered this.
+
+Swiss testing going fairly well -- now a near future item.
+
+New convention card.
+
+Money ACBL is a pass through and no 1099 hence will be sent.
