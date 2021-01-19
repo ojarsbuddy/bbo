@@ -1142,7 +1142,7 @@ Support Doubles and Weak Jump Shifts do not have to be alerted any more.
 
 BBO funds balance is checked at registration time.
 
-## 2020.01.11
+## 2021.01.11
 
 Extra money -- our share of $92,000.00
 
@@ -1155,3 +1155,24 @@ Swiss testing going fairly well -- now a near future item.
 New convention card.
 
 Money ACBL is a pass through and no 1099 hence will be sent.
+
+## 2021.01.18
+
+Live for clubs back up after issues fixed.
+
+Swiss teams got lots of testing. Full rollout coming.
+
+Moving to 1st and 3rd Mondays of the month.
+
+Club manager version of schedule
+<http://web2.acbl.org/documentLibrary/Clubs/2021_Game_Schedule_Club_Manager.pdf>
+
+Moving on doing undo function of some sort.
+
+Problem with using hands rather than random -- game disappeared.
+
+Howell with 8 tables or more the section award limit kicks in, i.e., fewer master points given out.
+
+Suspended the big game listings.
+
+Teaching on new alert procedures.
