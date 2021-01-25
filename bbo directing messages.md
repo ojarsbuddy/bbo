@@ -24,7 +24,7 @@ remember to modify the tournament, else the lists are not updated
 
 ## tournament beginning
 
-Your partner shows offline to BBO.
+🔌🔌🔌 Your partner shows offline to BBO. 🔌🔌🔌
 
 Your robot reports you offline to BBO.
 
@@ -42,9 +42,6 @@ And they're off!
 
 ## after the start
 
-🤖🤖🤖
-🔥🔥🔥
-👏👏👏
 🎄☃️🎄☃️🎄
 🎅🎁🦌🧦🛷
 👹👺
@@ -53,9 +50,15 @@ And they're off!
 
 👏👏👏 Please be kind to your partners and opponents! 👏👏👏
 
-🔥🔥🔥 Be careful on the opening lead by waiting a heartbeat -💓- the cards move around after the contract is settled. 🔥🔥🔥
+🔥🔥🔥 Be careful on the opening lead by waiting a heartbeat -💓💓💓- the cards move around after the contract is settled. 🔥🔥🔥
 
-✴️✴️✴️ Silver points next week! ✴️✴️✴️
+✴️✴️✴️ Silver points all this week! ✴️✴️✴️
+
+🏆🏆🏆 Limited Game tables add up -- Open Game now scores overalls like a 25 table session! 🏆🏆🏆
+
+👮👮👮 Please refer to your October 2020 ACBL Bridge Bulletin on page 24 regarding how to report suspect hands with respect to potential violations of Bridge Ethics. 👮👮👮
+
+👮👮👮 Please read pages 9, 26 and 27 in the July 2020 ACBL Bridge Bulletin concerning Bridge Ethics. 👮👮👮
 
 Consider silencing sound effects: "Account" tab on the left --> "Settings" tab above --> "Sound effects on" switch --> flip to the left.
 
@@ -63,15 +66,9 @@ Consider setting automatic play for singletons: "Account" tab on the left or -->
 
 Consider confirming bids and cards: "Account" tab on the left or below --> "Settings" tab above --> "Confirm bids" switch --> flip to the right and/or "Confirm cards" switch --> flip to the right.
 
-🏆🏆🏆 6 tables in the Limited Game -- Open Game now scores overalls like a 25 table session! 🏆🏆🏆
-
 First overall now collects 1.3 Gold and 3.9 Black ACBL masterpoints.
 
 Extra Points Days all next week -- October 26th through November the 1st!
-
-👮👮👮 Please refer to your October 2020 ACBL Bridge Bulletin on page 24 regarding how to report suspect hands with respect to potential violations of Bridge Ethics. 👮👮👮
-
-👮👮👮 Please read pages 9, 26 and 27 in the July 2020 ACBL Bridge Bulletin concerning Bridge Ethics. 👮👮👮
 
 Please be online and active on BBO a few minutes prior to game time. Pairs will not get seated when one of the pair does not have sufficient BB\$ in their account.
 
@@ -139,35 +136,35 @@ That yellow color is a cue that player has an action
 
 dummy excepted! declarer has that duty
 
-To speed play consider Account --> Settings --> Autoplay singletons.
+🏃💨💨 To speed play consider Account --> Settings --> Autoplay singletons. 🏃💨💨
 
 ## at the table
 
-👨‍⚖️👨‍⚖️👨‍⚖️ Director here! How can I help?
+👨‍⚖️👨‍⚖️👨‍⚖️ Director here! How can I help? 👨‍⚖️👨‍⚖️👨‍⚖️
 
 North, are you there?
-Your call North.
+🤙🤙🤙 Your call North. 🤙🤙🤙
 North, your play.
-🧭 North is on lead.
+🧭🧭🧭 North is on lead. 🧭🧭🧭
 
 South, are you there?
-Your call South.
+🤙🤙🤙 Your call South. 🤙🤙🤙
 South, your play.
-🧭 South is on lead.
+🧭🧭🧭 South is on lead. 🧭🧭🧭
 
 East, are you there?
-Your call East.
+🤙🤙🤙 Your call East. 🤙🤙🤙
 East, your play.
-🧭 East is on lead.
+🧭🧭🧭 East is on lead. 🧭🧭🧭
 
 West, are you there?
-Your call West.
+🤙🤙🤙 Your call West. 🤙🤙🤙
 West, your play.
-🧭 West is on lead.
+🧭🧭🧭 West is on lead. 🧭🧭🧭
 
-⏲️⏲️⏲️ Let's wait a minute to see if partner returns before I request a substitute.
+⏲️⏲️⏲️ Let's wait a minute to see if partner returns before I request a substitute. ⏲️⏲️⏲️
 
-🪑🪑🪑 Will reseat you soonest.
+🪑🪑🪑 Will reseat you soonest. 🪑🪑🪑
 
 You're back!
 
@@ -185,7 +182,7 @@ It is declarer who must play a card from Dummy if it is Dummy's turn to play a c
 
 ## end of session
 
-Thank you for playing this afternoon. Results will be ready soon after at <https://my.acbl.org/club-results/240341> or <https://standrewsbridge.com>
+📈📈📈 Thank you for playing this afternoon. Results will be ready soon after at <https://my.acbl.org/club-results/240341> or <https://standrewsbridge.com> 📈📈📈
 
 Thank you for playing this afternoon. Results will be ready soon after at <https://my.acbl.org/club-results/108480>
 
