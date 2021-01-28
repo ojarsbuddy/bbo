@@ -124,7 +124,8 @@ Misclicks happen. Undos are not allowed, nor is announcing your mistakes. When t
 
 Claim hands when you can. BE KIND, Zero tolerance in effect. Have fun!
 
-Click a bid made by an opponent to silently request an explanation.
+Click a bid made by an opponent to silently r
+equest an explanation.
 
 Clock is winding down, pick up the pace if you are still playing.
 
