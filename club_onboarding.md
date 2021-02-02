@@ -1081,9 +1081,9 @@ When f2f resumes, ACBL plans to give the clubs plenty of bonus point games -- de
 @@@ A pair played today in our limited game whilst traveling on two different airplanes. One player landed in New York and the other landed in Connecticut. @@@
 
 Convention Chart Friday 1700 EST
-https://acbl-org.zoom.us/j/9788411379
+<https://acbl-org.zoom.us/j/9788411379>
 
-https://docs.google.com/document/d/1ukrQPcnzxi1V8nxgcCdjs5yOPTLuLkVSDd0irj0z8cE/edit?ts=5e7e29f1#
+<https://docs.google.com/document/d/1ukrQPcnzxi1V8nxgcCdjs5yOPTLuLkVSDd0irj0z8cE/edit?ts=5e7e29f1>#
 
 ## 2020.11.23
 
@@ -1099,9 +1099,9 @@ BBO issues of unknown provenance.
 
 Voice feature was too confusing to the players.
 
-https://webutil.bridgebase.com/v2/tarchive.php?m=h&h=vacbXXXXXX
+<https://webutil.bridgebase.com/v2/tarchive.php?m=h&h=vacbXXXXXX>
 
-Archive link also in the VACB doc https://docs.google.com/document/d/1ukrQPcnzxi1V8nxgcCdjs5yOPTLuLkVSDd0irj0z8cE
+Archive link also in the VACB doc <https://docs.google.com/document/d/1ukrQPcnzxi1V8nxgcCdjs5yOPTLuLkVSDd0irj0z8cE>
 
 No laws against being a bad bridge player.
 
@@ -1176,3 +1176,15 @@ Howell with 8 tables or more the section award limit kicks in, i.e., fewer maste
 Suspended the big game listings.
 
 Teaching on new alert procedures.
+
+## 2021.02.01
+
+Show tables hides when the window is resized. I have seeen that. The show tables window is outside the viewport of the original window. Just maximize the original window.
+
+Swiss teams have no travelers.
+
+New convention cards availablility. ACBL working on redesigns.
+
+Set number of entries and make it equal to the number of registered to block new entries very close to game time.
+
+Saving table history -- change url.

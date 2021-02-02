@@ -16,6 +16,7 @@ remember to modify the tournament, else the lists are not updated
 
 +allavail+
 +LT=5+
++MPLIMIT=201+
 +MPLIMIT=101+
 +MPLIMIT=51+
 +howell+
@@ -54,7 +55,7 @@ And they're off!
 
 ✴️✴️✴️ Silver points all this week! ✴️✴️✴️
 
-🏆🏆🏆 Limited Game tables add up -- Open Game now scores overalls like a 25 table session! 🏆🏆🏆
+🏆🏆🏆 Our Limited Game tables add to our Open Game tables for better overall scores! 🏆🏆🏆
 
 👮👮👮 Please refer to your October 2020 ACBL Bridge Bulletin on page 24 regarding how to report suspect hands with respect to potential violations of Bridge Ethics. 👮👮👮
 
