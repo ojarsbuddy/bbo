@@ -47,6 +47,8 @@ And they're off!
 🎅🎁🦌🧦🛷
 👹👺
 
+🐈🐱🐆
+
 🤖🤖🤖 Have a Nice Tournament!! 🤖🤖🤖
 
 👏👏👏 Please be kind to your partners and opponents! 👏👏👏
@@ -164,7 +166,7 @@ West, are you there?
 West, your play.
 🧭🧭🧭 West is on lead. 🧭🧭🧭
 
-⏲️⏲️⏲️ Let's wait a minute to see if partner returns before I request a substitute. ⏲️⏲️⏲️
+⏲️⏲️⏲️ Let's wait a minute to see if player returns before I request a substitute. ⏲️⏲️⏲️
 
 🪑🪑🪑 Will reseat you soonest. 🪑🪑🪑
 
