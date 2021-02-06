@@ -6,6 +6,8 @@ Could be two.
 
 Artificial, strong, forcing, 16+ HCP.
 
+Artificial, 0-7 HCP.
+
 Not forcing.
 
 Direct cue-bid that is not Micheals.
