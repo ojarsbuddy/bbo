@@ -2,9 +2,19 @@
 
 Pre-Alert: We play a strong !c and 1!d could be short.
 
+## Openings
+
 Could be two.
 
 Artificial, strong, forcing, 16+ HCP.
+
+6+ !cs, 11-15 HCP.
+
+11-13 HCP, balanced.
+
+15-17 HCP, balanced.
+
+## Responses
 
 Artificial, 0-7 HCP.
 
