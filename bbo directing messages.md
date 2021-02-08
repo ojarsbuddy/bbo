@@ -46,7 +46,7 @@ And they're off!
 🎄☃️🎄☃️🎄
 🎅🎁🦌🧦🛷
 👹👺
-
+💘💋🌹🍫
 🐈🐱🐆
 
 🤖🤖🤖 Have a Nice Tournament!! 🤖🤖🤖
@@ -56,6 +56,8 @@ And they're off!
 🔥🔥🔥 Be careful on the opening lead by waiting a heartbeat -💓💓💓- the cards move around after the contract is settled. 🔥🔥🔥
 
 ✴️✴️✴️ Silver points all this week! ✴️✴️✴️
+
+💘💋🌹🍫 Valentines weekend games Saturday, February 13, and Sunday, February 14 💘💋🌹🍫 extra points 50% red and 50% black 💘💋🌹🍫
 
 🏆🏆🏆 Our Limited Game tables add to our Open Game tables for better overall scores! 🏆🏆🏆
 
