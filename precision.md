@@ -14,6 +14,8 @@ Artificial, strong, forcing, 16+ HCP.
 
 15-17 HCP, balanced.
 
+Pre-emptive.
+
 ## Responses
 
 Artificial, 0-7 HCP.
