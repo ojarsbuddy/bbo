@@ -57,6 +57,8 @@ And they're off!
 
 🥄🥄🥄 Silver points all this week! 🥄🥄🥄
 
+✴️✴️✴️ Charity games coming -- Extra masterpoints all next week! ✴️✴️✴️
+
 💘💋🌹🍫 Valentines weekend games Saturday, February 13, and Sunday, February 14 💘💋🌹🍫 extra points 50% red and 50% black 💘💋🌹🍫
 
 🏆🏆🏆 Our Limited Game tables add to our Open Game tables for better overall scores! 🏆🏆🏆
@@ -73,11 +75,7 @@ Consider confirming bids and cards: "Account" tab on the left or below --> "Sett
 
 First overall now collects 1.3 Gold and 3.9 Black ACBL masterpoints.
 
-Extra Points Days all next week -- October 26th through November the 1st!
-
 Please be online and active on BBO a few minutes prior to game time. Pairs will not get seated when one of the pair does not have sufficient BB\$ in their account.
-
-We have a limited game starting soon; for those collecting masterpoints, there will be more masterpoints awarded today!
 
 Please play quickly, alert your own bids, claim when you can.
 Keep all chat until the end of the round.
@@ -85,8 +83,6 @@ Be kind, Zero Tolerance.
 
 No revokes, no leads out of turn, no bids out of turn, no insufficient bids!
 No spilled drinks, no soft pillows, no moving to the next table!
-
-Welcome to this meet of the Everglades Virtual Bridge Club
 
 Slow tables, note that play ceases when a round ends.
 
@@ -105,8 +101,6 @@ Welcome to the afternoon game at The Everglades Virtual Bridge Club. Please self
 Welcome to the evening game at St. Andrews Virtual Bridge Club. Please self-alert your own bids. Please claim when you can and it makes sense. Please defer chat until end of the round. Please be gracious to one and all.
 
 ## to all during play
-
-Have a Nice Tournament!!
 
 Thank you for playing today!
 
@@ -148,6 +142,8 @@ dummy excepted! declarer has that duty
 
 👨‍⚖️👨‍⚖️👨‍⚖️ Director here! How can I help? 👨‍⚖️👨‍⚖️👨‍⚖️
 
+🪵🪵🪵 Log out and log back in. 🪵🪵🪵
+
 North, are you there?
 🤙🤙🤙 Your call North. 🤙🤙🤙
 North, your play.
@@ -169,6 +165,8 @@ West, your play.
 🧭🧭🧭 West is on lead. 🧭🧭🧭
 
 ⏲️⏲️⏲️ Let's wait a minute to see if player returns before I request a substitute. ⏲️⏲️⏲️
+
+🦆🦆🦆 Arranging a substitute. 🦆🦆🦆
 
 🪑🪑🪑 Will reseat you soonest. 🪑🪑🪑
 
