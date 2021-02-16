@@ -1200,3 +1200,34 @@ Late on money -- but $3 million last month.
 Scheduler does not work for Swiss. Still restricted to 1.5 masterpoints rather than 4. Swiss is not ready for Prime Time. Contracts missing. A pair signed up with one pair and another pair as teams! No stratifications. No table history.
 
 <http://bridge.wespowers.com/BBOTableHistory.html> tool for capturing table histories.
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+
+```javascript
+var firstPart
+var secondPart
+
+$(document).ready(function () {
+  $("#submit").click(function () {
+    var url = $("#url").val()
+    var tables = $("#tables").val()
+
+    var tablePos = url.indexOf("&tbl=") + 5
+    var cuPos = url.indexOf("&", tablePos)
+
+    firstPart = url.substr(0, tablePos)
+    secondPart = url.substr(cuPos)
+
+    $("#links").html("")
+
+    for (var i = 1; i <= tables; i++) {
+      var tableUrl = firstPart + i + secondPart
+      var tableText = "Show History for Table " + i
+
+      $("#links").append(
+        "<a href='" + tableUrl + "' target='results'>" + tableText + "</a><br/>"
+      )
+    }
+  })
+})
+```
