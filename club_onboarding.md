@@ -1187,4 +1187,16 @@ New convention cards availablility. ACBL working on redesigns.
 
 Set number of entries and make it equal to the number of registered to block new entries very close to game time.
 
-Saving table history -- change url.
+Saving table history -- change url to go through the tables efficiently -- noted in the onboarding document.
+
+## 2021.02.15
+
+@@@ Live for clubs has been unstable -- what gives? "That damn gateway timeout again." @@@
+
+Virtual club program manager hired -- Lynn Chapin (lynn.chapin@acbl.org).
+
+Late on money -- but $3 million last month.
+
+Scheduler does not work for Swiss. Still restricted to 1.5 masterpoints rather than 4. Swiss is not ready for Prime Time. Contracts missing. A pair signed up with one pair and another pair as teams! No stratifications. No table history.
+
+<http://bridge.wespowers.com/BBOTableHistory.html> tool for capturing table histories.
