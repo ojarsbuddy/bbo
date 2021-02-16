@@ -67,11 +67,11 @@ And they're off!
 
 👮👮👮 Please read pages 9, 26 and 27 in the July 2020 ACBL Bridge Bulletin concerning Bridge Ethics. 👮👮👮
 
-Consider silencing sound effects: "Account" tab on the left --> "Settings" tab above --> "Sound effects on" switch --> flip to the left.
+Consider silencing sound effects: ➡️ ➡️ "Account" tab on the left ➡️ ➡️ "Settings" tab above ➡️ ➡️ "Sound effects on" switch ➡️ ➡️ flip to the left.
 
-Consider setting automatic play for singletons: "Account" tab on the left or --> "Settings" tab above --> "Autoplay singletons" switch --> flip to the right.
+Consider setting automatic play for singletons: ➡️ ➡️ "Account" tab on the left or ➡️ ➡️ "Settings" tab above ➡️ ➡️ "Autoplay singletons" switch ➡️ ➡️ flip to the right.
 
-Consider confirming bids and cards: "Account" tab on the left or below --> "Settings" tab above --> "Confirm bids" switch --> flip to the right and/or "Confirm cards" switch --> flip to the right.
+Consider confirming bids and cards: ➡️ ➡️ "Account" tab on the left or below ➡️ ➡️ "Settings" tab above ➡️ ➡️ "Confirm bids" switch ➡️ ➡️ flip to the right and/or "Confirm cards" switch ➡️ ➡️ flip to the right.
 
 First overall now collects 1.3 Gold and 3.9 Black ACBL masterpoints.
 
@@ -136,7 +136,7 @@ That yellow color is a cue that player has an action
 
 dummy excepted! declarer has that duty
 
-🏃💨💨 To speed play consider Account --> Settings --> Autoplay singletons. 🏃💨💨
+🏃💨💨 To speed play consider Account ➡️ ➡️ Settings ➡️ ➡️ Autoplay singletons. 🏃💨💨
 
 ## at the table
 
