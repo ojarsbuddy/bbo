@@ -8,7 +8,7 @@ Could be two.
 
 Artificial, strong, forcing, 16+ HCP.
 
-6+ !cs, 11-15 HCP.
+Natural 6+ !cs, 11-15 HCP.
 
 11-13 HCP, balanced.
 
@@ -20,11 +20,11 @@ Pre-emptive.
 
 Artificial, 0-7 HCP.
 
+5+ suit, 8+ HCP.
+
 Not forcing.
 
 Direct cue-bid that is not Micheals.
-
-Natural 6+ !cs, 11-15 HCP.
 
 Shows !cs.
 Relay to !ds.
