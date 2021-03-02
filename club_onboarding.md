@@ -1231,3 +1231,29 @@ $(document).ready(function () {
   })
 })
 ```
+
+## 2021.03.01
+
+@@@ Planning to open face to face with simultaneous virtual section -- one event? @@@ ACBL having discussions.
+
+@@@ One of our attendees is zooming from Iceland. @@@
+
+<http://web2.acbl.org/documentLibrary/Clubs/2021_Game_Schedule_Club_Manager.pdf>
+
+Email poolmaster@acbl.org to fix forgotten hacks -- lynn.chapin@acbl.org.
+
+Swiss tips -- add time to next to last round at the beginning of that round to ensure proper pairings for last round.
+
+Swiss still not part of the masterpoint engine process. Not set up for autoscheduler. Change max registrants to prevent pairs jumping in once the game is set. Still not ready for prime time.
+
+Honors planning to open one venue beginning of April.
+
+ACBLScore still will work for a long tome to come.
+
+Cannot accidently make an illegal bid -- must be intentional.
+
+Howell hack prevents splitting into sections.
+
+Extra Zoom meeting next Monday traning for running Swiss Teams?
+
+Checked at registration time for sufficient funds. People playing in instant tournaments or some such thing might drop funds below the requirements.
