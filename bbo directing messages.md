@@ -69,7 +69,7 @@ And they're off!
 
 Consider silencing sound effects: ➡️ ➡️ "Account" tab on the left ➡️ ➡️ "Settings" tab above ➡️ ➡️ "Sound effects on" switch ➡️ ➡️ flip to the left.
 
-Consider setting automatic play for singletons: ➡️ ➡️ "Account" tab on the left or ➡️ ➡️ "Settings" tab above ➡️ ➡️ "Autoplay singletons" switch ➡️ ➡️ flip to the right.
+🐈🐈🐈 Consider setting automatic play for singletons: ➡️ ➡️ "Account" tab on the left or ➡️ ➡️ "Settings" tab above ➡️ ➡️ "Autoplay singletons" switch ➡️ ➡️ flip to the right. 🐈🐈🐈
 
 Consider confirming bids and cards: ➡️ ➡️ "Account" tab on the left or below ➡️ ➡️ "Settings" tab above ➡️ ➡️ "Confirm bids" switch ➡️ ➡️ flip to the right and/or "Confirm cards" switch ➡️ ➡️ flip to the right.
 
