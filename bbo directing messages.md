@@ -43,6 +43,8 @@ And they're off!
 
 ## after the start
 
+♥ Please do not call TD for unfinished board adjustment unless you think an error has been made. We get a list to review every round and will adjust if result is clear. Answering TD calls about them only slows us down, TY for patience
+
 🎄☃️🎄☃️🎄
 🎅🎁🦌🧦🛷
 👹👺

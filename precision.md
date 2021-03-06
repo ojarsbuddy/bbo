@@ -22,6 +22,8 @@ Artificial, 0-7 HCP.
 
 5+ suit, 8+ HCP.
 
+8-13 balanced.
+
 Not forcing.
 
 Direct cue-bid that is not Micheals.
