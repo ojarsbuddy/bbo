@@ -55,6 +55,8 @@ And they're off!
 
 👏👏👏 Please be kind to your partners and opponents! 👏👏👏
 
+⚠️⚠️⚠️ Please refrain from using table chat to tell everyone (especially your partner) about your agreements when opponents ask ⚠️⚠️⚠️
+
 🔥🔥🔥 Be careful on the opening lead by waiting a heartbeat -💓💓💓- the cards move around after the contract is settled. 🔥🔥🔥
 
 🥄🥄🥄 Silver points all this week! 🥄🥄🥄
