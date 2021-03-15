@@ -59,6 +59,10 @@ And they're off!
 
 🔥🔥🔥 Be careful on the opening lead by waiting a heartbeat -💓💓💓- the cards move around after the contract is settled. 🔥🔥🔥
 
+🪙🪙🪙 Join us for Stardust Week and win gold points online -- all St. Andrews Virtual Club games Monday, March 22 through Sunday, March 28! 🪙🪙🪙
+
+GOLD POINTS next week March 22 thru March 28 Don't miss Monday March 22 our 1 Year Virtual Game Anniversary Game with Gift Certificates awarded!
+
 🥄🥄🥄 Silver points all this week! 🥄🥄🥄
 
 ✴️✴️✴️ Charity games coming -- Extra masterpoints all next week! ✴️✴️✴️
@@ -174,7 +178,7 @@ West, your play.
 
 🪑🪑🪑 Will reseat you soonest. 🪑🪑🪑
 
-You're back!
+🦦🦦🦦 You're back! 🦦🦦🦦
 
 Thank you for substituting!
 
