@@ -1257,3 +1257,10 @@ Howell hack prevents splitting into sections.
 Extra Zoom meeting next Monday traning for running Swiss Teams?
 
 Checked at registration time for sufficient funds. People playing in instant tournaments or some such thing might drop funds below the requirements.
+
+## 2021.03.08
+
+Running Swiss Teams Q&A Session
+
+## 2021.03.1591293663
+

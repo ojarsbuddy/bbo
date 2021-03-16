@@ -16,6 +16,8 @@ Natural 6+ !cs, 11-15 HCP.
 
 Pre-emptive.
 
+singleton or void !d, 11-15 HCP.
+
 ## Responses
 
 Artificial, 0-7 HCP.

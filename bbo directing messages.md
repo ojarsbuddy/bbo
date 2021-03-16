@@ -55,13 +55,14 @@ And they're off!
 
 👏👏👏 Please be kind to your partners and opponents! 👏👏👏
 
+👮👮👮 Please refer to your October 2020 ACBL Bridge Bulletin on page 24 regarding how to report suspect hands with respect to potential violations of Bridge Ethics. 👮👮👮
+
+🪙🪙🪙 GOLD POINTS next week March 22 thru March 28 -- Don't miss Monday March 22 our 1 Year Virtual Game Anniversary Tournament with Gift Certificates awarded! 🪙🪙🪙
+
 ⚠️⚠️⚠️ Please refrain from using table chat to tell everyone (especially your partner) about your agreements when opponents ask ⚠️⚠️⚠️
 
 🔥🔥🔥 Be careful on the opening lead by waiting a heartbeat -💓💓💓- the cards move around after the contract is settled. 🔥🔥🔥
 
-🪙🪙🪙 Join us for Stardust Week and win gold points online -- all St. Andrews Virtual Club games Monday, March 22 through Sunday, March 28! 🪙🪙🪙
-
-GOLD POINTS next week March 22 thru March 28 Don't miss Monday March 22 our 1 Year Virtual Game Anniversary Game with Gift Certificates awarded!
 
 🥄🥄🥄 Silver points all this week! 🥄🥄🥄
 
@@ -71,7 +72,6 @@ GOLD POINTS next week March 22 thru March 28 Don't miss Monday March 22 our 1 Ye
 
 🏆🏆🏆 Our Limited Game tables add to our Open Game tables for better overall scores! 🏆🏆🏆
 
-👮👮👮 Please refer to your October 2020 ACBL Bridge Bulletin on page 24 regarding how to report suspect hands with respect to potential violations of Bridge Ethics. 👮👮👮
 
 👮👮👮 Please read pages 9, 26 and 27 in the July 2020 ACBL Bridge Bulletin concerning Bridge Ethics. 👮👮👮
 
