@@ -1262,5 +1262,38 @@ Checked at registration time for sufficient funds. People playing in instant tou
 
 Running Swiss Teams Q&A Session
 
-## 2021.03.1591293663
+## 2021.03.15
 
+### Phil's notes
+
+the bbo update did not happen, now expected Tomorrow
+vacb will continue when f2f happens
+
+Clubs | American Contract Bridge League – ACBL -- has vacb resource center worth a read by club manager
+
+Clubs | American Contract Bridge League – ACBL
+
+it links to VACB Resource Center  not hosted at acbl
+ 
+VACB Resource Center
+
+send vacb questions to lynn.chapin@acbl.org
+
+only VACB sees who is mucking up allavail -- other directors don't
+
+vacb does not get the message of who is the problem if the offender is playing in another game
+ 
+http://cloud.bridgefinesse.com/ACBLF2FDashBoard.html -- shows how many tables are doing face2face
+I expect a jump in table count April 1st and another May 1st.
+
+Virtual Clubs - Update -- the old document keeps getting updated, not official ACBL document but worth a review every now and then -- first 3 pages should do it (plus anything they reference)
+
+Virtual Clubs - Update
+
+***VACB Online*** ACBL Club Game Dashboard Historical Chart VPORTAL Past Zoom Recordings and Chat links AC...
+
+discussion of sounds and settings in BBO -- some sounds annoy the spouse!
+
+unclear what will happen to bonus vacb masterpoints when face2face is more prevalent -- acbl is thinking about it -- no details any time soon unless something changes
+
+Request that during charity week, clubs be permitted to designate 1 day for a local charity. Suggestion well received by meeting attendees. Very unlikely to happen this go around.
