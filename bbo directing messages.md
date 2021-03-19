@@ -57,12 +57,11 @@ And they're off!
 
 👮👮👮 Please refer to your October 2020 ACBL Bridge Bulletin on page 24 regarding how to report suspect hands with respect to potential violations of Bridge Ethics. 👮👮👮
 
-🪙🪙🪙 GOLD POINTS next week March 22 thru March 28 -- Don't miss Monday March 22 our 1 Year Virtual Game Anniversary Tournament with Gift Certificates awarded! 🪙🪙🪙
+🪙🪙🪙 GOLD POINTS this week March 22 thru March 28 -- today Monday March 22 our 1 Year Virtual Game Anniversary Tournament with Gift Certificates awarded! 🪙🪙🪙
 
 ⚠️⚠️⚠️ Please refrain from using table chat to tell everyone (especially your partner) about your agreements when opponents ask ⚠️⚠️⚠️
 
 🔥🔥🔥 Be careful on the opening lead by waiting a heartbeat -💓💓💓- the cards move around after the contract is settled. 🔥🔥🔥
-
 
 🥄🥄🥄 Silver points all this week! 🥄🥄🥄
 
@@ -72,12 +71,11 @@ And they're off!
 
 🏆🏆🏆 Our Limited Game tables add to our Open Game tables for better overall scores! 🏆🏆🏆
 
-
 👮👮👮 Please read pages 9, 26 and 27 in the July 2020 ACBL Bridge Bulletin concerning Bridge Ethics. 👮👮👮
 
 Consider silencing sound effects: ➡️ ➡️ "Account" tab on the left ➡️ ➡️ "Settings" tab above ➡️ ➡️ "Sound effects on" switch ➡️ ➡️ flip to the left.
 
-🐈🐈🐈 Consider setting automatic play for singletons: ➡️ ➡️ "Account" tab on the left or ➡️ ➡️ "Settings" tab above ➡️ ➡️ "Autoplay singletons" switch ➡️ ➡️ flip to the right. 🐈🐈🐈
+🐈🐈🐈 Consider setting automatic play for singletons: ➡️ ➡️ "Account" tab on the left or below ➡️ ➡️ "Settings" tab above ➡️ ➡️ "Autoplay singletons" switch ➡️ ➡️ flip to the right. 🐈🐈🐈
 
 Consider confirming bids and cards: ➡️ ➡️ "Account" tab on the left or below ➡️ ➡️ "Settings" tab above ➡️ ➡️ "Confirm bids" switch ➡️ ➡️ flip to the right and/or "Confirm cards" switch ➡️ ➡️ flip to the right.
 
