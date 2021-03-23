@@ -1273,8 +1273,8 @@ Clubs | American Contract Bridge League – ACBL -- has vacb resource center wor
 
 Clubs | American Contract Bridge League – ACBL
 
-it links to VACB Resource Center  not hosted at acbl
- 
+it links to VACB Resource Center not hosted at acbl
+
 VACB Resource Center
 
 send vacb questions to lynn.chapin@acbl.org
@@ -1282,7 +1282,7 @@ send vacb questions to lynn.chapin@acbl.org
 only VACB sees who is mucking up allavail -- other directors don't
 
 vacb does not get the message of who is the problem if the offender is playing in another game
- 
+
 http://cloud.bridgefinesse.com/ACBLF2FDashBoard.html -- shows how many tables are doing face2face
 I expect a jump in table count April 1st and another May 1st.
 
@@ -1290,10 +1290,20 @@ Virtual Clubs - Update -- the old document keeps getting updated, not official A
 
 Virtual Clubs - Update
 
-***VACB Online*** ACBL Club Game Dashboard Historical Chart VPORTAL Past Zoom Recordings and Chat links AC...
+**_VACB Online_** ACBL Club Game Dashboard Historical Chart VPORTAL Past Zoom Recordings and Chat links AC...
 
 discussion of sounds and settings in BBO -- some sounds annoy the spouse!
 
 unclear what will happen to bonus vacb masterpoints when face2face is more prevalent -- acbl is thinking about it -- no details any time soon unless something changes
 
 Request that during charity week, clubs be permitted to designate 1 day for a local charity. Suggestion well received by meeting attendees. Very unlikely to happen this go around.
+
+## 2021.03.22
+
+Running Swiss Teams Q&A Session
+
+Still no stratification -- try Eight Is Enough format?
+
+Instant launch trick - edit tournament run time down to 0 then modicfy tournament. Then edit tournament again and the game launches immediately.
+
+Sub order -- take care! BBO has its own idea of where to put people.
