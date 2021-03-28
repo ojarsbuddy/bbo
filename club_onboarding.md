@@ -1283,7 +1283,7 @@ only VACB sees who is mucking up allavail -- other directors don't
 
 vacb does not get the message of who is the problem if the offender is playing in another game
 
-http://cloud.bridgefinesse.com/ACBLF2FDashBoard.html -- shows how many tables are doing face2face
+<http://cloud.bridgefinesse.com/ACBLF2FDashBoard.html> -- shows how many tables are doing face2face
 I expect a jump in table count April 1st and another May 1st.
 
 Virtual Clubs - Update -- the old document keeps getting updated, not official ACBL document but worth a review every now and then -- first 3 pages should do it (plus anything they reference)
