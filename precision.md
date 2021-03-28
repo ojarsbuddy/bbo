@@ -26,6 +26,8 @@ Artificial, 0-7 HCP.
 
 8-13 balanced.
 
+14-15 balanced.
+
 Not forcing.
 
 Direct cue-bid that is not Micheals.
@@ -36,6 +38,4 @@ Shows !ds.
 Shows !hs.
 Shows !ss.
 
-
 ## Rebids
-
