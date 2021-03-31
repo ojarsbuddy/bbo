@@ -57,13 +57,13 @@ And they're off!
 
 👮👮👮 Please refer to your October 2020 ACBL Bridge Bulletin on page 24 regarding how to report suspect hands with respect to potential violations of Bridge Ethics. 👮👮👮
 
-Some of our pairs have not prepared convention cards. Going forward please arrange to remedy that deficiency.
-
-🪙🪙🪙 GOLD POINTS this week March 22 thru March 28 -- today Monday March 22 our 1 Year Virtual Game Anniversary Tournament with Gift Certificates awarded! 🪙🪙🪙
+📇📇📇 Some of our pairs have not prepared convention cards. Going forward please arrange to remedy that deficiency. 📇📇📇
 
 ⚠️⚠️⚠️ Please refrain from using table chat to tell everyone (especially your partner) about your agreements when opponents ask ⚠️⚠️⚠️
 
 🔥🔥🔥 Be careful on the opening lead by waiting a heartbeat -💓💓💓- the cards move around after the contract is settled. 🔥🔥🔥
+
+🪙🪙🪙 GOLD POINTS this week March 22 thru March 28 -- today Monday March 22 our 1 Year Virtual Game Anniversary Tournament with Gift Certificates awarded! 🪙🪙🪙
 
 🥄🥄🥄 Silver points all this week! 🥄🥄🥄
 
