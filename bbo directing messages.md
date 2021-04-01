@@ -27,7 +27,7 @@ remember to modify the tournament, else the lists are not updated
 
 🔌🔌🔌 Your partner shows offline to BBO. 🔌🔌🔌
 
-Your robot reports you offline to BBO.
+🔌🔌🔌 Your robot reports you offline to BBO. 🔌🔌🔌
 
 Surveillance robot reports you offline to BBO.
 
@@ -67,7 +67,7 @@ And they're off!
 
 🥄🥄🥄 Silver points all this week! 🥄🥄🥄
 
-✴️✴️✴️ Charity games coming -- Extra masterpoints all next week! ✴️✴️✴️
+✔️✔️✔️ Charity games coming -- Extra masterpoints all next week! ✔️✔️✔️
 
 💘💋🌹🍫 Valentines weekend games Saturday, February 13, and Sunday, February 14 💘💋🌹🍫 extra points 50% red and 50% black 💘💋🌹🍫
 
