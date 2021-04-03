@@ -39,3 +39,5 @@ Shows !hs.
 Shows !ss.
 
 ## Rebids
+
+17-19 HCP balanced.
