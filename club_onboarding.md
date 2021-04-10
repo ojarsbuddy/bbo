@@ -1316,7 +1316,7 @@ Sub order -- take care! BBO has its own idea of where to put people.
 
 Video launch did not go well. Will be a cost for video: $0.03 per player per board.
 
-Substantial uptick in face to face. February it was 2500 tables and March was 3500 tables. Still a drop un the bucket.
+Substantial uptick in face to face. February it was 2500 tables and March was 3500 tables. Still a drop in the bucket.
 
 Requiring vaccinations does not make the game invitational. Like having a shirt and shoes!
 
@@ -1324,7 +1324,7 @@ Reorganization of website to include virtual club interests.
 
 Fixing Swiss and video.
 
-Instant launch again - bring it to 0 minutes,modify, close, open it wiil see the -1's, then ...
+Instant launch again - bring it to 0 minutes,modify, close, open it will see the -1's, then ...
 
 Lovebridge platform. <https://lovebridge.com/>
 
