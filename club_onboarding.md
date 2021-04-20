@@ -1329,3 +1329,17 @@ Instant launch again - bring it to 0 minutes,modify, close, open it will see the
 Lovebridge platform. <https://lovebridge.com/>
 
 ACBLScore not going away.
+
+## 2021.04.19
+
+@@@ Combine face to face and virtual. @@@ Same story as last meet.
+
+Marketing talk by Mary Stratton.
+
+Machine at each table dealing cards - Aviv.
+
+Which convention chart is the club employing: Basic, Basic+, Open, Open+?
+
+The Basic and Basic+ Charts are intended for limited master point events. These Charts are written in manner similar to the old charts --by listing permitted methods.
+
+The Open and Open+ Charts are intended for events with no masterpoint limits (or high limits). In contrast to the Basic and Basic+ Charts, methods are generally allowed unless they are expressly prohibited within the Chart.
