@@ -1343,3 +1343,13 @@ Which convention chart is the club employing: Basic, Basic+, Open, Open+?
 The Basic and Basic+ Charts are intended for limited master point events. These Charts are written in manner similar to the old charts --by listing permitted methods.
 
 The Open and Open+ Charts are intended for events with no masterpoint limits (or high limits). In contrast to the Basic and Basic+ Charts, methods are generally allowed unless they are expressly prohibited within the Chart.
+
+## 2021.05.03
+
+@@@ Simultaneous play @@@ Sent email to Greg Coles and Lynn Chapin
+
+Maximum BBO$ purchase is $200 at one time.
+
+We can do NAP games.
+
+The robot sitout idea to apply in combined games?
