@@ -60,6 +60,8 @@ And they're off!
 
 👏👏👏 Please be kind to your partners and opponents! 👏👏👏
 
+🏎️🏎️🏎️ Lead swiftly and well! 🏎️🏎️🏎️
+
 👮👮👮 Please refer to your October 2020 ACBL Bridge Bulletin on page 24 regarding how to report suspect hands with respect to potential violations of Bridge Ethics. 👮👮👮
 
 📇📇📇 Some of our pairs have not prepared convention cards. Going forward please arrange to remedy that deficiency. 📇📇📇
