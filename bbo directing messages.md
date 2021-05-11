@@ -52,10 +52,6 @@ And they're off!
 📃
 🐈🐱🐆🐧🏇🏿
 
-🥂🥂🥂 Well done all! 🥂🥂🥂
-
-🎳🎳🎳 Just bowling along!! 🎳🎳🎳
-
 🤖🤖🤖 Have a Nice Tournament!! 🤖🤖🤖
 
 👏👏👏 Please be kind to your partners and opponents! 👏👏👏
@@ -154,6 +150,10 @@ dummy excepted! declarer has that duty
 🏃💨💨 To speed play consider Account ➡️ ➡️ Settings ➡️ ➡️ Autoplay singletons. 🏃💨💨
 
 ## at the table
+
+🥂🥂🥂 Brilliantly done all! 🥂🥂🥂
+
+🎳🎳🎳 Just bowling along!! 🎳🎳🎳
 
 👨‍⚖️👨‍⚖️👨‍⚖️ Director here! How can I help? 👨‍⚖️👨‍⚖️👨‍⚖️
 
