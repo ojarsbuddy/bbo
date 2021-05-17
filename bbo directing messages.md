@@ -60,7 +60,7 @@ And they're off!
 
 👮👮👮 Please refer to your October 2020 ACBL Bridge Bulletin on page 24 regarding how to report suspect hands with respect to potential violations of Bridge Ethics. 👮👮👮
 
-📇📇📇 Some of our pairs have not prepared convention cards. Going forward please arrange to remedy that deficiency. 📇📇📇
+📇📇📇 Some of our pairs have not prepared convention cards. Going forward please arrange to remedy that deficiency. Find tutorial link on St. Andrews Bridge website. 📇📇📇
 
 ⚠️⚠️⚠️ Please refrain from using table chat to tell everyone (especially your partner) about your agreements when opponents ask ⚠️⚠️⚠️
 
@@ -154,6 +154,8 @@ dummy excepted! declarer has that duty
 🥂🥂🥂 Brilliantly done all! 🥂🥂🥂
 
 🎳🎳🎳 Just bowling along!! 🎳🎳🎳
+
+🧈🧈🧈 Smooth ride prior round! 🧈🧈🧈
 
 👨‍⚖️👨‍⚖️👨‍⚖️ Director here! How can I help? 👨‍⚖️👨‍⚖️👨‍⚖️
 

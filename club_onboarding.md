@@ -1353,3 +1353,7 @@ Maximum BBO$ purchase is $200 at one time.
 We can do NAP games.
 
 The robot sitout idea to apply in combined games?
+
+## 2021.05.1700
+
+@@@ Swapping robot out of the declarer position? @@@ojarsbuddy
