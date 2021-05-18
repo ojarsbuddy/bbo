@@ -1354,6 +1354,28 @@ We can do NAP games.
 
 The robot sitout idea to apply in combined games?
 
-## 2021.05.1700
+## 2021.05.17
 
-@@@ Swapping robot out of the declarer position? @@@ojarsbuddy
+@@@ Swapping declarer and dummy to get the robot out of the declarer position? @@@ Discussed with Uday but not high in the list -- apparently it is complicated.
+@@@ Combine face to face and virtual. @@@ Will not happen.
+@@@ Any suggestions as to a source for robots when we go face-to-face? @@@ The old idea with tablets or laptops. How about building a bridge playing robot?
+
++NAP+ hack. We can pick the games over three months. Extra $4 per table. Two per month?
+Longest Day games have precedence. Same rule for Stardust game.
+Might be last Silver Linings.
+
+More clubs opening up. Still a small percentage: 15% of clubs but half the table count as before.
+
+Profile pictures are back.
+
+Addressing the masterpoints issued online versus face-to-face. Demand show vaccination proof - Aviv.
+
+SYC games slowly going down but still raise $30,000 in a month.
+
+Confident virtual clubs are here to stay.
+
+Bridgemates issues?
+
+Strats for Swiss is second on Uday's list. First is points shown by BBO.
+
+Refresher for ACBLscore.
