@@ -45,12 +45,12 @@ And they're off!
 
 ♥ Please do not call TD for unfinished board adjustment unless you think an error has been made. We get a list to review every round and will adjust if result is clear. Answering TD calls about them only slows us down, TY for patience
 
-🎄☃️🎄☃️🎄
-🎅🎁🦌🧦🛷
-👹👺
-💘💋🌹🍫
-📃
-🐈🐱🐆🐧🏇🏿
+🎄 ☃️ 🎄 ☃️ 🎄
+🎅 🎁 🦌 🧦 🛷
+👹 👺
+💘 💋 🌹 🍫
+📃 🎶 🎵 🎤
+🐈 🐱 🐆 🐧 🏇🏿
 
 🤖🤖🤖 Have a Nice Tournament!! 🤖🤖🤖
 
@@ -68,7 +68,9 @@ And they're off!
 
 🪙🪙🪙 GOLD POINTS this week March 22 thru March 28 -- today Monday March 22 our 1 Year Virtual Game Anniversary Tournament with Gift Certificates awarded! 🪙🪙🪙
 
-🥄🥄🥄 Silver points all this week! 🥄🥄🥄
+🥄🥄🥄 Dine on Silver Points all this week! 🥄🥄🥄
+
+🎶🎵🎤 Silver Points! 🎵🎤🎶 Silver Points! 🎤🎶🎵
 
 ✔️✔️✔️ Charity games coming -- Extra masterpoints all next week! ✔️✔️✔️
 
