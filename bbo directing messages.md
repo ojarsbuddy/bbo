@@ -54,6 +54,8 @@ And they're off!
 
 🤖🤖🤖 Have a Nice Tournament!! 🤖🤖🤖
 
+We are open Monday!
+
 👏👏👏 Please be kind to your partners and opponents! 👏👏👏
 
 🏎️🏎️🏎️ Lead swiftly and well! 🏎️🏎️🏎️
