@@ -1379,3 +1379,5 @@ Bridgemates issues?
 Strats for Swiss is second on Uday's list. First is points shown by BBO.
 
 Refresher for ACBLscore.
+
+## 2021.06.07

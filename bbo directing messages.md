@@ -54,11 +54,11 @@ And they're off!
 
 🤖🤖🤖 Have a Nice Tournament!! 🤖🤖🤖
 
-We are open Monday!
-
 👏👏👏 Please be kind to your partners and opponents! 👏👏👏
 
 🏎️🏎️🏎️ Lead swiftly and well! 🏎️🏎️🏎️
+
+⚠️⚠️⚠️ Remember to self-alert! ⚠️⚠️⚠️
 
 👮👮👮 Please refer to your October 2020 ACBL Bridge Bulletin on page 24 regarding how to report suspect hands with respect to potential violations of Bridge Ethics. 👮👮👮
 
