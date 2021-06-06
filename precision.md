@@ -26,6 +26,8 @@ Artificial, 0-7 HCP.
 
 8-13 balanced.
 
+8-10 balanced.
+
 14-15 balanced.
 
 Not forcing.
