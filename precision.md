@@ -38,6 +38,11 @@ Shows !ds.
 Shows !hs.
 Shows !ss.
 
+1 or 4 key cards.
+0 or 3 key cards.
+2 key cards without trump Q.
+2 key cards with trump Q.
+
 ## Rebids
 
 17-19 HCP balanced.
