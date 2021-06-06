@@ -1201,7 +1201,7 @@ Scheduler does not work for Swiss. Still restricted to 1.5 masterpoints rather t
 
 <http://bridge.wespowers.com/BBOTableHistory.html> tool for capturing table histories.
 
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+`<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>`
 
 ```javascript
 var firstPart
