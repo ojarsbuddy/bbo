@@ -1381,3 +1381,11 @@ Strats for Swiss is second on Uday's list. First is points shown by BBO.
 Refresher for ACBLscore.
 
 ## 2021.06.07
+
+Table count at face-to-face clubs doubled again month over month.
+
+Return to face-to-face. Short term actions. Table credit for limited games. Has to be same club number! Games of same class are separate games -- no table credit. Run unlimited sessions for remainder of 2021.
+
+Allow 8 weeks of "Welcome Back" games at club championship rating, starting July 1st. Allow 2 weeks of "Super Welcome Back" games at upgraded club championship rating. Can also run regular club championship games and normal special games!
+
+July 1st dropping multiplier to 1.25 from 1.50. Intend to eliminate it later.
