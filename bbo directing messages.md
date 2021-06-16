@@ -52,9 +52,9 @@ And they're off!
 📃 🎶 🎵 🎤
 🐈 🐱 🐆 🐧 🏇🏿
 
-🤖🤖🤖 Have a Nice Tournament!! 🤖🤖🤖
-
 👏👏👏 Please be kind to your partners and opponents! 👏👏👏
+
+🤖🤖🤖 Have a Nice Tournament!! 🤖🤖🤖
 
 🏎️🏎️🏎️ Lead swiftly and well! 🏎️🏎️🏎️
 
