@@ -1389,3 +1389,17 @@ Return to face-to-face. Short term actions. Table credit for limited games. Has 
 Allow 8 weeks of "Welcome Back" games at club championship rating, starting July 1st. Allow 2 weeks of "Super Welcome Back" games at upgraded club championship rating. Can also run regular club championship games and normal special games!
 
 July 1st dropping multiplier to 1.25 from 1.50. Intend to eliminate it later.
+
+## 2021.06.21
+
+@@@ When we go face-to-face can some of the money placed in BBO be refunded? @@@ Official policy is no refunds. Can try BBO help.
+
+@@@ No robots will be allowed in NAP qualifying games per 6/14/2021 revision. @ We can use robots but the pair will not qualify.
+
+Longest Day dates went a bit off. Saturday mistake did not run as Longest Day but fixed. Also set up as $3 per table rather than $4.
+
+BBO server update coming this week. Set convention card at the registration screen.
+
+NAP games masterpoints OK but cannot Q.
+
+Alive for Clubs can hide results via a setting.
