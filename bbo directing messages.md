@@ -25,7 +25,7 @@ remember to modify the tournament, else the lists are not updated
 
 ## tournament beginning
 
-🔌🔌🔌 Your partner shows offline to BBO. 🔌🔌🔌
+🔌🔌🔌 The robots say your partner shows offline to BBO. 🔌🔌🔌
 
 🔌🔌🔌 Your robot reports you offline to BBO. 🔌🔌🔌
 
@@ -51,6 +51,7 @@ And they're off!
 💘 💋 🌹 🍫
 📃 🎶 🎵 🎤
 🐈 🐱 🐆 🐧 🏇🏿
+🤣🤣🤣 🦃🦃🦃
 
 👏👏👏 Please be kind to your partners and opponents! 👏👏👏
 
@@ -75,6 +76,8 @@ And they're off!
 🎶🎵🎤 Silver Points! 🎵🎤🎶 Silver Points! 🎤🎶🎵
 
 ✔️✔️✔️ Charity games coming -- Extra masterpoints all next week! ✔️✔️✔️
+
+✔️✔️✔️ Red/Black games all the rest of the month! ✔️✔️✔️
 
 💘💋🌹🍫 Valentines weekend games Saturday, February 13, and Sunday, February 14 💘💋🌹🍫 extra points 50% red and 50% black 💘💋🌹🍫
 
