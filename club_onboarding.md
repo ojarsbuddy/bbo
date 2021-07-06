@@ -1402,4 +1402,8 @@ BBO server update coming this week. Set convention card at the registration scre
 
 NAP games masterpoints OK but cannot Q.
 
-Alive for Clubs can hide results via a setting.
+Live for Clubs can hide results via a setting.
+
+## 2021.07.05
+
+Live For Clubs still an issue.
