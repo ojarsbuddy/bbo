@@ -22,6 +22,7 @@ remember to modify the tournament, else the lists are not updated
 +howell+
 +hm18+
 +rounds5+
++nap+
 
 ## tournament beginning
 
@@ -60,6 +61,12 @@ And they're off!
 🏎️🏎️🏎️ Lead swiftly and well! 🏎️🏎️🏎️
 
 ⚠️⚠️⚠️ Remember to self-alert! ⚠️⚠️⚠️
+
+✔️✔️✔️ Open July 4th Sunday! ✔️✔️✔️
+
+💋💋💋 Red points July 4th through July 10th. 💋💋💋
+
+Today you play every other pair -- 2 boards per round.
 
 👮👮👮 Please refer to your October 2020 ACBL Bridge Bulletin on page 24 regarding how to report suspect hands with respect to potential violations of Bridge Ethics. 👮👮👮
 
