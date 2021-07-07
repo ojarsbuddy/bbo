@@ -66,7 +66,9 @@ And they're off!
 
 💋💋💋 Red points July 4th through July 10th. 💋💋💋
 
-Today you play every other pair -- 2 boards per round.
+💋💋💋 Red points Wednesday July 14th and Thursday July 15th. 💋💋💋
+
+🐫🐫🐫 Today you play every other pair -- 2 boards per round. 🐫🐫🐫
 
 👮👮👮 Please refer to your October 2020 ACBL Bridge Bulletin on page 24 regarding how to report suspect hands with respect to potential violations of Bridge Ethics. 👮👮👮
 
