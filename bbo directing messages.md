@@ -64,9 +64,11 @@ And they're off!
 
 ✔️✔️✔️ Open July 4th Sunday! ✔️✔️✔️
 
-💋💋💋 Red points July 4th through July 10th. 💋💋💋
+💋💋💋 Red points Sunday July 18th through Saturday July 24th. 💋💋💋
 
 💋💋💋 Red points Wednesday July 14th and Thursday July 15th. 💋💋💋
+
+🪙🪙🪙 Gold masterpoints Monday July 26th -– Sunday Aug. 1st 🪙🪙🪙
 
 🐫🐫🐫 Today you play every other pair -- 2 boards per round. 🐫🐫🐫
 
@@ -77,8 +79,6 @@ And they're off!
 ⚠️⚠️⚠️ Please refrain from using table chat to tell everyone (especially your partner) about your agreements when opponents ask ⚠️⚠️⚠️
 
 🔥🔥🔥 Be careful on the opening lead by waiting a heartbeat -💓💓💓- the cards move around after the contract is settled. 🔥🔥🔥
-
-🪙🪙🪙 GOLD POINTS this week March 22 thru March 28 -- today Monday March 22 our 1 Year Virtual Game Anniversary Tournament with Gift Certificates awarded! 🪙🪙🪙
 
 🥄🥄🥄 Dine on Silver Points all this week! 🥄🥄🥄
 
