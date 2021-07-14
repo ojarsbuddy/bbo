@@ -56,6 +56,8 @@ And they're off!
 
 👏👏👏 Please be kind to your partners and opponents! 👏👏👏
 
+📃📃📃 Convention cards -- please use 'em! 📃📃📃
+
 🤖🤖🤖 Have a Nice Tournament!! 🤖🤖🤖
 
 🏎️🏎️🏎️ Lead swiftly and well! 🏎️🏎️🏎️
@@ -65,8 +67,6 @@ And they're off!
 ✔️✔️✔️ Open July 4th Sunday! ✔️✔️✔️
 
 💋💋💋 Red points Sunday July 18th through Saturday July 24th. 💋💋💋
-
-💋💋💋 Red points Wednesday July 14th and Thursday July 15th. 💋💋💋
 
 🪙🪙🪙 Gold masterpoints Monday July 26th -– Sunday Aug. 1st 🪙🪙🪙
 
