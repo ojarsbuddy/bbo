@@ -30,7 +30,7 @@ remember to modify the tournament, else the lists are not updated
 
 🔌🔌🔌 Your robot reports you offline to BBO. 🔌🔌🔌
 
-Surveillance robot reports you offline to BBO.
+🔌🔌🔌 Surveillance robot reports you offline to BBO. 🔌🔌🔌
 
 4 partners offline or inactive on BBO. Where is your partner now?
 
@@ -41,6 +41,8 @@ Players cutting it close to the start time: BBO does not seat your pair if one o
 Hail, Hail, the Gang's All Here
 
 And they're off!
+
+We filled the seats today -- perhaps another time?
 
 ## after the start
 
@@ -68,7 +70,7 @@ And they're off!
 
 💋💋💋 Red points Sunday July 18th through Saturday July 24th. 💋💋💋
 
-🪙🪙🪙 Gold masterpoints Monday July 26th -– Sunday Aug. 1st 🪙🪙🪙
+⭐⭐⭐ Gold masterpoints Monday July 26th -– Sunday Aug. 1st ⭐⭐⭐
 
 🐫🐫🐫 Today you play every other pair -- 2 boards per round. 🐫🐫🐫
 
