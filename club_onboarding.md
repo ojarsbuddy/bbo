@@ -1407,3 +1407,7 @@ Live for Clubs can hide results via a setting.
 ## 2021.07.05
 
 Live For Clubs still an issue.
+
+## 2021.07.19
+
+Meeting cancelled. Louis
