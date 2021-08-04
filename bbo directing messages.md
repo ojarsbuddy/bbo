@@ -68,9 +68,9 @@ We filled the seats today -- perhaps another time?
 
 ✔️✔️✔️ Open July 4th Sunday! ✔️✔️✔️
 
-💋💋💋 Red points Sunday July 18th through Saturday July 24th. 💋💋💋
-
 ⭐⭐⭐ Gold masterpoints Monday July 26th -– Sunday Aug. 1st ⭐⭐⭐
+
+💋💋💋 Red points Monday August 2nd — Sunday August 8th. 💋💋💋
 
 🐫🐫🐫 Today you play every other pair -- 2 boards per round. 🐫🐫🐫
 
