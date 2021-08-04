@@ -16,7 +16,7 @@ Natural 6+ !cs, 11-15 HCP.
 
 Pre-emptive.
 
-singleton !d or void, 11-15 HCP.
+singleton !d or void !d, 11-15 HCP.
 
 ## Responses
 
