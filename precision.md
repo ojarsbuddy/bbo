@@ -4,7 +4,7 @@ Pre-Alert: We play a strong !c and 1!d could be short.
 
 ## Openings
 
-Could be two.
+Could be two !ds.
 
 Artificial, strong, forcing, 16+ HCP.
 

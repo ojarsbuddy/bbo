@@ -44,6 +44,8 @@ And they're off!
 
 We filled the seats today -- perhaps another time?
 
+This is an invitational club and members invite the guests.
+
 ## after the start
 
 ♥ Please do not call TD for unfinished board adjustment unless you think an error has been made. We get a list to review every round and will adjust if result is clear. Answering TD calls about them only slows us down, TY for patience
@@ -70,7 +72,7 @@ We filled the seats today -- perhaps another time?
 
 ⭐⭐⭐ Gold masterpoints Monday July 26th -– Sunday Aug. 1st ⭐⭐⭐
 
-💋💋💋 Red points Monday August 2nd — Sunday August 8th. 💋💋💋
+💋💋💋 Red points Monday August 16th — Sunday August 22nd. 💋💋💋
 
 🐫🐫🐫 Today you play every other pair -- 2 boards per round. 🐫🐫🐫
 
