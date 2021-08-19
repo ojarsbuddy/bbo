@@ -1,0 +1,10 @@
+Use phone as modem - Nokia 1.4
+
+    Slide up the bottom menu.
+    Select Settings.
+    Select Network and Internet.
+    Select Hotspot and tethering.
+    Select Wi-Fi hotspot.
+    Select Hotspot password.
+    Enter a Wi-Fi hotspot password of at least 8 characters and select OK. Wi-Fi hotspot password.
+    Turn Wi-Fi hotspot on.

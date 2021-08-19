@@ -16,6 +16,7 @@ remember to modify the tournament, else the lists are not updated
 
 +allavail+
 +LT=5+
++MPLIMIT=501+
 +MPLIMIT=201+
 +MPLIMIT=101+
 +MPLIMIT=51+
@@ -72,7 +73,7 @@ This is an invitational club and members invite the guests.
 
 ⭐⭐⭐ Gold masterpoints Monday July 26th -– Sunday Aug. 1st ⭐⭐⭐
 
-💋💋💋 Red points Monday August 16th — Sunday August 22nd. 💋💋💋
+💋💋💋 Red points tday through Sunday August 22nd. 💋💋💋
 
 🐫🐫🐫 Today you play every other pair -- 2 boards per round. 🐫🐫🐫
 
