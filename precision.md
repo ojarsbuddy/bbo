@@ -26,13 +26,13 @@ Artificial, 0-7 HCP.
 
 5+ suit, 8+ HCP.
 
-8-10 balanced.
+8-10 HCP, balanced.
 
-8-13 balanced.
+8-13 HCP, balanced.
 
-14-15 balanced.
+14-15 HCP, balanced.
 
-14-16 balanced.
+14-16 HCP, balanced.
 
 Not forcing.
 
@@ -51,6 +51,6 @@ Shows !ss.
 
 ## Rebids
 
-17-19 HCP balanced.
+17-19 HCP, balanced.
 
-14-16 balanced.
+14-16 HCP, balanced.
