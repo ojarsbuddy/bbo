@@ -18,17 +18,21 @@ Pre-emptive.
 
 singleton !d or void !d, 11-15 HCP.
 
+6+ !cs, 11-15 HCP.
+
 ## Responses
 
 Artificial, 0-7 HCP.
 
 5+ suit, 8+ HCP.
 
-8-13 balanced.
-
 8-10 balanced.
 
+8-13 balanced.
+
 14-15 balanced.
+
+14-16 balanced.
 
 Not forcing.
 

@@ -73,7 +73,7 @@ This is an invitational club and members invite the guests.
 
 ⭐⭐⭐ Gold masterpoints Monday July 26th -– Sunday Aug. 1st ⭐⭐⭐
 
-💋💋💋 Red points tday through Sunday August 22nd. 💋💋💋
+💋💋💋 Red points today through Sunday August 22nd. 💋💋💋
 
 🐫🐫🐫 Today you play every other pair -- 2 boards per round. 🐫🐫🐫
 
