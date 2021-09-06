@@ -59,7 +59,7 @@ This is an invitational club and members invite the guests.
 🐈 🐱 🐆 🐧 🏇🏿
 🤣🤣🤣 🦃🦃🦃
 
-👏👏👏 Please be kind to your partners and opponents! 👏👏👏
+👏👏👏 Please be kind to your partners, robots and opponents! 👏👏👏
 
 📃📃📃 Convention cards -- please use 'em! 📃📃📃
 
@@ -68,6 +68,16 @@ This is an invitational club and members invite the guests.
 🏎️🏎️🏎️ Lead swiftly and well! 🏎️🏎️🏎️
 
 ⚠️⚠️⚠️ Remember to self-alert! ⚠️⚠️⚠️
+
+🎁🎁🎁 Holiday Games at Special Times
+Tuesday September 7th game
+starts at 1:00 and finishes at about 3:00.
+Thursday September 16th game
+starts at 1:00 and finishes at about 3:00. 🎁🎁🎁
+
+🌎🌎🌎 International Fund Weekend
+Saturday September 11th and Sunday the 12th
+2x regular club points, all black. 🌎🌎🌎
 
 ✔️✔️✔️ Open July 4th Sunday! ✔️✔️✔️
 
@@ -85,7 +95,9 @@ This is an invitational club and members invite the guests.
 
 🔥🔥🔥 Be careful on the opening lead by waiting a heartbeat -💓💓💓- the cards move around after the contract is settled. 🔥🔥🔥
 
-🥄🥄🥄 Dine on Silver Points all this week! 🥄🥄🥄
+🥄🥄🥄 Silver Linings Week
+Monday September 20th through Sunday the 26th
+2x regular club points, 100% silver. 🥄🥄🥄
 
 🎶🎵🎤 Silver Points! 🎵🎤🎶 Silver Points! 🎤🎶🎵
 
