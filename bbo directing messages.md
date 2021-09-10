@@ -69,9 +69,7 @@ This is an invitational club and members invite the guests.
 
 ⚠️⚠️⚠️ Remember to self-alert! ⚠️⚠️⚠️
 
-🎁🎁🎁 Holiday Games at Special Times
-Tuesday September 7th game
-starts at 1:00 and finishes at about 3:00.
+🎁🎁🎁 Holiday Game at Special Time
 Thursday September 16th game
 starts at 1:00 and finishes at about 3:00. 🎁🎁🎁
 
@@ -81,7 +79,7 @@ Saturday September 11th and Sunday the 12th
 
 ✔️✔️✔️ Open July 4th Sunday! ✔️✔️✔️
 
-⭐⭐⭐ Gold masterpoints Monday July 26th -– Sunday Aug. 1st ⭐⭐⭐
+⭐⭐⭐ Gold masterpoints Monday July 26th -– Sunday Aug. 1st ⭐⭐⭐w
 
 💋💋💋 Red points today through Sunday August 22nd. 💋💋💋
 
