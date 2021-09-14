@@ -1410,4 +1410,14 @@ Live For Clubs still an issue.
 
 ## 2021.07.19
 
-Meeting cancelled. Louis
+Meeting cancelled.
+
+## 2021.09.13
+
+Visitor policy - has stayed the same for about a year, some clubs have issues with compliance, new policy launch soon.
+
+Special events - have not figured out November yet.
+
+Tournaments are back - paramount idea is safety; not planning on line regional events, Austin National is still on.
+
+Swiss Team improvements - strats still not done, odd number of teams not handled still, allavail finished, ties finished. Not ready for prime time.
