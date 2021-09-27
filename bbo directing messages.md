@@ -59,7 +59,11 @@ This is an invitational club and members invite the guests.
 🐈 🐱 🐆 🐧 🏇🏿
 🤣🤣🤣 🦃🦃🦃
 
-👏👏👏 Please be kind to your partners, robots and opponents! 👏👏👏
+⏰⏰⏰ Reschedule due to The Enhancement Meeting --
+Tuesday September 13th game
+starts at 1:00 and finishes at about 3:00 ⏰⏰⏰
+
+👏👏👏 Please be kind to your opponents, the robots and your partners too! 👏👏👏
 
 📃📃📃 Convention cards -- please use 'em! 📃📃📃
 
@@ -77,7 +81,9 @@ starts at 1:00 and finishes at about 3:00. 🎁🎁🎁
 Saturday September 11th and Sunday the 12th
 2x regular club points, all black. 🌎🌎🌎
 
-✔️✔️✔️ Open July 4th Sunday! ✔️✔️✔️
+✔️✔️✔️ Club Appreciation Week
+Monday October 11th through Sunday the 17th
+2x regular club points, all black! ✔️✔️✔️
 
 ⭐⭐⭐ Gold masterpoints Monday July 26th -– Sunday Aug. 1st ⭐⭐⭐w
 
@@ -94,8 +100,8 @@ Saturday September 11th and Sunday the 12th
 🔥🔥🔥 Be careful on the opening lead by waiting a heartbeat -💓💓💓- the cards move around after the contract is settled. 🔥🔥🔥
 
 🥄🥄🥄 Silver Linings Week
-Monday September 20th through Sunday the 26th
-2x regular club points, 100% silver. 🥄🥄🥄
+today through Sunday the 26th
+2x regular club points, 100% double silver. 🥄🥄🥄
 
 🎶🎵🎤 Silver Points! 🎵🎤🎶 Silver Points! 🎤🎶🎵
 
