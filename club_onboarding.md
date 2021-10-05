@@ -1421,3 +1421,19 @@ Special events - have not figured out November yet.
 Tournaments are back - paramount idea is safety; not planning on line regional events, Austin National is still on.
 
 Swiss Team improvements - strats still not done, odd number of teams not handled still, allavail finished, ties finished. Not ready for prime time.
+
+## 2021.10.04
+
+Visitor policy has not changed. Working on a new version.
+
+Tweak to include lists two months ago. Adding folks in recent face-to-face games.
+
+Special events October virtual clubs appreciation week no extra fee and cannot run a GNT game.
+
+Meeting structure: shorter and more often. Keep meeting to an hour. Twice a month but different times and days. Fifteen days after the Monday proposed.
+
+The face-to-face upgraded club championships require 18 boards.
+
+Swiss remains unready for prime time.
+
+The $1.75 games have been around since 2004.
