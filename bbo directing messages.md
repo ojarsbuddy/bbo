@@ -59,10 +59,6 @@ This is an invitational club and members invite the guests.
 🐈 🐱 🐆 🐧 🏇🏿
 🤣🤣🤣 🦃🦃🦃
 
-⏰⏰⏰ Reschedule due to The Enhancement Meeting --
-Tuesday September 13th game
-starts at 1:00 and finishes at about 3:00 ⏰⏰⏰
-
 👏👏👏 Please be kind to your opponents, the robots and your partners too! 👏👏👏
 
 📃📃📃 Convention cards -- please use 'em! 📃📃📃
@@ -76,6 +72,10 @@ starts at 1:00 and finishes at about 3:00 ⏰⏰⏰
 🎁🎁🎁 Holiday Game at Special Time
 Thursday September 16th game
 starts at 1:00 and finishes at about 3:00. 🎁🎁🎁
+
+⏰⏰⏰ Reschedule due to The Enhancement Meeting --
+Tuesday September 13th game
+starts at 1:00 and finishes at about 3:00 ⏰⏰⏰
 
 🌎🌎🌎 International Fund Weekend
 Saturday September 11th and Sunday the 12th
