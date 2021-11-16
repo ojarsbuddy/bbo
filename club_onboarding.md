@@ -1437,3 +1437,5 @@ The face-to-face upgraded club championships require 18 boards.
 Swiss remains unready for prime time.
 
 The $1.75 games have been around since 2004.
+
+## 2021.10.20 Mid-Month Club Meeting
