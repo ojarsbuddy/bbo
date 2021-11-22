@@ -59,11 +59,13 @@ This is an invitational club and members invite the guests.
 🐈 🐱 🐆 🐧 🏇🏿
 🤣🤣🤣 🦃🦃🦃
 
+🦃🦃🦃 Thanksgiving Day Game Play from 1PM to 3PM Thursday November 25th 🦃🦃🦃
+
 🎈🎈🎈Bonnie offers this delightful short musical about bridge! Copy and paste into your browser.🎈🎈🎈 https://www.youtube.com/watch?v=56Ez7YgHioQ
 
 👏👏👏 Please be kind to your opponents, the robots and your partners too! 👏👏👏
 
-📃📃📃 Convention cards -- please use 'em! 📃📃📃
+📃📃📃 Convention cards -- please post 'em! 📃📃📃
 
 🤖🤖🤖 Have a Nice Tournament!! 🤖🤖🤖
 
