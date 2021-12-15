@@ -1438,4 +1438,43 @@ Swiss remains unready for prime time.
 
 The $1.75 games have been around since 2004.
 
+### Phil's notes
+
+visitor policy is under review -- NB I will believe it when I see it.
+
+Just in case anyone has any issues with OLDER MAC users, they will no
+longer be able to sign in to BBO because of a server certificate issue.
+I had 2 people that encountered that problem this weekend.
+
+Largest clubs not in compliance with the 15% Visitor Policy for the week of 10/2/21:
+(Source: BridgeFinesse.com)
+
+Total Guests Pct_Guests Club_No Name Games
+5422 2350 43.34 248732 Gryphons II DBC 72
+2424 851 35.11 260117 BAND Online 56
+1088 577 53.03 262410 Brunswick Bridge 35
+
+above data from Virtual Clubs - Update
+
+**_VACB Online Information_** (Independent views and not those of the ACBL) ACBL Club Game Dashboard Historic...
+
+Sept 22, 2021 ACBL has restored the access to monthly Race information. Bridge Finesse has updated the Club based view of these races in your Dropbox/Races folder.
+
+meetings will be twice a month
+Monday Meetings will be limited to 60 minutes
+
 ## 2021.10.20 Mid-Month Club Meeting
+
+## 2021.12.13
+
+Austin NABC masked with about 2500 attendees.
+
+Sanction renewals for 2022.
+
+Board of Directors meeting next Monday. Will cover special events calendar.
+
+Swiss team games will finally be stratified.
+
+Eight club championships, the one for the quarter and two upgraded club championships. Pick a week and all games that wek will be some form of club championship. Apparently the unused carryover can be used next year. Verified!
+
+Cheating detection in upcoming BBO upgrade.
