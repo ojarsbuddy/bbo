@@ -77,10 +77,6 @@ This is an invitational club and members invite the guests.
 Thursday September 16th game
 starts at 1:00 and finishes at about 3:00. 🎁🎁🎁
 
-⏰⏰⏰ Reschedule due to The Enhancement Meeting --
-Tuesday September 13th game
-starts at 1:00 and finishes at about 3:00 ⏰⏰⏰
-
 🌎🌎🌎 International Fund Weekend
 Saturday September 11th and Sunday the 12th
 2x regular club points, all black. 🌎🌎🌎
@@ -125,13 +121,7 @@ Consider silencing sound effects: ➡️ ➡️ "Account" tab on the left ➡️
 
 Consider confirming bids and cards: ➡️ ➡️ "Account" tab on the left or below ➡️ ➡️ "Settings" tab above ➡️ ➡️ "Confirm bids" switch ➡️ ➡️ flip to the right and/or "Confirm cards" switch ➡️ ➡️ flip to the right.
 
-First overall now collects 1.3 Gold and 3.9 Black ACBL masterpoints.
-
 Please be online and active on BBO a few minutes prior to game time. Pairs will not get seated when one of the pair does not have sufficient BB\$ in their account.
-
-Please play quickly, alert your own bids, claim when you can.
-Keep all chat until the end of the round.
-Be kind, Zero Tolerance.
 
 No revokes, no leads out of turn, no bids out of turn, no insufficient bids!
 No spilled drinks, no soft pillows, no moving to the next table!
@@ -142,15 +132,7 @@ The GIB Robot adjusts unfinished boards. If GIB gets stuck on a board, a directo
 
 Click on the blue box in the chat window to pick your chat recipient
 
-Remember to self-alert conventional bids.
-
 Open Chart applies; Your convention card will default to SAYC if it is not set to something else.
-
-Your convention card will default to SAYC if it is not set to something else.
-
-Welcome to the afternoon game at The Everglades Virtual Bridge Club. Please self-alert your own bids. Please claim when you can. Please defer chat until end of the round. Please be gracious to one and all.
-
-Welcome to the evening game at St. Andrews Virtual Bridge Club. Please self-alert your own bids. Please claim when you can and it makes sense. Please defer chat until end of the round. Please be gracious to one and all.
 
 ## to all during play
 
