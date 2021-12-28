@@ -73,6 +73,12 @@ This is an invitational club and members invite the guests.
 
 ⚠️⚠️⚠️ Remember to self-alert! ⚠️⚠️⚠️
 
+🌎🌎🌎 Junior Fund Sessions - January 6th–9th 2x regular club points, 100% black. 🎁🎁🎁
+🌎🌎🌎 Junior Fund Sessions - January 6th–9th 2x regular club points, 100% black. 🎁🎁🎁
+
+🥄🥄🥄 Silver Linings Week - January 17th–23rd
+2x regular club points, 100% silver. 🥄🥄🥄
+
 🎁🎁🎁 Holiday Game at Special Time
 Thursday September 16th game
 starts at 1:00 and finishes at about 3:00. 🎁🎁🎁
@@ -98,10 +104,6 @@ Monday October 11th through Sunday the 17th
 ⚠️⚠️⚠️ Please refrain from using table chat to tell everyone (especially your partner) about your agreements when opponents ask ⚠️⚠️⚠️
 
 🔥🔥🔥 Be careful on the opening lead by waiting a heartbeat -💓💓💓- the cards move around after the contract is settled. 🔥🔥🔥
-
-🥄🥄🥄 Silver Linings Week
-today through Sunday the 26th
-2x regular club points, 100% double silver. 🥄🥄🥄
 
 🎶🎵🎤 Silver Points! 🎵🎤🎶 Silver Points! 🎤🎶🎵
 
