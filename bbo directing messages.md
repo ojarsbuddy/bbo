@@ -73,7 +73,7 @@ This is an invitational club and members invite the guests.
 
 ⚠️⚠️⚠️ Remember to self-alert! ⚠️⚠️⚠️
 
-🌎🌎🌎 Junior Fund Sessions - January 6th–9th 2x regular club points, 100% black. 🎁🎁🎁
+🌎🌎🌎 Junior Fund Sessions - January 6th–9th, Thurs.-Sun, 2x regular club points, 100% black. 🎁🎁🎁
 
 🥄🥄🥄 Silver Linings Week - January 17th–23rd
 2x regular club points, 100% silver. 🥄🥄🥄
