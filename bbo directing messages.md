@@ -120,9 +120,9 @@ Monday October 11th through Sunday the 17th
 
 👮👮👮 Please read pages 9, 26 and 27 in the July 2020 ACBL Bridge Bulletin concerning Bridge Ethics. 👮👮👮
 
-Consider silencing sound effects: ➡️ ➡️ "Account" tab on the left ➡️ ➡️ "Settings" tab above ➡️ ➡️ "Sound effects on" switch ➡️ ➡️ flip to the left.
+Consider silencing sound effects: ➡️ ➡️ "Account" tab on the left ➡️ ➡️ or below ⬇️ ⬇️ "Settings" tab above ➡️ ➡️ "Sound effects on" switch ➡️ ➡️ flip to the left.
 
-🐈🐈🐈 Consider setting automatic play for singletons: ➡️ ➡️ "Account" tab on the left or below ➡️ ➡️ "Settings" tab above ➡️ ➡️ "Autoplay singletons" switch ➡️ ➡️ flip to the right. 🐈🐈🐈
+🐈🐈🐈 Consider setting automatic play for singletons: ➡️ ➡️ "Account" tab on the left ➡️ ➡️ or below ⬇️ ⬇️ "Settings" tab above ➡️ ➡️ "Autoplay singletons" switch ➡️ ➡️ flip to the right. 🐈🐈🐈
 
 Consider confirming bids and cards: ➡️ ➡️ "Account" tab on the left or below ➡️ ➡️ "Settings" tab above ➡️ ➡️ "Confirm bids" switch ➡️ ➡️ flip to the right and/or "Confirm cards" switch ➡️ ➡️ flip to the right.
 
