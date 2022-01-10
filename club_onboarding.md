@@ -1478,3 +1478,9 @@ Swiss team games will finally be stratified.
 Eight club championships, the one for the quarter and two upgraded club championships. Pick a week and all games that wek will be some form of club championship. Apparently the unused carryover can be used next year. Verified!
 
 Cheating detection in upcoming BBO upgrade.
+
+## 2022.01.10
+
+@@@ robot balance? @@@
+
+@@@ robot strat? @@@
