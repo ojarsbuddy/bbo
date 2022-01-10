@@ -231,11 +231,11 @@ It is declarer who must play a card from Dummy if it is Dummy's turn to play a c
 
 📈📈📈 Thank you for playing this afternoon. Results will be ready soon after at <https://my.acbl.org/club-results/240341> or <https://standrewsbridge.com> 📈📈📈
 
-Thank you for playing this afternoon. Results will be ready soon after at <https://my.acbl.org/club-results/108480>
+📈📈📈 Thank you for playing this afternoon. Results will be ready soon after at <https://my.acbl.org/club-results/108480> 📈📈📈
 
-Thank you for playing this afternoon. Results will be ready soon after at <https://my.acbl.org/club-results/277079>
+📈📈📈 Thank you for playing this afternoon. Results will be ready soon after at <https://my.acbl.org/club-results/277079> 📈📈📈
 
-Thank you for playing this evening. Results will be ready soon after at <https://my.acbl.org/club-results/108480>
+📈📈📈 Thank you for playing this evening. Results will be ready soon after at <https://my.acbl.org/club-results/108480> 📈📈📈
 
 ## notes to director
 
