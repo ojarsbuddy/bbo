@@ -31,7 +31,13 @@ remember to modify the tournament, else the lists are not updated
 
 🔌🔌🔌 Your robot reports you offline to BBO. 🔌🔌🔌
 
-🔌🔌🔌 Surveillance robot reports you offline to BBO. 🔌🔌🔌
+🔌🔌🔌 Surveillance robots report you offline to BBO. 🔌🔌🔌
+
+We filled the seats today -- perhaps another time?
+
+This is an invitational club and members invite the guests.
+
+### retired
 
 4 partners offline or inactive on BBO. Where is your partner now?
 
@@ -43,23 +49,15 @@ Hail, Hail, the Gang's All Here
 
 And they're off!
 
-We filled the seats today -- perhaps another time?
-
-This is an invitational club and members invite the guests.
-
-## after the start
-
-♥ Please do not call TD for unfinished board adjustment unless you think an error has been made. We get a list to review every round and will adjust if result is clear. Answering TD calls about them only slows us down, TY for patience
+## announcements after the start
 
 🎄 ☃️ 🎄 ☃️ 🎄
 🎅 🎁 🦌 🧦 🛷
-👹 👺
+👹 👺🐓🐔🐤
 💘 💋 🌹 🍫
 📃 🎶 🎵 🎤
 🐈 🐱 🐆 🐧 🏇🏿
 🤣🤣🤣 🦃🦃🦃
-
-🦃🦃🦃 Thanksgiving Day Game Play from 1PM to 3PM Thursday November 25th 🦃🦃🦃
 
 🎈🎈🎈Bonnie offers this delightful short musical about bridge! Copy and paste into your browser.🎈🎈🎈 <https://www.youtube.com/watch?v=56Ez7YgHioQ>
 
@@ -73,10 +71,20 @@ This is an invitational club and members invite the guests.
 
 ⚠️⚠️⚠️ Remember to self-alert! ⚠️⚠️⚠️
 
-🌎🌎🌎 Junior Fund Sessions - January 6th–9th, Thurs.-Sun, 2x regular club points, 100% black. 🎁🎁🎁
-
 🥄🥄🥄 Silver Linings Week - January 17th–23rd
 2x regular club points, 100% silver. 🥄🥄🥄
+
+🎶🎵🎤 Silver Points! 🎵🎤🎶 Silver Points! 🎤🎶🎵
+
+🐫🐫🐫 Today you play every other pair -- 2 boards per round. 🐫🐫🐫
+
+🏃💨💨 To speed play consider Account ➡️ ➡️ Settings ➡️ ➡️ Autoplay singletons. 🏃💨💨
+
+### Retired announcements
+
+🌎🌎🌎 Junior Fund Sessions - January 6th–9th, Thurs.-Sun, 2x regular club points, 100% black. 🎁🎁🎁
+
+🦃🦃🦃 Thanksgiving Day Game Play from 1PM to 3PM Thursday November 25th 🦃🦃🦃
 
 🎁🎁🎁 Holiday Game at Special Time
 Thursday September 16th game
@@ -94,8 +102,6 @@ Monday October 11th through Sunday the 17th
 
 💋💋💋 Red points today through Sunday August 22nd. 💋💋💋
 
-🐫🐫🐫 Today you play every other pair -- 2 boards per round. 🐫🐫🐫
-
 👮👮👮 Please refer to your October 2020 ACBL Bridge Bulletin on page 24 regarding how to report suspect hands with respect to potential violations of Bridge Ethics. 👮👮👮
 
 📇📇📇 Some of our pairs have not prepared convention cards. Going forward please arrange to remedy that deficiency. Find tutorial link on St. Andrews Bridge website. 📇📇📇
@@ -103,8 +109,6 @@ Monday October 11th through Sunday the 17th
 ⚠️⚠️⚠️ Please refrain from using table chat to tell everyone (especially your partner) about your agreements when opponents ask ⚠️⚠️⚠️
 
 🔥🔥🔥 Be careful on the opening lead by waiting a heartbeat -💓💓💓- the cards move around after the contract is settled. 🔥🔥🔥
-
-🎶🎵🎤 Silver Points! 🎵🎤🎶 Silver Points! 🎤🎶🎵
 
 ✔️✔️✔️ Charity games coming -- Extra masterpoints all next week! ✔️✔️✔️
 
@@ -135,7 +139,7 @@ Click on the blue box in the chat window to pick your chat recipient
 
 Open Chart applies; Your convention card will default to SAYC if it is not set to something else.
 
-## to all during play
+♥ Please do not call TD for unfinished board adjustment unless you think an error has been made. We get a list to review every round and will adjust if result is clear. Answering TD calls about them only slows us down, TY for patience
 
 Thank you for playing today!
 
@@ -170,8 +174,6 @@ your yellow means it is your turn
 That yellow color is a cue that player has an action
 
 dummy excepted! declarer has that duty
-
-🏃💨💨 To speed play consider Account ➡️ ➡️ Settings ➡️ ➡️ Autoplay singletons. 🏃💨💨
 
 ## at the table
 
