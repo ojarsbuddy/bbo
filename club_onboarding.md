@@ -1487,4 +1487,6 @@ Cheating detection in upcoming BBO upgrade.
 
 @@@ Gatlinburg? @@@ Still on.
 
-Some staff turnover affected materpointing games. BBO does not apply LT hacks or deny points to robot pairs.
+Some staff turnover affected masterpointing games. BBO does not apply LT hacks or deny points to robot pairs.
+
+Will show virtual special games schedule out to June.
