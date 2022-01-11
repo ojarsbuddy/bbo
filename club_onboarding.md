@@ -1481,6 +1481,10 @@ Cheating detection in upcoming BBO upgrade.
 
 ## 2022.01.10
 
-@@@ robot balance? @@@
+@@@ robot balance? @@@ "It's a Temporary Inconvenience for a Permanent Solution!". Fixed but not deployed.
 
-@@@ robot strat? @@@
+@@@ robot strat? @@@ "It's a Temporary Inconvenience for a Permanent Solution!". Fixed but not deployed.
+
+@@@ Gatlinburg? @@@ Still on.
+
+Some staff turnover affected materpointing games. BBO does not apply LT hacks or deny points to robot pairs.
