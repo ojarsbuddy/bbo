@@ -76,9 +76,15 @@ And they're off!
 
 🎶🎵🎤 Silver Points! 🎵🎤🎶 Silver Points! 🎤🎶🎵
 
+🎁🎁🎁 Valentines Day Monday the 14th prizes 🎁🎁🎁
+
 🐫🐫🐫 Today you play every other pair -- 2 boards per round. 🐫🐫🐫
 
+🐫🐫🐫 Today you play nine of eleven other pairs -- 2 boards per round. 🐫🐫🐫
+
 🏃💨💨 To speed play consider Account ➡️ ➡️ Settings ➡️ ➡️ Autoplay singletons. 🏃💨💨
+
+💻💻💻 If you have an ipad or another apple product, you can adjust the auto-lock setting. 💻💻💻
 
 ### Retired announcements
 

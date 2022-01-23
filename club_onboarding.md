@@ -1204,32 +1204,32 @@ Scheduler does not work for Swiss. Still restricted to 1.5 masterpoints rather t
 `<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>`
 
 ```javascript
-var firstPart
-var secondPart
+var firstPart;
+var secondPart;
 
 $(document).ready(function () {
   $("#submit").click(function () {
-    var url = $("#url").val()
-    var tables = $("#tables").val()
+    var url = $("#url").val();
+    var tables = $("#tables").val();
 
-    var tablePos = url.indexOf("&tbl=") + 5
-    var cuPos = url.indexOf("&", tablePos)
+    var tablePos = url.indexOf("&tbl=") + 5;
+    var cuPos = url.indexOf("&", tablePos);
 
-    firstPart = url.substr(0, tablePos)
-    secondPart = url.substr(cuPos)
+    firstPart = url.substr(0, tablePos);
+    secondPart = url.substr(cuPos);
 
-    $("#links").html("")
+    $("#links").html("");
 
     for (var i = 1; i <= tables; i++) {
-      var tableUrl = firstPart + i + secondPart
-      var tableText = "Show History for Table " + i
+      var tableUrl = firstPart + i + secondPart;
+      var tableText = "Show History for Table " + i;
 
       $("#links").append(
         "<a href='" + tableUrl + "' target='results'>" + tableText + "</a><br/>"
-      )
+      );
     }
-  })
-})
+  });
+});
 ```
 
 ## 2021.03.01
@@ -1490,3 +1490,9 @@ Cheating detection in upcoming BBO upgrade.
 Some staff turnover affected masterpointing games. BBO does not apply LT hacks or deny points to robot pairs.
 
 Will show virtual special games schedule out to June.
+
+## 2022
+
+@@@ robots freezing @@@
+
+@@@ bad robots e.g. AQx vs KJxxx started with the J and blocked the suit in NT! @@@
