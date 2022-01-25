@@ -71,10 +71,7 @@ And they're off!
 
 ⚠️⚠️⚠️ Remember to self-alert! ⚠️⚠️⚠️
 
-🥄🥄🥄 Silver Linings Week - January 17th–23rd
-2x regular club points, 100% silver. 🥄🥄🥄
-
-🎶🎵🎤 Silver Points! 🎵🎤🎶 Silver Points! 🎤🎶🎵
+💘 💋 🌹 Valentine’s Weekend February 12th & 13th 2x regular club points, 50% red, 50% black. 💘 💋 🌹
 
 🎁🎁🎁 Valentines Day Monday the 14th prizes 🎁🎁🎁
 
@@ -87,6 +84,11 @@ And they're off!
 💻💻💻 If you have an ipad or another apple product, you can adjust the auto-lock setting. 💻💻💻
 
 ### Retired announcements
+
+🥄🥄🥄 Silver Linings Week - January 17th–23rd
+2x regular club points, 100% silver. 🥄🥄🥄
+
+🎶🎵🎤 Silver Points! 🎵🎤🎶 Silver Points! 🎤🎶🎵
 
 🌎🌎🌎 Junior Fund Sessions - January 6th–9th, Thurs.-Sun, 2x regular club points, 100% black. 🎁🎁🎁
 
