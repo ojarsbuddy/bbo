@@ -4,7 +4,7 @@ Pre-Alert: We play a strong !c and 1!d could be short.
 
 ## Openings
 
-lc be two !ds.
+Could be two !ds.
 
 Artificial, strong, forcing, 16+ HCP.
 
@@ -16,7 +16,7 @@ Natural 6+ !cs, 11-15 HCP.
 
 Pre-emptive.
 
-singleton !d or void !d, 11-15 HCP.
+Singleton !d or void !d, 11-15 HCP.
 
 6+ !cs, 11-15 HCP.
 
