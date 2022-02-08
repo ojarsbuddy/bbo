@@ -59,8 +59,6 @@ And they're off!
 🐈 🐱 🐆 🐧 🏇🏿
 🤣🤣🤣 🦃🦃🦃
 
-🎈🎈🎈Bonnie offers this delightful short musical about bridge! Copy and paste into your browser.🎈🎈🎈 <https://www.youtube.com/watch?v=56Ez7YgHioQ>
-
 👏👏👏 Please be kind to your opponents, the robots and your partners too! 👏👏👏
 
 📃📃📃 Convention cards -- please post 'em! 📃📃📃
@@ -73,7 +71,7 @@ And they're off!
 
 💘 💋 🌹 Valentine’s Weekend February 12th & 13th 2x regular club points, 50% red, 50% black. 💘 💋 🌹
 
-🎁🎁🎁 Valentines Day Monday the 14th prizes 🎁🎁🎁
+🎁🎁🎁 Valentines Day Monday the 14th random gift card prizes 🎁🎁🎁
 
 🐫🐫🐫 Today you play every other pair -- 2 boards per round. 🐫🐫🐫
 
@@ -84,6 +82,8 @@ And they're off!
 💻💻💻 If you have an ipad or another apple product, you can adjust the auto-lock setting. 💻💻💻
 
 ### Retired announcements
+
+🎈🎈🎈Bonnie offers this delightful short musical about bridge! Copy and paste into your browser.🎈🎈🎈 <https://www.youtube.com/watch?v=56Ez7YgHioQ>
 
 🥄🥄🥄 Silver Linings Week - January 17th–23rd
 2x regular club points, 100% silver. 🥄🥄🥄

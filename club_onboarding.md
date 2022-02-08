@@ -1491,8 +1491,20 @@ Some staff turnover affected masterpointing games. BBO does not apply LT hacks o
 
 Will show virtual special games schedule out to June.
 
-## 2022
+## 2022.01.10
 
 @@@ robots freezing @@@
 
 @@@ bad robots e.g. AQx vs KJxxx started with the J and blocked the suit in NT! @@@
+
+## 2022.02.07
+
+Matchpoints not correct when making an adjustment over multiple sections.
+
+Psyching -- national psyche data base?
+
+Fractional minutes idea again.
+
+Flavors of robots!
+
+Royal STaCs. Every district can run one before the end of April.
