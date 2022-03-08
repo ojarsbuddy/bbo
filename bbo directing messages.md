@@ -69,19 +69,19 @@ And they're off!
 
 ⚠️⚠️⚠️ Remember to self-alert! ⚠️⚠️⚠️
 
-💘 💋 🌹 Valentine’s Weekend February 12th & 13th 2x regular club points, 50% red, 50% black. 💘 💋 🌹
-
-🎁🎁🎁 Valentines Day Monday the 14th random gift card prizes 🎁🎁🎁
-
 🐫🐫🐫 Today you play every other pair -- 2 boards per round. 🐫🐫🐫
 
 🐫🐫🐫 Today you play nine of eleven other pairs -- 2 boards per round. 🐫🐫🐫
 
 🏃💨💨 To speed play consider Account ➡️ ➡️ Settings ➡️ ➡️ Autoplay singletons. 🏃💨💨
 
-💻💻💻 If you have an ipad or another apple product, you can adjust the auto-lock setting. 💻💻💻
+💻💻💻 If you have an ipad or another apple product, adjust the auto-lock setting to stay active longer on BBO. 💻💻💻
 
 ### Retired announcements
+
+💘 💋 🌹 Valentine’s Weekend February 12th & 13th 2x regular club points, 50% red, 50% black. 💘 💋 🌹
+
+🎁🎁🎁 Valentines Day Monday the 14th random gift card prizes 🎁🎁🎁
 
 🎈🎈🎈Bonnie offers this delightful short musical about bridge! Copy and paste into your browser.🎈🎈🎈 <https://www.youtube.com/watch?v=56Ez7YgHioQ>
 
