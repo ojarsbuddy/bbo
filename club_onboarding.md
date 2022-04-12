@@ -1508,3 +1508,21 @@ Fractional minutes idea again.
 Flavors of robots!
 
 Royal STaCs. Every district can run one before the end of April.
+
+## 2022.04.11
+
+"EDGAR" (Electronic Data Gathering and Anti-cheating Radar)
+
+What are the 17 conditions that have survived scrutiny?
+
+- Underleading AK to partner's Q
+- Bad landings
+- Five of a major frequency after Blackwoods
+
+Improving Live For Clubs response
+
+Include list snowbird improvement relative to dropping off the list after two months
+
+Catchup disbursements once a year for online games to sweep small amounts away.
+
+Update to ACBL covid protocols?
