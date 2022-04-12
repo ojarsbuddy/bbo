@@ -59,6 +59,8 @@ And they're off!
 🐈 🐱 🐆 🐧 🏇🏿
 🤣🤣🤣 🦃🦃🦃
 
+✋✋✋ Common game hands today ✋✋✋
+
 👏👏👏 Please be kind to your opponents, the robots and your partners too! 👏👏👏
 
 📃📃📃 Convention cards -- please post 'em! 📃📃📃
