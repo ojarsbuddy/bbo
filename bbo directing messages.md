@@ -108,7 +108,7 @@ Saturday September 11th and Sunday the 12th
 Monday October 11th through Sunday the 17th
 2x regular club points, all black! ✔️✔️✔️
 
-⭐⭐⭐ Gold masterpoints Monday July 26th -– Sunday Aug. 1st ⭐⭐⭐w
+⭐⭐⭐ Gold masterpoints today in Stardust Week! ⭐⭐⭐
 
 💋💋💋 Red points today through Sunday August 22nd. 💋💋💋
 
