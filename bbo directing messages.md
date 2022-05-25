@@ -59,6 +59,8 @@ And they're off!
 🐈 🐱 🐆 🐧 🏇🏿
 🤣🤣🤣 🦃🦃🦃
 
+🐤🐤🐤 Thursdays! Thursdays! Thursdays! are back to online Bridge 4PM to 6PM starting this very week. 🐤🐤🐤
+
 ✋✋✋ Common game hands today ✋✋✋
 
 👏👏👏 Please be kind to your opponents, the robots and your partners too! 👏👏👏
