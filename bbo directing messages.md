@@ -59,7 +59,7 @@ And they're off!
 🐈 🐱 🐆 🐧 🏇🏿
 🤣🤣🤣 🦃🦃🦃
 
-🐤🐤🐤 Thursdays! Thursdays! Thursdays! are back to online Bridge 4PM to 6PM starting this very week. 🐤🐤🐤
+🐤🐤🐤 Thursdays! Thursdays! Thursdays! are back to online Bridge 4PM to 6PM. 🐤🐤🐤
 
 ✋✋✋ Common game hands today ✋✋✋
 
