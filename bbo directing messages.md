@@ -59,6 +59,8 @@ And they're off!
 🐈 🐱 🐆 🐧 🏇🏿
 🤣🤣🤣 🦃🦃🦃
 
+😴💤🛌 NAP hack is in. 😴💤🛌
+
 🐤🐤🐤 Thursdays! Thursdays! Thursdays! are back to online Bridge 4PM to 6PM. 🐤🐤🐤
 
 ✋✋✋ Common game hands today ✋✋✋

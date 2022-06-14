@@ -1526,3 +1526,27 @@ Include list snowbird improvement relative to dropping off the list after two mo
 Catchup disbursements once a year for online games to sweep small amounts away.
 
 Update to ACBL covid protocols?
+
+## 2022.06.13
+
+@@@ Face to face Red/Black questions -- "The awards will be 50% red and 50% black."Appendix IV Item 4." @@@
+
+@@@ Back to Virtual games. @@@
+
+July 11 next meeting, then August 8, September 12, Octoober 10, November 14, December 12.
+
+Longest Day topics.
+
+NAP qualifications. Greg stated Red/Black for everybody. Remember to change NAP to 0-500 for the baby games.
+
+Royal STaC is back aagain this year.
+
+Maximum overall award dropping to 2.50 for virtual games.
+
+BBO increased prices for ACBL games.
+
+Times on the table history have always been unreliable -- a known glitch in the system.
+
+For face to face help email the club department.
+
+Suggestion to limit alliances to clubs in the same district.
