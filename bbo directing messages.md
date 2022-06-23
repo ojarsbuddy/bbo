@@ -59,7 +59,11 @@ And they're off!
 🐈 🐱 🐆 🐧 🏇🏿
 🤣🤣🤣 🦃🦃🦃
 
+🪹🪹🪹 No ACBL masterpoints for the robot pair! 🪹🪹🪹
+
 😴💤🛌 NAP hack is in. 😴💤🛌
+
+🏆🏆🏆 Wasch & Greene take first in the Monday Aft. STaC Invitational competition! 🏆🏆🏆
 
 🐤🐤🐤 Thursdays! Thursdays! Thursdays! are back to online Bridge 4PM to 6PM. 🐤🐤🐤
 
