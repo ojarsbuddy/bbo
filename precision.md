@@ -38,6 +38,8 @@ Not forcing.
 
 Direct cue-bid that is not Micheals.
 
+Artificial.
+
 Artificial, Stayman.
 
 Shows !cs.
