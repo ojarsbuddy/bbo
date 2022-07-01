@@ -59,7 +59,9 @@ And they're off!
 🐈 🐱 🐆 🐧 🏇🏿
 🤣🤣🤣 🦃🦃🦃
 
-🇺🇸🇺🇸🇺🇸 We are open Monday, the 4th of July! 🇺🇸🇺🇸🇺🇸
+🎆🧨🎇 Come play bridge Monday the 4th of July! 🎆🧨🎇
+
+🇺🇸🇺🇸🇺🇸 Bridge open this Monday the 4th of July! 🇺🇸🇺🇸🇺🇸
 
 👨‍⚖️👨‍⚖️👨‍⚖️ Director here! How can I help? 👨‍⚖️👨‍⚖️👨‍⚖️
 
