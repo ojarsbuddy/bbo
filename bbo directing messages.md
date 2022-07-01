@@ -59,6 +59,14 @@ And they're off!
 🐈 🐱 🐆 🐧 🏇🏿
 🤣🤣🤣 🦃🦃🦃
 
+🇺🇸🇺🇸🇺🇸 We are open Monday, the 4th of July! 🇺🇸🇺🇸🇺🇸
+
+👨‍⚖️👨‍⚖️👨‍⚖️ Director here! How can I help? 👨‍⚖️👨‍⚖️👨‍⚖️
+
+🦆🦆🦆 Arranging a substitute. 🦆🦆🦆
+
+🌩️🌩️🌩️ in the area. 🌩️🌩️🌩️
+
 🪹🪹🪹 No ACBL masterpoints for the robot pair! 🪹🪹🪹
 
 😴💤🛌 NAP hack is in. 😴💤🛌
@@ -200,8 +208,6 @@ dummy excepted! declarer has that duty
 🎳🎳🎳 Just bowling along!! 🎳🎳🎳
 
 🧈🧈🧈 Smooth ride prior round! 🧈🧈🧈
-
-👨‍⚖️👨‍⚖️👨‍⚖️ Director here! How can I help? 👨‍⚖️👨‍⚖️👨‍⚖️
 
 🪵🪵🪵 Log out and log back in. 🪵🪵🪵
 
