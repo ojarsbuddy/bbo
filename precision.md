@@ -1,6 +1,6 @@
 # Updates to ACBL Alert Procedures
 
-Pre-Alert: We play a strong !c and 1!d could be short.
+Pre-Alert: We play a strong !c and 1!d could be short, as few as 2.
 
 ## Openings
 
