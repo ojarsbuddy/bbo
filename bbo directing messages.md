@@ -59,6 +59,8 @@ And they're off!
 🐈 🐱 🐆 🐧 🏇🏿
 🤣🤣🤣 🦃🦃🦃
 
+🎵 🎵 🎵 Alert! Players with robots will switch places if the robot wins the auction -- no rest for you! 🎵 🎵 🎵
+
 🎆🧨🎇 Come play bridge Monday the 4th of July! 🎆🧨🎇
 
 🇺🇸🇺🇸🇺🇸 Bridge open this Monday the 4th of July! 🇺🇸🇺🇸🇺🇸

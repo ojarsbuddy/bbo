@@ -1550,3 +1550,13 @@ Times on the table history have always been unreliable -- a known glitch in the 
 For face to face help email the club department.
 
 Suggestion to limit alliances to clubs in the same district.
+
+## 2022.07.11
+
+Human declarer, +hd+ hack, is in.
+
+Canceling Aug 8th meeting.
+
+Club Corner has the recordings of the meetings: https://acbl.org/club-corner/ click on Zoom Meeting Repository.
+
+Sitout counts as boards played.
