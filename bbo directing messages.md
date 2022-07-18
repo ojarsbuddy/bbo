@@ -59,11 +59,9 @@ And they're off!
 🐈 🐱 🐆 🐧 🏇🏿
 🤣🤣🤣 🦃🦃🦃
 
+🗿🗿🗿 Human Declarers Only! Your Robot partner and you switch places, making you Declarer when your side wins the Auction. 🗿🗿🗿
+
 🎵 🎵 🎵 Alert! Players with robots will switch places if the robot wins the auction -- no rest for you! 🎵 🎵 🎵
-
-🎆🧨🎇 Come play bridge Monday the 4th of July! 🎆🧨🎇
-
-🇺🇸🇺🇸🇺🇸 Bridge open this Monday the 4th of July! 🇺🇸🇺🇸🇺🇸
 
 👨‍⚖️👨‍⚖️👨‍⚖️ Director here! How can I help? 👨‍⚖️👨‍⚖️👨‍⚖️
 
@@ -77,7 +75,7 @@ And they're off!
 
 🏆🏆🏆 Wasch & Greene take first in the Monday Aft. STaC Invitational competition! 🏆🏆🏆
 
-🐤🐤🐤 Thursdays! Thursdays! Thursdays! are back to online Bridge 4PM to 6PM. 🐤🐤🐤
+🐤🐤🐤 Saturdays! Saturdays! Saturdays! are back to online Bridge 1PM to 3PM. 🐤🐤🐤
 
 ✋✋✋ Common game hands today ✋✋✋
 
@@ -100,6 +98,10 @@ And they're off!
 💻💻💻 If you have an ipad or another apple product, adjust the auto-lock setting to stay active longer on BBO. 💻💻💻
 
 ### Retired announcements
+
+🎆🧨🎇 Come play bridge Monday the 4th of July! 🎆🧨🎇
+
+🇺🇸🇺🇸🇺🇸 Bridge open this Monday the 4th of July! 🇺🇸🇺🇸🇺🇸
 
 💘 💋 🌹 Valentine’s Weekend February 12th & 13th 2x regular club points, 50% red, 50% black. 💘 💋 🌹
 
