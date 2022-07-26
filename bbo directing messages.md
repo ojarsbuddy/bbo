@@ -73,8 +73,6 @@ And they're off!
 
 😴💤🛌 NAP hack is in. 😴💤🛌
 
-🏆🏆🏆 Wasch & Greene take first in the Monday Aft. STaC Invitational competition! 🏆🏆🏆
-
 🐤🐤🐤 Saturdays! Saturdays! Saturdays! are back to online Bridge 1PM to 3PM. 🐤🐤🐤
 
 ✋✋✋ Common game hands today ✋✋✋
@@ -83,11 +81,11 @@ And they're off!
 
 📃📃📃 Convention cards -- please post 'em! 📃📃📃
 
-🤖🤖🤖 Have a Nice Tournament!! 🤖🤖🤖
-
 🏎️🏎️🏎️ Lead swiftly and well! 🏎️🏎️🏎️
 
 ⚠️⚠️⚠️ Remember to self-alert! ⚠️⚠️⚠️
+
+🤖🤖🤖 Have a Nice Tournament!! 🤖🤖🤖
 
 🐫🐫🐫 Today you play every other pair -- 2 boards per round. 🐫🐫🐫
 
@@ -98,6 +96,8 @@ And they're off!
 💻💻💻 If you have an ipad or another apple product, adjust the auto-lock setting to stay active longer on BBO. 💻💻💻
 
 ### Retired announcements
+
+🏆🏆🏆 Wasch & Greene take first in the Monday Aft. STaC Invitational competition! 🏆🏆🏆
 
 🎆🧨🎇 Come play bridge Monday the 4th of July! 🎆🧨🎇
 
