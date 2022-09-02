@@ -59,9 +59,9 @@ And they're off!
 🐈 🐱 🐆 🐧 🏇🏿
 🤣🤣🤣 🦃🦃🦃
 
-🗿🗿🗿 Human Declarers Only! Your Robot partner and you switch places, making you Declarer when your side wins the Auction. 🗿🗿🗿
+🏖️🏖️🏖️ We are open Monday Labor Day -- all weekend too 🏖️🏖️🏖️
 
-🎵 🎵 🎵 Alert! Players with robots will switch places if the robot wins the auction -- no rest for you! 🎵 🎵 🎵
+🗿🗿🗿 Human Declarers Only! Your Robot partner and you switch places, making you Declarer when your side wins the Auction. 🗿🗿🗿
 
 👨‍⚖️👨‍⚖️👨‍⚖️ Director here! How can I help? 👨‍⚖️👨‍⚖️👨‍⚖️
 
@@ -70,8 +70,6 @@ And they're off!
 🌩️🌩️🌩️ in the area. 🌩️🌩️🌩️
 
 🪹🪹🪹 No ACBL masterpoints for the robot pair! 🪹🪹🪹
-
-😴💤🛌 NAP hack is in. 😴💤🛌
 
 🐤🐤🐤 Saturdays! Saturdays! Saturdays! are back to online Bridge 1PM to 3PM. 🐤🐤🐤
 
@@ -91,11 +89,13 @@ And they're off!
 
 🐫🐫🐫 Today you play nine of eleven other pairs -- 2 boards per round. 🐫🐫🐫
 
+### Retired announcements
+
 🏃💨💨 To speed play consider Account ➡️ ➡️ Settings ➡️ ➡️ Autoplay singletons. 🏃💨💨
 
 💻💻💻 If you have an ipad or another apple product, adjust the auto-lock setting to stay active longer on BBO. 💻💻💻
 
-### Retired announcements
+🎵 🎵 🎵 Alert! Players with robots will switch places if the robot wins the auction -- no rest for you! 🎵 🎵 🎵
 
 🏆🏆🏆 Wasch & Greene take first in the Monday Aft. STaC Invitational competition! 🏆🏆🏆
 
