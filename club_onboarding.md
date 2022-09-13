@@ -1560,3 +1560,23 @@ Canceling Aug 8th meeting.
 Club Corner has the recordings of the meetings: https://acbl.org/club-corner/ click on Zoom Meeting Repository.
 
 Sitout counts as boards played.
+
+## 2022.09.12
+
+@@@ ACBLScore -- planning to update? @@@ The answer is no. There are things in the works.
+
+GNT is face to face only.
+
+Glitter points! (Silver, Red, Gold, Platinum)
+
+November two weeks upgraded club championships face to face. Carry over unused club championships and upgraded club championships from earlier.
+
+Club sanction renewals for 2023. Will be canceling clubs. Do we need to sanction online sessions? Will not need separate sanctions for virrtual and face to face games in the same sancioned session.
+
+### How many?
+
+We have been running "Welcome Back" games but have not been disciplined about keeping track of how many games have been run. What's the easiest way to get a count of how many we've already run.
+
+Chip, go to your results page... click on the little arrow to the right of RATING" and it will sort your games by their rating name. Scroll to Club Champ and Upgraded Club Champ … and you can easily view them. (Pay attention to the dates, because 2021 etc will be in there.)
+
+Next meeting October 10th.
