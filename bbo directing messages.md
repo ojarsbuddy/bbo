@@ -23,6 +23,7 @@ remember to modify the tournament, else the lists are not updated
 +howell+
 +hm18+
 +rounds5+
++rounds6+
 +nap+
 
 ## tournament beginning
