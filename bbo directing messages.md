@@ -60,21 +60,7 @@ And they're off!
 🐈 🐱 🐆 🐧 🏇🏿
 🤣🤣🤣 🦃🦃🦃
 
-🏖️🏖️🏖️ We are open Monday Labor Day -- all weekend too 🏖️🏖️🏖️
-
 🗿🗿🗿 Human Declarers Only! Your Robot partner and you switch places, making you Declarer when your side wins the Auction. 🗿🗿🗿
-
-👨‍⚖️👨‍⚖️👨‍⚖️ Director here! How can I help? 👨‍⚖️👨‍⚖️👨‍⚖️
-
-🦆🦆🦆 Arranging a substitute. 🦆🦆🦆
-
-🌩️🌩️🌩️ in the area. 🌩️🌩️🌩️
-
-🪹🪹🪹 No ACBL masterpoints for the robot pair! 🪹🪹🪹
-
-🐤🐤🐤 Saturdays! Saturdays! Saturdays! are back to online Bridge 1PM to 3PM. 🐤🐤🐤
-
-✋✋✋ Common game hands today ✋✋✋
 
 👏👏👏 Please be kind to your opponents, the robots and your partners too! 👏👏👏
 
@@ -84,13 +70,29 @@ And they're off!
 
 ⚠️⚠️⚠️ Remember to self-alert! ⚠️⚠️⚠️
 
+🐤🐤🐤 Saturdays! Saturdays! Saturdays! are back to online Bridge 1PM to 3PM. 🐤🐤🐤
+
 🤖🤖🤖 Have a Nice Tournament!! 🤖🤖🤖
+
+👨‍⚖️👨‍⚖️👨‍⚖️ Director here! How can I help? 👨‍⚖️👨‍⚖️👨‍⚖️
+
+🦆🦆🦆 Arranging a substitute. 🦆🦆🦆
+
+🌩️🌩️🌩️ in the area. 🌩️🌩️🌩️
+
+🪹🪹🪹 No ACBL masterpoints for the robot pair! 🪹🪹🪹
 
 🐫🐫🐫 Today you play every other pair -- 2 boards per round. 🐫🐫🐫
 
 🐫🐫🐫 Today you play nine of eleven other pairs -- 2 boards per round. 🐫🐫🐫
 
+✋✋✋ Common game hands today ✋✋✋
+
 ### Retired announcements
+
+🌹🌹🌹 Open Tuesday Sept. 27 1-3 (rather than the usual time) 🌹🌹🌹
+
+🏖️🏖️🏖️ We are open Monday Labor Day -- all weekend too 🏖️🏖️🏖️
 
 🏃💨💨 To speed play consider Account ➡️ ➡️ Settings ➡️ ➡️ Autoplay singletons. 🏃💨💨
 
