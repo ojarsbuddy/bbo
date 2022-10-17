@@ -88,6 +88,8 @@ And they're off!
 
 ✋✋✋ Common game hands today ✋✋✋
 
+🐭🤡🐯 Face to face bridge starts Monday the 10th. Please reserve spots with Bonnie. 🐭🤡🐯
+
 ### Retired announcements
 
 🌹🌹🌹 Open Tuesday Sept. 27 1-3 (rather than the usual time) 🌹🌹🌹

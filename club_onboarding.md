@@ -1580,3 +1580,15 @@ We have been running "Welcome Back" games but have not been disciplined about ke
 Chip, go to your results page... click on the little arrow to the right of RATING" and it will sort your games by their rating name. Scroll to Club Champ and Upgraded Club Champ … and you can easily view them. (Pay attention to the dates, because 2021 etc will be in there.)
 
 Next meeting October 10th.
+
+## 2022.10.17
+
+Special events schedule is returning in full 2023.
+
+Club sanction period is open. Sanction virtual games. Sanction the session not the game.
+
+Can go virtual when the physical facility is not available.
+
+ACBLscore no intention of replacing it. Masterpointing will be supported with Live of Clubs for options other than ACBLscore.
+
+Next meeting November 7th?
