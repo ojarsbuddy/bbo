@@ -50,6 +50,8 @@ Hail, Hail, the Gang's All Here
 
 And they're off!
 
+More people! More people!
+
 ## announcements after the start
 
 🎄 ☃️ 🎄 ☃️ 🎄
@@ -86,11 +88,11 @@ And they're off!
 
 🐫🐫🐫 Today you play nine of eleven other pairs -- 2 boards per round. 🐫🐫🐫
 
+### Retired announcements
+
 ✋✋✋ Common game hands today ✋✋✋
 
 🐭🤡🐯 Face to face bridge starts Monday the 10th. Please reserve spots with Bonnie. 🐭🤡🐯
-
-### Retired announcements
 
 🌹🌹🌹 Open Tuesday Sept. 27 1-3 (rather than the usual time) 🌹🌹🌹
 
