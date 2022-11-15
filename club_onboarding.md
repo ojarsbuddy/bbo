@@ -1592,3 +1592,19 @@ Can go virtual when the physical facility is not available.
 ACBLscore no intention of replacing it. Masterpointing will be supported with Live of Clubs for options other than ACBLscore.
 
 Next meeting November 7th?
+
+## 2022.11.14
+
+Special games in virtual clubs stopped. On the agenda next National.
+
+Royal STaC -- 6 left -- none for D9.
+
+Payments went out.
+
+Offices still compromised from the flood.
+
+Upgraded club championships on until Nov. 20th.
+
+Entry express issues.
+
+F2F going up month over month in slight increases. At 40% pre-pandemic for F2F.
