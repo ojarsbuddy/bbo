@@ -1608,3 +1608,13 @@ Upgraded club championships on until Nov. 20th.
 Entry express issues.
 
 F2F going up month over month in slight increases. At 40% pre-pandemic for F2F.
+
+## 2022.12.14
+
+Working on the online cheating backlog.
+
+Membership is down by 20,000 from the beginning of 2021.
+
+Number of face-to-face operating clubs is about 1600.
+
+One third of total ACBL income is member dues.
