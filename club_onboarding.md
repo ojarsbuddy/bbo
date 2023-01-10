@@ -1618,3 +1618,7 @@ Membership is down by 20,000 from the beginning of 2021.
 Number of face-to-face operating clubs is about 1600.
 
 One third of total ACBL income is member dues.
+
+## 2023.01.09
+
+Each district cn run two Royal STaC games in 2023.
