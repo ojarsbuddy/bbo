@@ -1622,3 +1622,11 @@ One third of total ACBL income is member dues.
 ## 2023.01.09
 
 Each district cn run two Royal STaC games in 2023.
+
+## 2023.06.19
+
+Discussion of individual games.
+
+Looked up referencdes to Greg Coles and found https://d21acbl.org/wp-content/uploads/Newsletter/2022/2022-12/2022-12_DistrictDirectorReport.pdf
+
+The 8 is enough game invented by Mary Oshlag.
