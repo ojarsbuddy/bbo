@@ -1630,3 +1630,9 @@ Discussion of individual games.
 Looked up referencdes to Greg Coles and found https://d21acbl.org/wp-content/uploads/Newsletter/2022/2022-12/2022-12_DistrictDirectorReport.pdf
 
 The 8 is enough game invented by Mary Oshlag.
+
+## 2023.08.07
+
+The N/18 upgrade -- is it indeed working for us?
+
+The NAP red/black is done for invitational clubs but is not shown on Live For Clubs.
