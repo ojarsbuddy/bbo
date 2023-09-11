@@ -1636,3 +1636,15 @@ The 8 is enough game invented by Mary Oshlag.
 The N/18 upgrade -- is it indeed working for us?
 
 The NAP red/black is done for invitational clubs but is not shown on Live For Clubs.
+
+## 2023.09.11
+
+GNT topics covered.
+
+Eight is Enough and Four is Enough discussion.
+
+Trying to get recruitment of lapsed members off the ground.
+
+Reach out to club@acbl.org to inquire about the remaining club championships.
+
+Go to the Zoom room for help from the ACBL.
