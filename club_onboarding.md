@@ -1648,3 +1648,13 @@ Trying to get recruitment of lapsed members off the ground.
 Reach out to club@acbl.org to inquire about the remaining club championships.
 
 Go to the Zoom room for help from the ACBL.
+
+## 2023.11.13
+
+BBO proprietary link discussion.
+
+Find a tournament go to bridgeconnect.games.
+
+Two Royal STaCs in 2024.
+
+Reminder about the Zoom room.
