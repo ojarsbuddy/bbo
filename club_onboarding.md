@@ -1658,3 +1658,9 @@ Find a tournament go to bridgeconnect.games.
 Two Royal STaCs in 2024.
 
 Reminder about the Zoom room.
+
+## 2024.01.15
+
+@@@ ACBLscore update or replacement? Still DBADD for some club information. Not going down a path to fix things.
+
+@@@ Team games F2F eligible for pop-ups? They think yes.
