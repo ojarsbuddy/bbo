@@ -1664,3 +1664,23 @@ Reminder about the Zoom room.
 @@@ ACBLscore update or replacement? Still DBADD for some club information. Not going down a path to fix things.
 
 @@@ Team games F2F eligible for pop-ups? They think yes.
+
+## 2024.02.12
+
+@@@ Team games F2F eligible for pop-ups? Pair games only. Maybe teams??
+
+@@@ Run all pop-ups? Yes!
+
+Silver ACBL-wide Senior pairs age 60+ or is it 65+ March 11th -- have to register. Jan. 1, 1960.
+
+Two weeks of club championships -- Mar 4-10, Nov 18-24.
+
+N/18 is actually working -- 18 boards gets 100% of the rating.
+
+Reminder of zoom room.
+
+Robert Maier about scoring issues (robert.maier@acbl.org).
+
+Recommend that anyone who is really interested in upping their director game should sign up for Local Sectional Director training. The resources are fantastic.
+
+Director training for them is listed here: there isn’t a current course, but if you contact Rui Marques you may be able to get the materials and take the test. https://www.acbl.org/portfolio/director-courses/
