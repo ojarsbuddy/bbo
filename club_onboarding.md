@@ -1684,3 +1684,11 @@ Robert Maier about scoring issues (robert.maier@acbl.org).
 Recommend that anyone who is really interested in upping their director game should sign up for Local Sectional Director training. The resources are fantastic.
 
 Director training for them is listed here: there isn’t a current course, but if you contact Rui Marques you may be able to get the materials and take the test. https://www.acbl.org/portfolio/director-courses/
+
+## 2024.04.08
+
+Two quarterly club championships per session is in effect.
+
+Meeting chat item -- One place local venue that frequently provide free space for bridge games are funeral homes, especially for seniors events
+
+@@ ACBL restratifies -- what does that mean
