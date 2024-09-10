@@ -1692,3 +1692,15 @@ Two quarterly club championships per session is in effect.
 Meeting chat item -- One place local venue that frequently provide free space for bridge games are funeral homes, especially for seniors events
 
 @@ ACBL restratifies -- what does that mean
+
+## 2024.09.09
+
+GNT flights have changed. Get the latest directions. https://www.acbl.org/gnt-qualifiers/ -- GNT LINK.
+
+Register for instant matchpoint game October 30th?
+
+Gamefile validating then shows the actual masterpoints awarded. Error messages will be showing up.
+
+Sectional director course -- @Terry https://www.acbl.org/portfolio/director-courses/#local
+
+@@@ ACBLScore -- planning to update? Database issue/masterpoint engine issue
