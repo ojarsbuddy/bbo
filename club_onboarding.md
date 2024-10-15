@@ -1703,4 +1703,26 @@ Gamefile validating then shows the actual masterpoints awarded. Error messages w
 
 Sectional director course -- @Terry https://www.acbl.org/portfolio/director-courses/#local
 
-@@@ ACBLScore -- planning to update? Database issue/masterpoint engine issue
+@@@ ACBLScore -- planning to update? Database issue/masterpoint engine issue. No clear answer given.
+
+## 2024.10.14
+
+@@ Jakob Kristinsson- Can you ask in tonight's meeting if the Swiss Teams in Virtual Clubs works in the Portal Scheduler. I would like to test it, if we are online on Dec 22nd and 29th. -- Answer is yes you can.
+
+GNT Instructions for Clubs
+e-Clubs: https://web2.acbl.org/documentLibrary/clubs/GNT_Instructions.pdf
+F2F Clubs: https://web2.acbl.org/documentLibrary/clubs/GNT_2024-25_F2F_Clubs.pdf
+
+No meeting in December.
+
+@@ ACBLscore -- eventually will have a plan but not now. ACBL is unable to change the code.
+
+@@ What is ClubHouse? -- Seems the information is on the ACBL website.
+
+Bridge War -- somewhere in Club Corner -- https://web2.acbl.org/documentLibrary/education/BridgeWar_HowTo.pdf -- https://web2.acbl.org/documentLibrary/education/BridgeWar_Flyer.pdf
+
+Local sectionals pay 80% silver and 20% black. Can use a certified local director to run the event.
+
+@@ ACBL live club championships confusion. -- Agreed with another participant it is confusing.
+
+https://web2.acbl.org/documentLibrary/clubs/Special%20Events/2025/OnlineCM.pdf
