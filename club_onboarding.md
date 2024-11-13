@@ -1726,3 +1726,7 @@ Local sectionals pay 80% silver and 20% black. Can use a certified local directo
 @@ ACBL live club championships confusion. -- Agreed with another participant it is confusing.
 
 https://web2.acbl.org/documentLibrary/clubs/Special%20Events/2025/OnlineCM.pdf
+
+## 2024.11.12
+
+Extra gold point series in December like a side series at a regional.
