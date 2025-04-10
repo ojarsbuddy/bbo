@@ -1730,3 +1730,13 @@ https://web2.acbl.org/documentLibrary/clubs/Special%20Events/2025/OnlineCM.pdf
 ## 2024.11.12
 
 Extra gold point series in December like a side series at a regional.
+
+## 2025.04.09
+
+@@@ Royal STaC points breakout does not show up on Live For Clubs. Despite the comminucations churn, I get the sense the ACBL will let this skate.
+
+@@@ All hacks on the combined schedule would be nice. message appears to be understood.
+
+@@@ ACBLscore upgrade status. Considering using other software. ACBL does not want to be a software supplier.
+
+Go to acbl.org/coc for conditions of contest.
