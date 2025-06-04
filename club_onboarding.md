@@ -1733,10 +1733,19 @@ Extra gold point series in December like a side series at a regional.
 
 ## 2025.04.09
 
-@@@ Royal STaC points breakout does not show up on Live For Clubs. Despite the comminucations churn, I get the sense the ACBL will let this skate.
+@@@ Royal STaC points breakout does not show up on Live For Clubs. Despite the communications churn, I get the sense the ACBL will let this skate.
 
 @@@ All hacks on the combined schedule would be nice. message appears to be understood.
 
 @@@ ACBLscore upgrade status. Considering using other software. ACBL does not want to be a software supplier.
 
 Go to acbl.org/coc for conditions of contest.
+
+## 2025.06.04
+
+Welcome to NAP season. New strats in effect. See https://web2.acbl.org/documentLibrary/clubs/NAP_instructions_2025-26.pdf.
+Use Open, 3000, 750.
+
+BBO contract under negotiation.
+
+@@@ All hacks on the 2025 Special Events Combined Schedule for all Platforms and 2025 Face-to-Face Special Event Schedule do not match, which would be nice for clearer comprehension. Perhaps this message is understood now?
